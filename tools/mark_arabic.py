@@ -224,6 +224,9 @@ def recheck(m, Q, report, page, decisions):
 
 # the author's signature and the colophon at the end of a sermon are Urdu, not quotations
 SIGNATURE = re.compile(r'^\(?(اشرف علی|حکیم الامت حضرت مولانا اشرف علی|بحمد اللہ تمت|بحمد اللہ تمام|بحمد اللہ تم$)')
+# Urdu lines that look Arabic to the word test: a bare citation "(البقرہ آیت نمبر ۴۴)", a Hijri date on its own line,
+# a sermon part heading, a Persian name gloss (added 2026-11-11, Vol 19)
+NOT_ARABIC = re.compile(r'^\(?[^()«»]*آیت نمبر[^()«»]*\)?$|^[^ ]+ [^ ]+ [۰-۹]+ھ$|^جزو دوم|^با صدق و صفا')
 
 
 def process(lines, Q, report, page, decisions=None):
@@ -240,7 +243,7 @@ def process(lines, Q, report, page, decisions=None):
             line = re.sub(r'«([^»]*)»', apply, line)
         # ayat marked while transcribing (﴿ref|text﴾) are checked like unmarked ones; the ref is the citation
         line = AYAH_MARK.sub(lambda m: recheck(m, Q, report, page, decisions), line)
-        if not line.strip() or line.startswith(('#', '[', '===')) or ANY_MARK.search(line) or SIGNATURE.match(line):
+        if not line.strip() or line.startswith(('#', '[', '===')) or ANY_MARK.search(line) or SIGNATURE.match(line) or NOT_ARABIC.match(line.strip()):
             out.append(line); continue
         words = line.split(' ')
         spans = arabic_runs(words)
