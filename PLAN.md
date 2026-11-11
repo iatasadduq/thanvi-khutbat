@@ -8,6 +8,17 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-11)
 
+- **Volume 18 (مفاسد گناہ) — done, awaiting the owner's review.** Folder `Vol 18 mafasid e gunah/`. PDF page =
+  printed page + 1; text printed pp. 17–448 (14 sermons: استخفاف المعاصی 17, ترک المعاصی 29, ترجیح المفسدہ علی المصلحہ 48,
+  مضار المعصیۃ 64, الجناح 85, الکاف 106, تیسیر الاصلاح 181, الجلاء للابتلاء 205, تفاضل الاعمال 268, حب العاجلہ 294,
+  تادیب المصیبۃ 340, ازالۃ الغفلۃ 352, مراقبۃ الارض 378, التہذیب 419), all transcribed (files 0018, 0030, 0049, 0065, 0086,
+  0107, 0182, 0206, 0269, 0295, 0341, 0353, 0379, 0420). `toc.tsv`: 8 rows set to the printed headings/pages, «تفسیر آیت»
+  (p. 434) made a heading (logged). mark_arabic: DIFFERS 0, CITE 0 (two split ayah words joined; three closing du'a
+  formulas kept in `quran-decisions.tsv`). Hadith check: `reports/vol18-hadith-check.md` (13 differs, all the book's
+  wording). All corrections are in `reports/vol18-corrections.md` (incl. two misplaced/swapped couplet glosses on
+  pp. 386 and 427, a dropped word in 9:24 on p. 396). More couplet, story and person terms in all volumes were unified.
+  Index built (2751 entries); site rebuilt (`site/v18.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/Buh4KW3L16J8NdAGsqP1u9
 - **Volume 17 (سنت ابراہیم، خطبات حج و قربانی) — done, awaiting the owner's review.** Folder `Vol 17 sunnat e ibrahim/`.
   PDF page = printed page + 1; text printed pp. 15–375 (13 sermons: سنت ابراہیم 15, تکمیل الانعام 54, عود العید 84,
   ترغیب الاضحیہ 92, الضحایا 103, السوال فی شوال 130, تعظیم الشعائر 164, الحج المبرور 183, تحصیل المرام 212, التہذیب 244,
@@ -277,13 +288,15 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 8. Update this file (Status, Next steps), commit, push, and continue with the next volume (no waiting).
    Preview watches (2026-11-07): a session can watch at most 10 artifacts for comments sent to Claude. Keep the 10
    newest volume previews watched: after publishing a new volume's preview, stop watching the oldest
-   (`ArtifactComments` watch `on: false`) and watch the new one. Now watched: Vols 8–17; Vols 1–7 are not.
+   (`ArtifactComments` watch `on: false`) and watch the new one. Now watched: Vols 9–18; Vols 1–8 are not.
 
 ## 4. Next steps
 
-- Volume 18: start per §3 (check the PDF in `scanned_version/`, page offset, transcribe the فہرست into `toc.tsv`,
-  extract half-page images to the scratchpad, then transcribe from the first sermon).
-- The owner will review `reports/vol02-corrections.md` … `reports/vol17-corrections.md` at leisure; revert anything the owner rejects.
+- Volume 19: PDF page = printed page + 1 (465 PDF pages); the فہرست (PDF 6–11, printed 5–10) is transcribed to the
+  scratchpad (`toc19.tsv`, 317 rows; 11 sermons from ذم ہویٰ p. 11 to عمل الذرہ p. 427); folder name to be set from the
+  title page; half-page images are in the scratchpad (`v19/h`). Next: create the folder and `toc.tsv`, then transcribe
+  from p. 11.
+- The owner will review `reports/vol02-corrections.md` … `reports/vol18-corrections.md` at leisure; revert anything the owner rejects.
 - Question answering (RAG) over the books: revised plan in `RAG_PLAN.md` (2026-11-06), awaiting the owner's go-ahead;
   transcription stays the priority.
 - Still open with the owner: the master heading list for the index (HANDOFF §2); creating the public site repo
