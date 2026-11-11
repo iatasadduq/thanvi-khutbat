@@ -1,4 +1,6 @@
-# Vol 19 (آداب انسانیت): corrections applied under the owner's rule
+# Volume 19 (آداب انسانیت) — corrections and decisions
 
-| page (printed) | kind | book had | applied | why |
+Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, book had, applied, why.
+
+| page | kind | book had | applied | why |
 |---|---|---|---|---|
