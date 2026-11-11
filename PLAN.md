@@ -14,8 +14,9 @@ Update the **Status** and **Next steps** sections at the end of every working se
   pages follow the text (6 spellings, 5 pages, one split heading joined, 17 missing rows such as «تمہید» added; all
   logged). mark_arabic: DIFFERS 0, CITE 0 (a p. 160 ayah placeholder filled from the scan). Hadith check:
   `reports/vol19-hadith-check.md` (26 differs, all the book's wording). Corrections: `reports/vol19-corrections.md`
-  (pp. 11–428 were corrected while transcribing in earlier sessions but not logged row by row). Index built; site
-  rebuilt (`site/v19.html`).
+  (pp. 11–428 were corrected while transcribing in earlier sessions but not logged row by row). Index built (2095
+  entries); site rebuilt (`site/v19.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/2aGLUwHUzPnSpUDSGHPbnz (not watched: this remote session cannot watch artifacts).
 - **2026-11-11 tool fixes:** (1) `build_index.py`: from Vol 17 on, terms end in their sub-heading (`| تمہید`) instead of
   a heading/main label; that text had become part of the index head and split one term into many heads. It is now
   dropped (Vol 17: 2636 → 2352 entries, Vol 18: 2751 → 2493; indexes rebuilt). (2) `mark_arabic.py` skips bare
