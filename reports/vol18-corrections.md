@@ -11,3 +11,5 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | 105 | ayah | «وَاَنۡزَلَ عَلَيۡكُمۡ مِّنۢ بَعۡدِ الۡغَمِّ اَمَنَةً» | ﴿ثُمَّ اَنۡزَلَ عَلَيۡكُمۡ مِّنۭۡ بَعۡدِ الۡغَمِّ اَمَنَةً﴾ (3:154) | the verse opens ثُمَّ اَنۡزَلَ; the book's translation «پھر اللہ تعالیٰ نے» follows ثم |
 | 124 | footnote | footnote to «طوبیٰ لمن رآنی» | Musnad Ahmad 3:155 and Mishkat 6281 kept; the Kanz al-Ummal and Qurtubi numbers are noted as unreadable | the digits are blurred in the scan; none were guessed |
 | 134 | footnote | footnote to «ان تعبد اللہ کانک تراہ» | book names kept; numbers noted as unreadable | the digits are blurred in the scan; none were guessed |
+| 136 | ayah | «قُلۡ سِيۡرُوۡا فِي الۡاَرۡضِ فَانۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ الۡمُكَذِّبِيۡنَ» | ﴿6:11﴾ in full: «…ثُمَّ انۡظُرُوۡا…» | the wording قل سیروا … المکذبین is 6:11, which reads ثم انظروا; فانظروا belongs to other verses (3:137, 16:36) |
+| 136 | ayah | «فِیۡمَا کَسَبَتۡ» | ﴿فَبِمَا كَسَبَتۡ﴾ (42:30) | Indo-Pak reading of the verse |
