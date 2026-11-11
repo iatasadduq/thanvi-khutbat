@@ -14,3 +14,4 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | 136 | ayah | «قُلۡ سِيۡرُوۡا فِي الۡاَرۡضِ فَانۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ الۡمُكَذِّبِيۡنَ» | ﴿6:11﴾ in full: «…ثُمَّ انۡظُرُوۡا…» | the wording قل سیروا … المکذبین is 6:11, which reads ثم انظروا; فانظروا belongs to other verses (3:137, 16:36) |
 | 136 | ayah | «فِیۡمَا کَسَبَتۡ» | ﴿فَبِمَا كَسَبَتۡ﴾ (42:30) | Indo-Pak reading of the verse |
 | 153 | word | «ابلیس مشتق ہے تلبیس سے۔ تلبیس کے معنی ہیں ناامید کرنا» | «ابلاس سے … ابلاس کے معنی» | ابلیس is derived from ابلاس (to despair), which is the meaning the passage gives; تلبیس (deceiving) does not mean ناامید کرنا |
+| 189–191 | order | the last line of p. 189 and the first paragraph of p. 190 belong after «محروم ہی رہا» on p. 191 (they continue the old man’s confession) | kept in printed order; no text moved | the scan shows the pages in this order; moving text across pages would break the page mapping |
