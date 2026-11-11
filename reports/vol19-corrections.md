@@ -11,3 +11,4 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | 270 (pr. 269) | gloss | the gloss of «بشنوید اے دوستاں…» is printed after the second couplet «نقد حال خویش…» and covers both | kept as printed | both couplets are glossed together |
 | 302 (pr. 301) | repeated line | «اس کو سکوت کی اجازت ہے باقی جس کو ہمت ہو اس کو سکوت کی اجازت نہ ہو۔» is followed by the same sentence again ending «…اجازت نہیں ہے» | kept as printed | a typesetting repeat; nothing is lost |
 | 304 (pr. 303) | couplet | «اوخدا واندا خت برروئے علی» | «او خدو انداخت بر روئے علی» | misprint; the Masnavi line (and its use elsewhere in the series) reads خدو (spittle); restored |
+| 325 (pr. 324) | hadith word | «فمیعنہا» | «فمنعنیہا» | misprint; the hadith (Muslim, kitab al-fitan) reads فمنعنیہا «and He withheld it from me», which the book itself glosses «یہ دعا قبول نہیں ہوئی» |
