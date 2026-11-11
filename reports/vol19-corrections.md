@@ -5,3 +5,5 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | page | kind | book had | applied | why |
 |---|---|---|---|---|
 | 25 (pr. 24) | name | «خلیفہ وقت معتصم باللہ» then «معتضد» in the rest of the story | kept as printed; indexed under «خلیفہ معتضد باللہ» | the story names the caliph معتضد four times; معتصم once is a slip of the printed text |
+| 140 (pr. 138) | couplet | second couplet printed «ماہر چہ خواندہ ایم فراموش کردہ ایم / الاحدیث یا کہ ترکرارمی تکرا» | «ما ہر چہ خواندہ ایم فراموش کردہ ایم / الا حدیث یار کہ تکرار می کنیم» | garbled typesetting; the couplet is well known and already indexed in this form |
+| 141 (pr. 139) | displaced text | the story of حضرت ابو الدرداءؓ breaks off after one line and is followed by the gloss of the couplet on p. 138 («یعنی ہم کو خدا تعالیٰ کی باتوں کے سوا کچھ یاد نہیں رہا…») | kept in printed order; the story is indexed from its context (p. 137–138: حضرت سلمانؓ stopping him, «ان لنفسک علیک حقا») | the typesetter moved lines; the text has no lost words to restore |
