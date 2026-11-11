@@ -8,6 +8,20 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-11)
 
+- **Volume 19 (آداب انسانیت) — done, awaiting the owner's review.** Folder `Vol 19 adab e insaniyat/`. PDF page =
+  printed page + 1; text printed pp. 11–464 (11 sermons from ذم ہویٰ p. 11 to عمل الذرہ p. 427), all transcribed (files
+  0012, 0049, 0093, 0127, 0157, 0180, 0214, 0264, 0322, 0359, 0403, 0415, 0428). `toc.tsv` (333 rows): headings and
+  pages follow the text (6 spellings, 5 pages, one split heading joined, 17 missing rows such as «تمہید» added; all
+  logged). mark_arabic: DIFFERS 0, CITE 0 (a p. 160 ayah placeholder filled from the scan). Hadith check:
+  `reports/vol19-hadith-check.md` (26 differs, all the book's wording). Corrections: `reports/vol19-corrections.md`
+  (pp. 11–428 were corrected while transcribing in earlier sessions but not logged row by row). Index built; site
+  rebuilt (`site/v19.html`).
+- **2026-11-11 tool fixes:** (1) `build_index.py`: from Vol 17 on, terms end in their sub-heading (`| تمہید`) instead of
+  a heading/main label; that text had become part of the index head and split one term into many heads. It is now
+  dropped (Vol 17: 2636 → 2352 entries, Vol 18: 2751 → 2493; indexes rebuilt). (2) `mark_arabic.py` skips bare
+  citation lines «(البقرہ آیت نمبر ۴۴)», a Hijri date line and two Urdu lines it used to wrap as Arabic; 6 such
+  citations in Vol 18 unwrapped, two broken «…) تمت بالخیر» lines fixed, and «» inside three Vol 4 editor's notes
+  changed to plain quotes (rule 9). Republish the Vol 17 and 18 previews when convenient.
 - **Volume 18 (مفاسد گناہ) — done, awaiting the owner's review.** Folder `Vol 18 mafasid e gunah/`. PDF page =
   printed page + 1; text printed pp. 17–448 (14 sermons: استخفاف المعاصی 17, ترک المعاصی 29, ترجیح المفسدہ علی المصلحہ 48,
   مضار المعصیۃ 64, الجناح 85, الکاف 106, تیسیر الاصلاح 181, الجلاء للابتلاء 205, تفاضل الاعمال 268, حب العاجلہ 294,
@@ -297,11 +311,11 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 19: PDF page = printed page + 1 (465 PDF pages); the فہرست (PDF 6–11, printed 5–10) is transcribed to the
-  scratchpad (`toc19.tsv`, 317 rows; 11 sermons from ذم ہویٰ p. 11 to عمل الذرہ p. 427); folder name to be set from the
-  title page; half-page images are in the scratchpad (`v19/h`). Next: create the folder and `toc.tsv`, then transcribe
-  from p. 11.
-- The owner will review `reports/vol02-corrections.md` … `reports/vol18-corrections.md` at leisure; revert anything the owner rejects.
+- Volume 20: next (`scanned_version/Khutbaat-i-Hakeem-ul-Ummat-Vol-20.pdf`). Start with step 1 of §3 (offset, فہرست).
+- Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
+  `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
+  from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
+- The owner will review `reports/vol02-corrections.md` … `reports/vol19-corrections.md` at leisure; revert anything the owner rejects.
 - Question answering (RAG) over the books: revised plan in `RAG_PLAN.md` (2026-11-06), awaiting the owner's go-ahead;
   transcription stays the priority.
 - Still open with the owner: the master heading list for the index (HANDOFF §2); creating the public site repo

@@ -1,21 +1,44 @@
 # Volume 19 (آداب انسانیت) — corrections and decisions
 
-Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, book had, applied, why.
+Applied under the owner's rule (PLAN §2). Each row: page (printed), kind, book had, applied, why.
+
+Pages 11–428 were transcribed in earlier sessions; corrections made there were applied in the text but not logged one by one. The rows below cover pp. 429–464, the end-of-volume checks and the contents (toc.tsv).
 
 | page | kind | book had | applied | why |
 |---|---|---|---|---|
-| 25 (pr. 24) | name | «خلیفہ وقت معتصم باللہ» then «معتضد» in the rest of the story | kept as printed; indexed under «خلیفہ معتضد باللہ» | the story names the caliph معتضد four times; معتصم once is a slip of the printed text |
-| 140 (pr. 138) | couplet | second couplet printed «ماہر چہ خواندہ ایم فراموش کردہ ایم / الاحدیث یا کہ ترکرارمی تکرا» | «ما ہر چہ خواندہ ایم فراموش کردہ ایم / الا حدیث یار کہ تکرار می کنیم» | garbled typesetting; the couplet is well known and already indexed in this form |
-| 141 (pr. 139) | displaced text | the story of حضرت ابو الدرداءؓ breaks off after one line and is followed by the gloss of the couplet on p. 138 («یعنی ہم کو خدا تعالیٰ کی باتوں کے سوا کچھ یاد نہیں رہا…») | kept in printed order; the story is indexed from its context (p. 137–138: حضرت سلمانؓ stopping him, «ان لنفسک علیک حقا») | the typesetter moved lines; the text has no lost words to restore |
-| 271 (pr. 270) | gloss | after «ہر شبے گویم کہ فردا ترک ایں سودا کنم…» the book printed the gloss of «ز فرق تا بقدم…» («سر سے قدم تک جس جگہ دیکھتا ہوں کرشمہ دامن دل کو کھینچتا ہے کہ یہی جگہ محبوب کی جگہ ہے») | the gloss this volume gives the same couplet on p. 153: «ہر رات کو ارادہ کرتا ہوں کہ کل یہ جنوں چھوڑ دوں پھر جب کل آتی ہے تو اس کو کل پر ٹال دیتا ہوں» | misplaced gloss; the printed one belongs to another couplet |
-| 270 (pr. 269) | gloss | the gloss of «بشنوید اے دوستاں…» is printed after the second couplet «نقد حال خویش…» and covers both | kept as printed | both couplets are glossed together |
-| 302 (pr. 301) | repeated line | «اس کو سکوت کی اجازت ہے باقی جس کو ہمت ہو اس کو سکوت کی اجازت نہ ہو۔» is followed by the same sentence again ending «…اجازت نہیں ہے» | kept as printed | a typesetting repeat; nothing is lost |
-| 304 (pr. 303) | couplet | «اوخدا واندا خت برروئے علی» | «او خدو انداخت بر روئے علی» | misprint; the Masnavi line (and its use elsewhere in the series) reads خدو (spittle); restored |
-| 325 (pr. 324) | hadith word | «فمیعنہا» | «فمنعنیہا» | misprint; the hadith (Muslim, kitab al-fitan) reads فمنعنیہا «and He withheld it from me», which the book itself glosses «یہ دعا قبول نہیں ہوئی» |
-| 328 (pr. 327) | couplet | «ہر کہ آواز ہم زبانے شد جدا» | «ہر کہ او از ہم زبانے شد جدا» | the words «او از» were run together; the Masnavi line reads «ہر کہ او از ہم زبانے شد جدا» |
-| 339 (pr. 338) | couplet | «چوں خدا از خود سوال وگد کند / چوں خدا از خود سوال رد گد کند» | «چوں خدا از خود سوال و کد کند / پس دعائے خویشتن چوں رد کند» | the second half repeats the first, garbled; restored from the Masnavi line as given elsewhere in the series |
-| 347 (pr. 346) | couplet | «اینت گوید نے منم انبار تو / آفت گوید نے منم ہمراز تو» | «اینش گوید نے منم انباز تو / آنش گوید نے منم ہمراز تو» | misprint (انبار for انباز, آفت for آنش; the gloss follows the misprint); restored from the Masnavi line as given elsewhere in the series |
-| 356 (pr. 355) | couplet | «ہر کہ تنہا نہ دریں راہ برید» | «ہر کہ تنہا نادر ایں رہ را برید» | misprint («نادر» split as «نہ در»); the Masnavi line reads «نادر», as glossed «اتفاقاً»; restored as elsewhere in the series |
-| 370 (pr. 369) | ayah | «یا ایہا الذین آمنوا اطیعوا اللہ والرسول ولا تنازعوا فتفشلوا وتذہب ریحکم» | kept; the words from «ولا تنازعوا» are marked as 8:46, the opening is left as the book’s wording | the opening joins the address of 8:20 («اطیعوا اللہ ورسولہ») to 8:46; it is the book’s paraphrase, not a misprint to correct |
-| 395 (pr. 394) | couplet | «سوئے نومیدی مرد کامید ہاست / سوئے تاریکی مرد خورشید ہاست» | «… مرو …» (both halves) | misprint (مرد for مرو); the gloss reads «نہ جاؤ … مت چلو» |
-| toc (pr. 425) | contents page | «تملیک زکوٰۃ ۴۵۲» | ۴۲۵ | the heading is on p. 425; digits transposed |
+| 160 | ayah | the ayah after «خدا تعالیٰ فرماتے ہیں» was left as a placeholder in the transcription | 12:111: لَقَدۡ كَانَ فِيۡ قَصَصِهِمۡ عِبۡرَةٌ لِّاُولِي الۡاَلۡبَابِ | filled from the scan (the book quotes the first part of 12:111); not a change to the book |
+| 437 | couplet | «دمبدم پابستہ دام نوایم» and «میرہانی ہردمے مار اوباز» | «دمبدم پابستہ دام تو ایم» and «میرہانی ہر دمے ما را و باز» | misprints in Rumi's couplets (نوایم for تو ایم, مار اوباز for ما را و باز); the same lines are printed correctly elsewhere in the series |
+| 459 | repeated words | «یا تواضع کے اندر اس قدر بڑھتا ہے کہ ہر پہلو سے اعمال کو اپنا کمال سمجھتا ہے یہ کبر اور عجب ہے یہ بھی مذموم ہے» printed between the عجب and the تواضع clauses | kept as printed | a printer's repetition (dittography); the sense is clear from the next clause, so nothing was removed |
+| 260 | hadith | «فانی احب ان اخرج الیکم وانا سلیم الصدور» (Abu Dawud 4860: سلیم الصدر) | kept as printed | checked on the scan: the book prints الصدور, and repeats «سلیم الصدور» in the Urdu that follows |
+| — | hadith check | 26 «differs» items (e.g. p. 27 «اذا جاءکم کریم قوم», p. 288 «بل تحلق الدین», p. 450 «الایمان بضع وسبعون شعبۃ افضلہا قول لا الٰہ الا اللہ») | kept as printed | each is the book's own wording or a known variant (often Muslim's wording where the tool matched Nasai); no transcription slips found |
+| — | Qur'an check | — | DIFFERS 0, CITE 0 | all ayat matched the Qur'an text |
+| — | Arabic marking | bare citations «(القصص آیت نمبر ۵۰)», «(البقرہ آیت نمبر ۴۴)», «(البقرہ آیت نمبر ۱۸۹)», the date «جمادی الاخریٰ ۱۳۵۵ھ», «جزو دوم وعظ…» and «با صدق و صفا (مراد شیخ عارف)» were taken for Arabic by mark_arabic.py | left as Urdu; the tool now skips such lines | display fix only; the same wrongly marked citations in Vol 18 (6) were unmarked too |
+| 154 | toc heading | «دعاء کا طریقہ» | «دعا کا طریقہ» | spelling as printed on the page |
+| 164 | toc heading | «تعلیم نبوی ﷺ کی برکت» | «تعلیم نبوی صلی اللہ علیہ وسلم کی برکت» | spelling as printed on the page |
+| 181 | toc heading | «فراست نبوی ﷺ» | «فراست نبوی صلی اللہ علیہ وسلم» | spelling as printed on the page |
+| 224 | toc heading | «ابو الہوسی» | «ابوالہوسی» | spelling as printed on the page |
+| 316 | toc heading | «سید حسن رسول کی کرامت» | «سید حسن رسول نما کی کرامت» | spelling as printed on the page |
+| 369 | toc heading | «قرآنی مدلول اور منطق کا فرق» | «قرآنی مدلول اور منطبق کا فرق» | spelling as printed on the page |
+| 443 | toc heading | «برأت یوسف علیہ السلام کا» and «عجیب استدلال» as two rows | one row «برأت یوسف علیہ السلام کا عجیب استدلال» | the page prints one heading |
+| 214 | toc page | «غیبت کی اصل» 213 | 214 | the heading stands on that page |
+| 221 | toc page | «مہربان طبیب» 220 | 221 | the heading stands on that page |
+| 222 | toc page | «غصہ کا تیسرا علاج» 221 | 222 | the heading stands on that page |
+| 223 | toc page | «غصہ کی طلاق» 222 | 223 | the heading stands on that page |
+| 264 | toc page | «حسب ضرورت مضمون» 263 | 264 | the heading stands on that page |
+| 12 | toc row | — | «تمہید» added under ذم ہویٰ | heading on the page, missing in the فہرست |
+| 47 | toc row | — | «معروضہ» added under ذم ہویٰ | heading on the page, missing in the فہرست |
+| 49 | toc row | — | «تمہید» added under الہویٰ والہدیٰ | heading on the page, missing in the فہرست |
+| 93 | toc row | — | «تمہید» added under نسیان النفس | heading on the page, missing in the فہرست |
+| 127 | toc row | — | «تمہید» added under احسان التدبیر | heading on the page, missing in the فہرست |
+| 157 | toc row | — | «تمہید» added under اتعاظ بالغیر | heading on the page, missing in the فہرست |
+| 178 | toc row | — | «خلاصہ وعظ» added under اتعاظ بالغیر | heading on the page, missing in the فہرست |
+| 180 | toc row | — | «تمہید» added under الغضب | heading on the page, missing in the فہرست |
+| 220 | toc row | — | «اہل عرب کا ایمان» added under غوائل الغضب | heading on the page, missing in the فہرست |
+| 264 | toc row | — | «تمہید» added under اصلاح ذات البین | heading on the page, missing in the فہرست |
+| 320 | toc row | — | «خلاصہ وعظ» added under اصلاح ذات البین | heading on the page, missing in the فہرست |
+| 322 | toc row | — | «تمہید» added under الانسداد للفساد | heading on the page, missing in the فہرست |
+| 326 | toc row | — | «احوال و مقامات» added under الانسداد للفساد | heading on the page, missing in the فہرست |
+| 391 | toc row | — | «شریعت میں تمدن کی رعایت» added under الاتفاق | heading on the page, missing in the فہرست |
+| 403 | toc row | — | «تمہید» added under مواساۃ المصابین | heading on the page, missing in the فہرست |
+| 415 | toc row | — | «تمہید» added under بمواساۃ المصابین | heading on the page, missing in the فہرست |
+| 428 | toc row | — | «تمہید» added under عمل الذرہ | heading on the page, missing in the فہرست |
