@@ -13,3 +13,4 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | 134 | footnote | footnote to «ان تعبد اللہ کانک تراہ» | book names kept; numbers noted as unreadable | the digits are blurred in the scan; none were guessed |
 | 136 | ayah | «قُلۡ سِيۡرُوۡا فِي الۡاَرۡضِ فَانۡظُرُوۡا كَيۡفَ كَانَ عَاقِبَةُ الۡمُكَذِّبِيۡنَ» | ﴿6:11﴾ in full: «…ثُمَّ انۡظُرُوۡا…» | the wording قل سیروا … المکذبین is 6:11, which reads ثم انظروا; فانظروا belongs to other verses (3:137, 16:36) |
 | 136 | ayah | «فِیۡمَا کَسَبَتۡ» | ﴿فَبِمَا كَسَبَتۡ﴾ (42:30) | Indo-Pak reading of the verse |
+| 153 | word | «ابلیس مشتق ہے تلبیس سے۔ تلبیس کے معنی ہیں ناامید کرنا» | «ابلاس سے … ابلاس کے معنی» | ابلیس is derived from ابلاس (to despair), which is the meaning the passage gives; تلبیس (deceiving) does not mean ناامید کرنا |
