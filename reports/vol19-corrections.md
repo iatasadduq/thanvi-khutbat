@@ -13,3 +13,4 @@ Applied under the owner's rule (PLAN §2). Each row: page (PDF; printed), kind, 
 | 304 (pr. 303) | couplet | «اوخدا واندا خت برروئے علی» | «او خدو انداخت بر روئے علی» | misprint; the Masnavi line (and its use elsewhere in the series) reads خدو (spittle); restored |
 | 325 (pr. 324) | hadith word | «فمیعنہا» | «فمنعنیہا» | misprint; the hadith (Muslim, kitab al-fitan) reads فمنعنیہا «and He withheld it from me», which the book itself glosses «یہ دعا قبول نہیں ہوئی» |
 | 328 (pr. 327) | couplet | «ہر کہ آواز ہم زبانے شد جدا» | «ہر کہ او از ہم زبانے شد جدا» | the words «او از» were run together; the Masnavi line reads «ہر کہ او از ہم زبانے شد جدا» |
+| 339 (pr. 338) | couplet | «چوں خدا از خود سوال وگد کند / چوں خدا از خود سوال رد گد کند» | «چوں خدا از خود سوال و کد کند / پس دعائے خویشتن چوں رد کند» | the second half repeats the first, garbled; restored from the Masnavi line as given elsewhere in the series |
