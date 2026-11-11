@@ -6,8 +6,21 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ---
 
-## 1. Status (2026-11-08)
+## 1. Status (2026-11-11)
 
+- **Volume 17 (سنت ابراہیم، خطبات حج و قربانی) — done, awaiting the owner's review.** Folder `Vol 17 sunnat e ibrahim/`.
+  PDF page = printed page + 1; text printed pp. 15–375 (13 sermons: سنت ابراہیم 15, تکمیل الانعام 54, عود العید 84,
+  ترغیب الاضحیہ 92, الضحایا 103, السوال فی شوال 130, تعظیم الشعائر 164, الحج المبرور 183, تحصیل المرام 212, التہذیب 244,
+  روح العج والثج 274, روح الارواح 315, احکام حج 359 (a رسالہ by عبد الکریم گمتھلوی, with ذوالحجہ, عید and قربانی
+  rulings)), all transcribed (files 0016, 0055, 0085, 0093, 0104, 0131, 0165, 0184, 0213, 0245, 0275, 0316, 0360).
+  The page after 375 is a publisher's advertisement, not transcribed. `toc.tsv` (339 rows): 17 headings and 30 start
+  pages changed to follow the printed pages, a missing «تمہید» row added (logged). mark_arabic: DIFFERS 0, CITE 0 (the
+  closing «وآخر دعوانا…» on p. 83 written as a quoted dua, logged). Hadith check: `reports/vol17-hadith-check.md`
+  (15 differs reviewed, all the book's wording or already indexed as variants). All corrections applied under the
+  owner's rule are in `reports/vol17-corrections.md` (incl. pp. 208–209 carrying misplaced الضحایا text, kept as
+  printed). More couplet, story and person terms in all volumes were unified. Index built (2636 entries); site
+  rebuilt (`site/v17.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/Fg647oVDjbFxeezgtzwc8w
 - **Volume 16 (برکات رمضان) — done, awaiting the owner's review.** Folder `Vol 16 barakat e ramazan/`. PDF page =
   printed page + 1; text printed pp. 14–464 (11 sermons: تطہیر رمضان 14, تقلیل المنام بصورۃ القیام 37, روح القیام 71,
   روح الصیام 115, روح الافطار 164 (with the عرضداشت «نور الصدور» pp. 209–214), روح الجوار 215, فی خیر مقدم 266,
@@ -264,14 +277,13 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 8. Update this file (Status, Next steps), commit, push, and continue with the next volume (no waiting).
    Preview watches (2026-11-07): a session can watch at most 10 artifacts for comments sent to Claude. Keep the 10
    newest volume previews watched: after publishing a new volume's preview, stop watching the oldest
-   (`ArtifactComments` watch `on: false`) and watch the new one. Now watched: Vols 7–16; Vols 1–6 are not.
+   (`ArtifactComments` watch `on: false`) and watch the new one. Now watched: Vols 8–17; Vols 1–7 are not.
 
 ## 4. Next steps
 
-- Volume 17 (سنت ابراہیم, خطبات حج و قربانی; `Vol 17 sunnat e ibrahim/`): PDF page = printed page + 1; `toc.tsv` done
-  from the فہرست (337 rows, 13 sermons); half-page images in the scratchpad `v17/h/`. Transcribing: سنت ابراہیم started
-  (`page-notes/0016.txt`, pp. 15–22 done). Continue from p. 23; log corrections in `reports/vol17-corrections.md`.
-- The owner will review `reports/vol02-corrections.md` … `reports/vol16-corrections.md` at leisure; revert anything the owner rejects.
+- Volume 18: start per §3 (check the PDF in `scanned_version/`, page offset, transcribe the فہرست into `toc.tsv`,
+  extract half-page images to the scratchpad, then transcribe from the first sermon).
+- The owner will review `reports/vol02-corrections.md` … `reports/vol17-corrections.md` at leisure; revert anything the owner rejects.
 - Question answering (RAG) over the books: revised plan in `RAG_PLAN.md` (2026-11-06), awaiting the owner's go-ahead;
   transcription stays the priority.
 - Still open with the owner: the master heading list for the index (HANDOFF §2); creating the public site repo
