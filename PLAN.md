@@ -133,6 +133,11 @@ Update the **Status** and **Next steps** sections at the end of every working se
   (`site/v08.html`). Preview (private artifact, republish to the same URL):
   https://claude.ai/artifact/LfqwJPk7zXvchNGH8BAKGj
 
+- **2026-11-11 fix (Vols 9, 14–19):** from Vol 14 on, `آیت:` terms had been written as `C:V` numbers (e.g. `2:197`),
+  which the index sorted to the end and did not merge with surah-name heads. All 1113 were rewritten to the canonical
+  surah name with Urdu digits (`البقرة ۱۹۷`), indexes of Vols 9 and 14–18 and the site rebuilt. New terms are written
+  the same way (convert with `cv2name.py`-style rewrite before commit). Republish the previews when convenient.
+
 - **2026-10-31 tool fix (all volumes):** `build_index.py` did not know surahs 88–114 or some name spellings
   (طٰہٰ، الاسراء، صٓ، المؤمن …), so their ayat sorted to the end of the ayat index. The surah list is now complete,
   names are matched without harakat, and every `آیت:` term in all volumes was rewritten to one canonical surah name
