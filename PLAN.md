@@ -8,6 +8,16 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-12)
 
+- **Volume 21 (تدبیر و توکل) — done, awaiting the owner's review.** Folder `Vol 21 tadbeer o tawakkul/`. PDF page =
+  printed page + 1; text printed pp. 17–456 (12 sermons: اجابۃ الداعی 17, التوکل 58, الاصابۃ فی معنی الاجابۃ 97,
+  الفصل والانفصال 115, شفاء العی 163, العمل للعلماء 195, التیسیر للتیسیر 228, القرض 275, الشکر 318, تحقیق الشکر 342,
+  التنبہ 378, فوائد الصحبۃ 402), all transcribed (files 0018, 0059, 0098, 0116, 0164, 0196, 0229, 0276, 0319, 0343,
+  0379, 0403). `toc.tsv` regenerated from the page headings (524 rows; changes logged). mark_arabic: DIFFERS 0, CITE 0;
+  8 Arabic lines marked; Persian couplet words added to `mark_arabic.py` (Vols 19–20 output unchanged). Hadith check:
+  `reports/vol21-hadith-check.md` (19 differs, all the book's wording). Corrections: `reports/vol21-corrections.md`
+  (several "confirm" rows for the owner, e.g. 31:31 for the الشکر khutba ayah, ذوالنون «بصری», «گوں» p. 455). Index
+  built (2120 entries); site rebuilt (`site/v21.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/RooyXSnd9Fx4TDHu8m431A (not watched: remote session).
 - **Volume 20 (حقوق الزوجین) — done, awaiting the owner's review.** Folder `Vol 20 huqooq uz zaujain/`. PDF page =
   printed page + 1; text printed pp. 11–440 (10 sermons: حقوق البیت 11, الکمال فی الدین للنساء 52, رفع الالتباس 111,
   اصلاح النساء 141, کساء النساء 162, العاقلات الغافلات 243, عضل الجاہلیہ 288, الاستماع والاتباع 312, منازعۃ الہویٰ 350,
@@ -324,13 +334,12 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 21 (تدبیر و توکل): in progress. Folder `Vol 21 tadbeer o tawakkul/`. PDF page = printed page + 1; text printed
-  pp. 17–456 (12 sermons, start pages in `toc.tsv`, 520 rows from the فہرست). Done: اجابۃ الداعی pp. 17–57 (file 0018), التوکل pp. 58–96 (file 0059), الاصابۃ فی معنی الاجابۃ pp. 97–114 (file 0098), الفصل والانفصال pp. 115–162 (file 0116), شفاء العی pp. 163–194 (file 0164), العمل للعلماء pp. 195–227 (file 0196), التیسیر للتیسیر pp. 228–274 (file 0229), القرض pp. 275–317 (file 0276), الشکر pp. 318–341 (file 0319), تحقیق الشکر pp. 342–377 (file 0343), التنبہ pp. 378–401 (file 0379), فوائد الصحبۃ pp. 402–456 (file 0403). Transcription of all 12 sermons complete (the earlier "13" was a miscount; toc.tsv has 12).
-  Next: the Vol 21 finishing sequence (mark_arabic + hadith check, corrections, toc alignment, index, add to VOLUMES, build, publish preview). Corrections log: `reports/vol21-corrections.md`.
+- Volume 22: next. Find its PDF in `scanned_version/`, create the folder, extract the فہرست into `toc.tsv`, then
+  transcribe sermon by sermon as for Vol 21.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
-- The owner will review `reports/vol02-corrections.md` … `reports/vol20-corrections.md` at leisure; revert anything the owner rejects.
+- The owner will review `reports/vol02-corrections.md` … `reports/vol21-corrections.md` at leisure; revert anything the owner rejects.
 - Question answering (RAG) over the books: revised plan in `RAG_PLAN.md` (2026-11-06), awaiting the owner's go-ahead;
   transcription stays the priority.
 - Still open with the owner: the master heading list for the index (HANDOFF §2); creating the public site repo

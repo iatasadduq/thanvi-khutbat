@@ -47,3 +47,11 @@
 | 407 (pr. 406) | heading | «دربار نبوی ﷺ میں مشرکین کی ایک لایعنی درخواست» | written «حضرت نبوی میں…» as in toc.tsv | page reads «دربار نبوی», فہرست «حضرت نبوی»; fix at toc alignment |
 | 456 (pr. 455) | text | «اسی طرح گوں کے پاس ایک وقت جا کر دیکھا» | kept as printed | probably «بزرگوں» with the first letters lost — confirm |
 | 456 (pr. 455) | couplet | «مادح خورشید مداح خوداست / کہ دو چشم ونامرد است» | canonical term «مادح خورشید مداح خود است / کہ دو چشمم روشن و نامرد نیست» (Masnavi) with بصورت | second half garbled in print |
+
+## toc.tsv alignment (2026-11-12)
+
+toc.tsv now follows the printed page headings (524 rows; was 520):
+- Added rows the فہرست omits: «شان نزول» p. 18, «حضرت خواجہ باقی باللہ اور ایک بھٹیارہ کی حکایت» p. 133, «امراض جسمانی وروحانی میں تعلق» p. 178; «عبد کامل، تکدر کا خاصہ» (p. 68) split into the two printed headings.
+- Page numbers moved to where the heading is printed: «معمولی چیز بھی اللہ تعالیٰ سے مانگو» 109→111, «قبض کی بے شمار حکمتیں» 189→190, «صرف ترجمہ دیکھنا کافی نہیں» and «عورتوں کا مضامین…» 233→234, «حق اور ناحق کا مدار دلائل پر ہے» 311→312, التنبہ «تمہید» 379→380.
+- Wording set to the page: «اکل پرستی» → «عقل پرستی» (p. 42), «جناب رسول اللہ…» → «جناب رسول…» (p. 20), «حضور صلی اللہ علیہ وسلم کی جامعیت» → «حضور علیہ الصلوٰۃ والسلام کی جامعیت» (p. 24), «حضور اکرم کی مدینہ…» → «حضور اکرم صلی اللہ علیہ وسلم کی مدینہ…» (p. 359), and spacing/abbreviation differences (pp. 22, 75, 118, 119, 156, 213, 264, 303, 304, 314, 321, 413).
+- Three headings first written from the فہرست now follow the page: p. 382 one heading «ہر چیز کی ایک خاصیت حق تعالیٰ شانہ کی حکمت ہے» (the فہرست splits it); p. 391 «بعد وصال امتیوں…» (فہرست: «احمقوں»); p. 406 «دربار نبوی میں…» (فہرست: «حضرت نبوی»). The earlier rows for these three above are superseded.
