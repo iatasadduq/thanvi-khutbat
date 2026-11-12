@@ -15,3 +15,4 @@
 | 119 (pr. 118) | misprint | «فرض نہ مارنا» | kept as printed | probably «قرض نہ مارنا» (not withholding a debt) |
 | 129 (pr. 128) | heading | «سلوک جذب سے مقدس ہے» (page and فہرست) | «سلوک جذب سے مقدم ہے» | misprint: the text under it says «سلوک ہی جذب سے مقدم ہے»; toc.tsv to be changed to match |
 | 129 (pr. 128) | wording | «جو اجتہاد یعنی جذب» | kept as printed | the ayah has «یجتبی»; «اجتہاد» is a misprint for «اجتباء» |
+| 130 (pr. 129) | gloss | «تحقیق کلام منہ میں ہوتا ہے… زبان کو منہ اس لئے نشان بنایا ہے» as the Urdu of «ان الکلام لفی الفؤاد» | kept as printed | «منہ» is a slip for «دل» (الفؤاد); the sense of the verse is that speech is in the heart |
