@@ -23,3 +23,8 @@
 | 342 (pr. 341) | ayah | «يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا» | ﴿2:286﴾ «لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا وُسۡعَهَا» | the print drops the opening «لا», which its own gloss translates («تکلیف نہیں دیتے») |
 | 349 (pr. 348) | book name | «چنانچہ برسیر میں لکھا ہے» | kept as printed («بر سیر») | the book is not identified; possibly a misprint for «تفسیر» or another title — the owner may know |
 | 362 (pr. 361) | ayah | «وَالْكٰظِمِيْنَ الْغَيْظَ» | ﴿3:134﴾ «وَالۡكٰظِمِيۡنَ الۡغَيۡظَ» | the print once spells «الْكَظِمِيْنَ» without the alif; reference spelling used |
+| 365 (pr. 364) | hadith | «لعلیک بخاصۃ لفسک ودع امر العوام» | «فَعَلَيْكَ بِخَاصَّةِ نَفْسِكَ وَدَعْ اَمْرَ الْعَوَامِّ» | misprinted letters (ل for ف, ل for ن); the same hadith is quoted correctly on p. 358 |
+| 365 (pr. 364) | text | «ذی رائے برایہ کی اب کثرت ہو گئی ہے کہ دن میں بھی لگاتے ہیں» | kept as printed | «دن» is probably «دین» (cf. p. 363: «دین کے اندر بھی کہتے ہیں کہ ہماری رائے یہ ہے») |
+| 366 (pr. 365) | Arabic | «نَحْنُ فَطِيْع الشح واطوى» glossed «ہم نفس پرستی کی اطاعت کرتے ہیں» | «نَحْنُ نُطِيْعُ الشُّحَّ وَالْهَوٰى» | misprinted letters; the phrase answers «اطیعوا» and echoes «شحا مطاعا وہوی متبعا» |
+| 366 (pr. 365) | text | «ان کے بارے میں دَعْ پر عمل ہے دفیہ قلیل» | kept as printed | «دفیہ قلیل» is unclear (perhaps «وفیہ قلیل», "and they are few") |
+| 368 (pr. 367) | text | «اطیعوا کا ماخذ طلوع ہے اور طوع کے معنی رغبت ہے» | kept as printed | «طلوع» is a misprint for «طوع» (the next words explain «طوع») |
