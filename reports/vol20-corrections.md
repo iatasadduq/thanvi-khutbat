@@ -26,3 +26,4 @@
 | 304 (pr. 303) | footnote | «لا طاعۃ لمخلوق فی معصیۃ الخالق» cited to «سنن النسائی ۶: ۶۲، المستدرک ۲: ۱۶۸، مشکوٰۃ: ۶۰۹۵» | kept as printed | the same footnote is printed for «انہا لصغیرۃ» on p. 293; it appears to have been repeated here by mistake |
 | 306 (pr. 305) | missing text | «حدیث میں ہے:» is followed directly by «اور اگر جنگل میں کوئی نہیں…» | kept as printed | the hadith text after «حدیث میں ہے» appears to have dropped in the print; nothing was supplied |
 | 319 (pr. 318) | displaced lines | «کہ حضور کچھ تو کھا لینا چاہئے فاقہ بہتر نہیں…» follows the Sa'di couplets but continues the p. 317 point about eating on others' advice | kept in printed order | a paragraph appears to have been set out of place; the text is not reordered |
+| 329 (pr. 328) | repeated word | «جیسے کسی نے ایک مصرع کہا تھا ؎ کہا تھا ؎» | kept as printed | line-break repetition by the scribe; the text stays as printed |
