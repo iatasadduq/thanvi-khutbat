@@ -5,7 +5,7 @@
 | 64 (pr. 63) | ayah | «فاصبر … فانک باعیننا» | the «فانک باعیننا» fragment marked as ﴿52:48﴾; «فاصبر» left as Urdu-quoted word | 52:48 reads «واصبر لحکم ربک فانک باعیننا»; «فاصبر» is the author's paraphrase |
 | 97 (pr. 96) | text | «اس حالت میں ہم کو اپنے انکشاف پر اطمینان و اعتماد کرنا چاہیے» | kept as printed | the argument requires «نہ کرنا چاہیے»; «نہ» probably dropped |
 | 108 (pr. 107) | ayah | «ان المنافقین یخدعون اللہ وہو خادعہم» glossed «بلاشبہ منافقین دوزخ کے سب سے نیچے کے طبقہ میں جائیں گے» | ﴿4:142﴾ kept as printed (text from the reference) | the gloss belongs to 4:145 («فی الدرک الاسفل من النار»); the print quotes 4:142 instead |
-| 141 (pr. 140) | citation | «ہو اہل التقویٰ واہل المغفرۃ (القیمۃ: ۵۶)» | kept as printed | the ayah is 74:56 (المدثر); to be corrected with an editor's note at the Qur'an-check step |
+| 141 (pr. 140) | citation | «ہو اہل التقویٰ واہل المغفرۃ (القیمۃ: ۵۶)» | «(المدثر: ۵۶)» + editor's note | the ayah is 74:56; سورۃ القیامۃ has only 40 ayat (owner's Vol 1 rule for wrong citations) |
 | 162 (pr. 161) | hadith | «اِنَّ الْعَبْدَ يُحْرَمُ الرِّزْقَ بِخَطِيْئَةٍ يَعْلَمُهَا» glossed «اور بندہ اپنے گناہ کو جانتا ہے» | kept as printed | Musnad Ahmad 5:280 reads «لَيُحْرَمُ … بِخَطِيْئَةٍ يَعْمَلُهَا» (a sin he commits); the print and its gloss read «يعلمها» |
 | 163 (pr. 162) | ayah | «وَلَنُحْيِيَنَّهٗ حَيٰوةً طَيِّبَةً» | ﴿16:97﴾ text from the reference («فَلَنُحۡيِيَنَّهٗ») | the print has «و» for «ف» |
 | 165 (pr. 164) | ayah | «وَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ اَيَّامٍ نَحِسَاتٍ» | ﴿41:16﴾ text from the reference («فَاَرۡسَلۡنَا») | the print has «و» for «ف» |
@@ -38,3 +38,4 @@
 | 394 (pr. 393) | verse | «کہ از دوزک ہمی سرزد چوما» | «کہ از دوزخ ہمی لرزد چو ما» | misprints («دوزک» for «دوزخ», «سرزد» for «لرزد»); the gloss on the page reads «دوزخ ہماری طرح لرزتی ہے» |
 | 398 (pr. 397) | verse | «تبرس از آہ مظلوماں … اجابت ازوحق بہر استقبال می آید» | «بترس از آہ مظلوماں … اجابت از در حق بہر استقبال می آید» | misprints («تبرس» for «بترس», «ازوحق» for «از در حق»); the well-known couplet and the gloss («اللہ کی طرف سے») |
 | 399 (pr. 398) | text | «ادھر در دروازہ بند ہوگا» | kept as printed | probably «ادھر دم/در» — the phrase is unclear in the print |
+| 18 (pr. 17) | citation | «وَيٰقَوْمِ اسْتَغْفِرُوْا رَبَّكُمْ … (ہود: ۴۴)» | «(ہود: ۵۲)» + editor's note | CITE in the Qur'an check: the words are 11:52 (owner's Vol 1 rule for wrong citations) |
