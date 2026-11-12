@@ -12,3 +12,4 @@
 | 156 (pr. 155) | text | «گو قلت کے ساتھ ہے مگر یہ قلت اس درجہ کے اعتبار سے ہے جو عورتوں میں بھی ہے» printed twice | kept as printed | typesetting repeat |
 | 158 (pr. 157) | text | «میں نے کہا سچ ہے ان کید کن عظیم (ان کا عذاب کم نہ کیا جائے گا)» | kept as printed | the bracketed translation belongs to the next verse (2:162); misplaced in print |
 | 161 (pr. 160) | text | «آ کر ایک ؟؟ مدد دیا جائے» | kept as printed | the word before «مدد» is printed as «؟؟» (unclear in the source) |
+| 176 (pr. 175) | text | date line of شرف المکالمہ: print is badly smudged; read as «۹ جمادی الاخریٰ سنہ ۱۳۳۰» | kept my best reading | day and year uncertain (could be ۶ / ۱۳۴۰); check against another edition |
