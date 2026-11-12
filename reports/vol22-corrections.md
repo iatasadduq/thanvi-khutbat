@@ -28,3 +28,4 @@
 | 327 (pr. 326) | text | «ایک وہ جو بدوں سے سمجھ میں آ سکتی ہیں اور ایک وہ جو بدون سے سمجھ میں نہیں آ سکتیں» | kept as printed | a word («سماع» / «سنے») appears to have dropped after «بدوں» / «بدون» |
 | 332 (pr. 331) | text | «یہ فریب اول وے کر شیطان کے احکام سمجھنا شروع کا کام نہیں» | kept as printed | the clause is garbled in print (perhaps «یہ فریب… سمجھنا ہر شخص کا کام نہیں») |
 | 333 (pr. 332) | text | «لہٰذا یہ قلب موضوع ہے کہ تو آدم کو سجدہ کرے» | kept as printed | «قلب موضوع» seems garbled; the sense is «یہ قلب موضوع (الٹی بات) ہے» |
+| 353 (pr. 352) | text | «یہ امین کے واسطے نبی ہیں۔ (یعنی جاہلوں کے واسطے)» | kept as printed | «امین» is evidently «امیین» (the unlettered) misprinted |
