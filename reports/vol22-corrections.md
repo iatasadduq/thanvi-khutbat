@@ -36,3 +36,4 @@
 | 396 (pr. 395) | verse | «چوں چنیں کارے ست اندر رہ ترا / لب چوں می آید اے ابلہ ترا» | kept as printed | the verse elsewhere reads «خواب چوں می آید»; the following sentence about sleep confirms «خواب»; «لب» is a misprint |
 | 402 (pr. 401) | text | «کسی زن کو ہو جائے تو اور بات ہے»؛ «احوال و احوال آخرت» | kept as printed | «زن» is probably «ظن»-related misprint (perhaps «کسی کو»); «احوال و احوال» a repeat |
 | 409 (pr. 408) | ayah | «…کالذین اوتوا الکتب من قبلہم فقست قلوبہم… قد بینا لکم الآیات ان کنتم تعقلون» | ﴿57:16-17﴾ text from the reference | the print omits «فطال علیہم الامد», has «من قبلہم» for «من قبل» and «ان کنتم تعقلون» for «لعلکم تعقلون»; reference text used |
+| 414 (pr. 413) | ayah | «لا تزکوا انفسکم ہو اعلم بمن اتقی» | ﴿53:32﴾ text from the reference (فَلَا تُزَكُّوۡا…) | the print drops the «ف» of «فلا»; footnote «کنز العمال: ۳۵۹۹۳» attached to the ayah kept as printed |
