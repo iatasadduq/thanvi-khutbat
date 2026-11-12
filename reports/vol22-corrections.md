@@ -23,3 +23,4 @@
 | 267 (pr. 266) | text | «علم کناسی ارذل ہوگا اور علم خلافت اشرف» | kept as printed | «خلافت» is probably a misprint for «فلاحت» (the comparison is between كناسی and فلاحت) |
 | 300 (pr. 299) | text | «عاشق کی تو شان یہی ہے کہ ملامت سے ڈرے» | kept as printed | the next sentence («عاشق کو تو ملامت میں لطف آیا کرتا ہے») requires «نہ ڈرے»; probably a dropped «نہ» |
 | 304 (pr. 303) | Arabic verse | «هوى ناقتي خلفي وقد امي لهوى / والى واياها لمختلفان» | kept as printed | the known verse reads «هوى ناقتي خلفي وقدّامي الهوى / فإني وإياها لمختلفان»; the print garbles «وقدامي الهوى» and «فإني» |
+| 309 (pr. 308) | text | «تو اس کی تیاری میں کتنے دن لگتے ہیں حالانکہ وہ علم ہی کیا ہے جس کا امتحان آپ دینا چاہتے ہیں» printed twice | kept as printed | typesetting repeat |
