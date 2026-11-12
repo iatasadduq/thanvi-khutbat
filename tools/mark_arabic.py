@@ -20,7 +20,7 @@ from arabic import Quran, norm, ratio, cited_surah, SURAHS
 URDU_CHARS = re.compile('[ٹڈڑںےگچپژ]')
 URDU_WORDS = set(('ہے ہیں کہ میں کی کا کے سے نے کو اور یہ وہ تو بھی نہ تھا تھے تھی پر جو اس جس کس ایک یعنی '
               # Persian (couplets are not Arabic)
-              'اند است ست را می بر از چہ چو چوں نیست باشد شد شود کند کرد در ایں آں تا باید خود ہمہ گر اگر بود نبود باش').split())
+              'اند است ست را می بر از چہ چو چوں نیست باشد شد شود کند کرد در ایں آں تا باید خود ہمہ گر اگر بود نبود باش میان').split())
 HARAKAT = re.compile(r'[ً-ْٰ]')
 VOWEL = re.compile(r'[\u064E-\u0652]')      # fatha..sukun: Urdu words (تعالیٰ، فوراً) never carry these
 ANY_MARK = re.compile(r'[﴿﴾«»]')
@@ -223,10 +223,12 @@ def recheck(m, Q, report, page, decisions):
 
 
 # the author's signature and the colophon at the end of a sermon are Urdu, not quotations
-SIGNATURE = re.compile(r'^\(?(اشرف علی|حکیم الامت حضرت مولانا اشرف علی|بحمد اللہ تمت|بحمد اللہ تمام|بحمد اللہ تم$)')
+SIGNATURE = re.compile(r'^\(?(ظفر احمد عفا اللہ عنہ|اشرف علی|حکیم الامت حضرت مولانا اشرف علی|بحمد اللہ تمت|بحمد اللہ تمام|بحمد اللہ تم$)')
 # Urdu lines that look Arabic to the word test: a bare citation "(البقرہ آیت نمبر ۴۴)", a Hijri date on its own line,
-# a sermon part heading, a Persian name gloss (added 2026-11-11, Vol 19)
-NOT_ARABIC = re.compile(r'^\(?[^()«»]*آیت نمبر[^()«»]*\)?$|^[^ ]+ [^ ]+ [۰-۹]+ھ$|^جزو دوم|^با صدق و صفا')
+# a sermon part heading, a Persian name gloss (added 2026-11-11, Vol 19); a date line «۲۱ رمضان المبارک ۱۳۴۷ھ»,
+# a sermon's alternative title «الملقب بہ …», a Persian couplet line with Urdu letters (2026-11-12, Vol 20)
+NOT_ARABIC = re.compile(r'^\(?[^()«»]*آیت نمبر[^()«»]*\)?$|^[^ ]+ [^ ]+ [۰-۹]+ھ$|^جزو دوم|^با صدق و صفا'
+                        r'|^[۰-۹]+/? [^0-9۰-۹]+ [۰-۹]+ ?(ھ|ہجری)$|^الملقب بہ|^[^«»]* / [^«»]*[ٹڈڑںےگچپژ][^«»]*$|^[^«»]*[ٹڈڑںےگچپژ][^«»]* / [^«»]*$')
 
 
 def process(lines, Q, report, page, decisions=None):
