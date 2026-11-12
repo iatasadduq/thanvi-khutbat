@@ -19,3 +19,5 @@
 | 246 (pr. 245) | text | «اگر خدا تعالیٰ بندہ کے ساتھ بالکل استغفار کا برتاؤ بھی کریں تب بھی ان کے شایان شان ہے کیونکہ وہ غنی ہیں» | kept as printed | the sense requires «استغنا» (indifference); «استغفار» is probably a misprint |
 | 254 (pr. 253) | text | «…تو اس کو یہ پہچان لیتا ہے اور دوسرے لباس میں آتا ہے تو اس کو سچی محبت ہے تو اس کو پہچان لیتا ہے اور دوسرے لباس میں آتا ہے تب بھی اسکو پہچان لیتا ہے» | kept as printed | typesetting repeat |
 | 256 (pr. 255) | hadith | «فَعَلَيْهِ جَلْدٌ تَامٌّ وَتَغْرِيْبُ عَامٍ» | kept as printed | Bukhari has «جلد مائة»; the print (and its translation «پورے کوڑے») has «تام» |
+| 267 (pr. 266) | text | «مثلاً علم کا معلوم جدا ہوتا ہے، جس علم کا معلوم جس درجہ میں ہے اسی درجہ میں علم بھی ہوتا ہے» printed twice | kept as printed | typesetting repeat |
+| 267 (pr. 266) | text | «علم کناسی ارذل ہوگا اور علم خلافت اشرف» | kept as printed | «خلافت» is probably a misprint for «فلاحت» (the comparison is between كناسی and فلاحت) |
