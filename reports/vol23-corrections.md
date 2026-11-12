@@ -32,3 +32,4 @@
 | 378 (pr. 377) | hadith | «وکان رسول اللہ ﷺ کثیرا لتبسم ومار ای ضاحکا مستجمعا» | «… كَثِيْرًا لَّتَبَسُّمِ وَمَا رُئِيَ ضَاحِكًا مُّسْتَجْمِعًا» | «ومار ای» is a split word («وما رئی»); «کثیرا لتبسم» kept as printed (the sources read «کثیر التبسم») |
 | 378 (pr. 377) | text | «(…ہنستے ہوئے نہیں دیکھا) قطہ اور خوف کا یہ اثر تھا» | kept as printed | «قطہ» is unclear (perhaps «غرض»/«فقط») |
 | 380 (pr. 379) | text | p. 378 ends «… سب سے ہی زیادہ کام کرنے والے تھے ہمارے» and p. 379 begins «لئے تو اگر کوئی حدیث ضعیف بھی آ جاتی تو حلال و حرام کی تمیز نہ رہتی» | kept as printed | the two do not join; a line or more seems to be missing between the pages |
+| 382 (pr. 381) | Arabic verse | «لو کان ہذا لعلم یدرک باطنی» | «لَوْ كَانَ هٰذَا الْعِلْمُ يُدْرَكُ بِالْمُنٰى» | misprint; the line is quoted as «یدرک بالمنی» in the other volumes and the gloss («صرف تمنا … سے») translates «بالمنی» |
