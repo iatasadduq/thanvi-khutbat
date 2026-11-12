@@ -14,3 +14,4 @@
 | 161 (pr. 160) | text | «آ کر ایک ؟؟ مدد دیا جائے» | kept as printed | the word before «مدد» is printed as «؟؟» (unclear in the source) |
 | 176 (pr. 175) | text | date line of شرف المکالمہ: print is badly smudged; read as «۹ جمادی الاخریٰ سنہ ۱۳۳۰» | kept my best reading | day and year uncertain (could be ۶ / ۱۳۴۰); check against another edition |
 | 184 (pr. 183) | text | «حضرت حسین رضی اللہ تعالیٰ عنہ کا ادھر سے گزر ہوا» in the حبیب عجمی story | kept as printed | the usual version of this story has حسن بصری (Habib Ajami’s teacher); probably «حسن» misprinted as «حسین»; for the owner to check |
+| 211 (pr. 210) | text | «حضرت سلیم چشتی… شاہجہان بادشاہ» | kept as printed | historically Shaikh Salim Chishti (d. 1572) was contemporary with Akbar, not Shah Jahan; the print has «شاہجہان»; the toc heading also says «شاہجہان»; for the owner to check |
