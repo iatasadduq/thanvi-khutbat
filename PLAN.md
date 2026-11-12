@@ -325,8 +325,8 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 ## 4. Next steps
 
 - Volume 21 (تدبیر و توکل): in progress. Folder `Vol 21 tadbeer o tawakkul/`. PDF page = printed page + 1; text printed
-  pp. 17–456 (13 sermons, start pages in `toc.tsv`, 520 rows from the فہرست). Done: اجابۃ الداعی pp. 17–57 (file 0018), التوکل pp. 58–96 (file 0059), الاصابۃ فی معنی الاجابۃ pp. 97–114 (file 0098), الفصل والانفصال pp. 115–119 so far (file 0116).
-  Next: continue الفصل والانفصال from printed p. 120 (pdf 121) in `0116.txt`. Corrections log: `reports/vol21-corrections.md`.
+  pp. 17–456 (13 sermons, start pages in `toc.tsv`, 520 rows from the فہرست). Done: اجابۃ الداعی pp. 17–57 (file 0018), التوکل pp. 58–96 (file 0059), الاصابۃ فی معنی الاجابۃ pp. 97–114 (file 0098), الفصل والانفصال pp. 115–162 (file 0116).
+  Next: شفاء العی from printed p. 163 (pdf 164) in a new `0164.txt`. Corrections log: `reports/vol21-corrections.md`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
