@@ -8,3 +8,4 @@
 | 141 (pr. 140) | citation | «ہو اہل التقویٰ واہل المغفرۃ (القیمۃ: ۵۶)» | kept as printed | the ayah is 74:56 (المدثر); to be corrected with an editor's note at the Qur'an-check step |
 | 162 (pr. 161) | hadith | «اِنَّ الْعَبْدَ يُحْرَمُ الرِّزْقَ بِخَطِيْئَةٍ يَعْلَمُهَا» glossed «اور بندہ اپنے گناہ کو جانتا ہے» | kept as printed | Musnad Ahmad 5:280 reads «لَيُحْرَمُ … بِخَطِيْئَةٍ يَعْمَلُهَا» (a sin he commits); the print and its gloss read «يعلمها» |
 | 163 (pr. 162) | ayah | «وَلَنُحْيِيَنَّهٗ حَيٰوةً طَيِّبَةً» | ﴿16:97﴾ text from the reference («فَلَنُحۡيِيَنَّهٗ») | the print has «و» for «ف» |
+| 165 (pr. 164) | ayah | «وَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ اَيَّامٍ نَحِسَاتٍ» | ﴿41:16﴾ text from the reference («فَاَرۡسَلۡنَا») | the print has «و» for «ف» |
