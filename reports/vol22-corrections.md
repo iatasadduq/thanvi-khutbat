@@ -29,3 +29,4 @@
 | 332 (pr. 331) | text | «یہ فریب اول وے کر شیطان کے احکام سمجھنا شروع کا کام نہیں» | kept as printed | the clause is garbled in print (perhaps «یہ فریب… سمجھنا ہر شخص کا کام نہیں») |
 | 333 (pr. 332) | text | «لہٰذا یہ قلب موضوع ہے کہ تو آدم کو سجدہ کرے» | kept as printed | «قلب موضوع» seems garbled; the sense is «یہ قلب موضوع (الٹی بات) ہے» |
 | 353 (pr. 352) | text | «یہ امین کے واسطے نبی ہیں۔ (یعنی جاہلوں کے واسطے)» | kept as printed | «امین» is evidently «امیین» (the unlettered) misprinted |
+| 356 (pr. 355) | text | «اے محمد صلی اللہ علیہ وسلم ابدا افضل ما صلی علی احد من خلقہ» | kept as printed | the Arabic is incomplete as printed (the expected wording of Jibril’s reassurance is «یا محمد انک رسول اللہ حقا»); kept verbatim |
