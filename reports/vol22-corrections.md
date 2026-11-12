@@ -10,3 +10,4 @@
 | 131 (pr. 130) | text | «اسی طرح ہم درحقیقت اس قابل نہیں کہ ہماری طرف کوئی شے بروئے ملک قرار دی جاتی ہے» followed by the same clause ending «…منسوب کی جائے» | kept as printed | typesetting repeat |
 | 137 (pr. 136) | text | «پس ہر مقصود کے لیے ان دو چیزوں کے لیے ان دو چیزوں کی ضرورت مسلم ہوگی» | kept as printed | phrase «ان دو چیزوں کے لیے» repeated in print |
 | 156 (pr. 155) | text | «گو قلت کے ساتھ ہے مگر یہ قلت اس درجہ کے اعتبار سے ہے جو عورتوں میں بھی ہے» printed twice | kept as printed | typesetting repeat |
+| 158 (pr. 157) | text | «میں نے کہا سچ ہے ان کید کن عظیم (ان کا عذاب کم نہ کیا جائے گا)» | kept as printed | the bracketed translation belongs to the next verse (2:162); misplaced in print |
