@@ -20,3 +20,4 @@
 | 336 (pr. 335) | text | «اس پر فرمایا تھا کہ میں نے ایک وعظ میں یہی بات لکھ دی ہے کہ سینہ میں بلغم کے سوا کچھ نہیں» printed twice in a row (the second time ending «کیا رکھا ہے») | kept as printed | a doubled line (dittography) in the print |
 | 337 (pr. 336) | ayah | «وَجَاءَ بِعِجْلٍ» glossed «بچھڑے کا گوشت بھنا ہوا لائے» | ﴿11:69﴾ «جَآءَ بِعِجۡلٍ» | «بھنا ہوا» is «حنیذ» of 11:69 («فَمَا لَبِثَ اَنۡ جَآءَ بِعِجۡلٍ حَنِيۡذٍ»); 51:26 has «فَجَآءَ بِعِجۡلٍ سَمِيۡنٍ»; no ayah has «وجاء» |
 | 341 (pr. 340) | heading | «قرب امور مامور بہ میں امور اختیار کو دخل نہیں» | kept as printed | the text under it says «قرب میں امور غیر اختیاریہ کو دخل نہیں»; the heading probably dropped «غیر» |
+| 342 (pr. 341) | ayah | «يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا» | ﴿2:286﴾ «لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا وُسۡعَهَا» | the print drops the opening «لا», which its own gloss translates («تکلیف نہیں دیتے») |
