@@ -25,3 +25,4 @@
 | 304 (pr. 303) | Arabic verse | «هوى ناقتي خلفي وقد امي لهوى / والى واياها لمختلفان» | kept as printed | the known verse reads «هوى ناقتي خلفي وقدّامي الهوى / فإني وإياها لمختلفان»; the print garbles «وقدامي الهوى» and «فإني» |
 | 309 (pr. 308) | text | «تو اس کی تیاری میں کتنے دن لگتے ہیں حالانکہ وہ علم ہی کیا ہے جس کا امتحان آپ دینا چاہتے ہیں» printed twice | kept as printed | typesetting repeat |
 | 326 (pr. 325) | text | «جس کو یہ حاصل نہ ہو اس کو ناقص سمجھنا یہ عظیم غلطی ہے وہ کافی ہے ورنہ انبیاء علیہم السلام اس سے کام لیتے یہ وہ کمال ہے کیونکہ بے دینوں کو بھی حاصل ہے» | kept as printed | the sense requires «نہ وہ کافی ہے… نہ وہ کمال ہے»; the negations appear to have dropped in print |
+| 327 (pr. 326) | text | «ایک وہ جو بدوں سے سمجھ میں آ سکتی ہیں اور ایک وہ جو بدون سے سمجھ میں نہیں آ سکتیں» | kept as printed | a word («سماع» / «سنے») appears to have dropped after «بدوں» / «بدون» |
