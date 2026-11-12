@@ -34,3 +34,4 @@
 | 382 (pr. 381) | text | «اس لیے آپ نے جنت مانگی اور اس سے استغناء برتا» | kept as printed | the sense requires «استغناء نہ برتا»; probably a dropped «نہ» |
 | 389 (pr. 388) | text | «اس آیت میں "اولئک ہم الفاسقون نسوا اللہ" پر مرتب کیا گیا ہے» | kept as printed | the words appear transposed: «اولئک ہم الفاسقون» is ordered on «نسوا اللہ»; text kept verbatim |
 | 396 (pr. 395) | verse | «چوں چنیں کارے ست اندر رہ ترا / لب چوں می آید اے ابلہ ترا» | kept as printed | the verse elsewhere reads «خواب چوں می آید»; the following sentence about sleep confirms «خواب»; «لب» is a misprint |
+| 402 (pr. 401) | text | «کسی زن کو ہو جائے تو اور بات ہے»؛ «احوال و احوال آخرت» | kept as printed | «زن» is probably «ظن»-related misprint (perhaps «کسی کو»); «احوال و احوال» a repeat |
