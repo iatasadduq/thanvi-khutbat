@@ -43,3 +43,4 @@
 | 383 (pr. 382) | heading | «ہر چیز کی ایک خاصیت حق تعالیٰ شانہ کی حکمت ہے» (one printed heading) | written as two headings «ہر چیز کی ایک خاصیت» / «حق تعالیٰ شانہ کی حکمت ہے», as split in toc.tsv | toc.tsv splits the printed heading; may be rejoined at toc alignment |
 | 392 (pr. 391) | heading | «بعد وصال امتیوں کی حضور صلی اللہ علیہ وسلم کو ایذا دہی» | written «بعد وصال احمقوں کی…» as in toc.tsv | page and فہرست differ (امتیوں / احمقوں); toc wording kept for now — confirm at toc alignment |
 | 394 (pr. 393) | name | «حضرت ذوالنون بصریؒ… بصرہ میں قحط» | kept as printed; indexed under حضرت ذو النون مصریؒ | the same story is told of ذو النون مصری elsewhere in the khutbat; «بصری/بصرہ» may be a slip for «مصری/مصر» — confirm |
+| 406 (pr. 405) | ayah | «وما انت علیہم بوکیل» | marked 6:107 | same words also end 42:6; first occurrence chosen |
