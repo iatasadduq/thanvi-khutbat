@@ -36,3 +36,4 @@
 | 394 (pr. 393) | couplet variant | «زمام شراب الم درکشند / دگر تلخ بیند دم درکشند» | kept as printed; indexed under the canonical «دمادم شراب الم درکشند / وگر تلخ بینند دم درکشند» with «بصورت» | the usual reading of Saadi's line is «دمادم… وگر… بینند» |
 | 395 (pr. 394) | gloss mismatch | the Urdu gloss after «گفت ہر دارو… / بیخبر بوند…» («اگرچہ عقل مندوں کے نزدیک بدنامی ہے لیکن ہم ننگ و ناموس کے خواہاں نہیں ہیں») | kept as printed | the second half of the gloss does not translate the couplet printed above it; it appears to belong to another verse |
 | 410 (pr. 409) | translation slip | «اور جن روحوں کا باہم تعارف ہوا ان سے اختلاف ہو گیا» | kept as printed | the gloss of «وما تناکر» should read «تعارف نہ ہوا»; a dropped «نہ» |
+| 413 (pr. 412) | spelling | «سائنس» / «سائس» | printed «سائنس» in the first line, «سائس» thereafter; transcribed «سائس» throughout this passage | the joke turns on «سائس» (groom) ← «سیاست»; the first «سائنس» is a typesetting slip |
