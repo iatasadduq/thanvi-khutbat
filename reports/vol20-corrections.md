@@ -32,3 +32,4 @@
 | 342 (pr. 341) | grammar slip | «میں اسے نالائق کو لندن بھیج کر» | kept as printed | probably «میں نے اس نالائق کو»; meaning is clear |
 | 348 (pr. 347) | unclear phrase | «بالکل ٹھوس رکھنا بہت واہیات ہے» | kept as printed | probably «ٹھس» (keeping them wholly uneducated); the reading is left as printed |
 | 360 (pr. 359) | ayah wording | «اِنَّ اللّٰهَ لَا يُحِبُّ الْمُتَكَبِّرِيْنَ» | kept as printed in «»; not marked up as Quran; indexed under 16:23 «انہ لا یحب المستکبرین» with «بصورت» | the wording does not occur in the Quran verbatim; the nearest verse is 16:23 |
+| 362 (pr. 361) | repeated clause | «…کافی ہو جاتا ہے ان کے قلب میں اتنا بھی استقلال نہیں ہے کہ اس مصلحت کا پیش کرنا کافی ہو جاتا ہے ان کے قلب میں اتنا بھی استقلال نہیں ہے کہ اس مصلحت کو…» | kept as printed | a typesetting repeat of one line |
