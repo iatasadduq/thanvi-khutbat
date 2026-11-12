@@ -50,3 +50,6 @@
 | 439 (pr. 438) | text | «پانی خود ہی نکل جائے گی»؛ «پس جو تخلیہ کا زیادہ اہتمام کرے وہ چشتی ہے گو کسی خاندان میں داخل ہوا۔ جو تحلیہ میں داخل ہوا» | kept as printed | gender slip «جائے گی»; the second sentence is garbled in print (probably «گو کسی خاندان میں داخل ہو»، and «جو تحلیہ میں داخل ہوا» a typesetting repeat) |
 | 440 (pr. 439) | verse | «شاہ را احوال کرد در راہ خدا / آں دو د مساز خدائی را جدا» | kept as printed | Masnavi: «شاہ احول کرد در راہ خدا / آں دو دمساز خدائی را جدا»; the printed gloss is a paraphrase |
 | 441 (pr. 440) | text | «چشتیہ کے مذاق پر تحلیہ کا اہتمام غالب ہے اور نقشبندیہ کے مذاق پر تحلیہ کا» | first read «تخلیہ» | the print's dots are ambiguous; pp. 438–439 give چشتیہ = تخلیہ, نقشبندیہ = تحلیہ |
+| 283 (pr. 282) | ayah | 36:69 «يَنۭۡبَغِيۡ» split by a space (the reference splits it) | joined | Qur'an check DIFFERS |
+| 176 (pr. 175) | citation «(النور آیت نمبر ۳۶)» for 24:36–38 | «(النور آیت نمبر ۳۶ تا ۳۸)» + editor's note | auto (owner's rule 2026-10-30) |
+| — | Qur'an check | — | DIFFERS 0, CITE 0 (after the two fixes above); 26 Arabic lines marked «…» (verse halves kept in one «… … …» span) | `mark_arabic.py`: «درکارند» added to the Persian words, «انتہی بلفظ مولانا» and the ضابط's signature to SIGNATURE (Vols 19–21 output unchanged) |
