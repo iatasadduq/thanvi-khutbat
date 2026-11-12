@@ -9,3 +9,4 @@
 | 104 (pr. 103) | couplet | «چوں کہ خورشید و مارا کرد داغ / چارہ نبود در مقامش از چراغ» | kept as printed; indexed under «چونکہ شد خورشید و مارا کرد داغ / چارہ نبود در مقامش جز چراغ» | «شد» dropped and «از» for «جز» against the Masnavi; the sense (the lamp in place of the sun) is the same, so the printed wording is shown as a variant |
 | 111 (pr. 110) | repeated word | «بذریعہ بذریعہ خط و کتابت» | kept as printed | typesetting repetition; meaning unaffected |
 | 109 (pr. 108) | hadith spacing | «ینقطع اجرا لمؤمن بموتہ الا من ثلث» | kept as printed in the text; indexed as «ینقطع اجر المؤمن بموتہ الا من ثلث» | word boundary misplaced in the print |
+| 116 (pr. 115) | couplet | «تو بندگی چو گدایان بشرط مزد مکن / کہ خواجہ خود روشن بندہ پروری داند» | kept as printed; indexed under «… روش بندہ پروری داند» | «روشن» for Hafiz's «روش» (manner); the translation on the page («طریقہ») follows «روش» |
