@@ -17,3 +17,4 @@
 | 211 (pr. 210) | text | «حضرت سلیم چشتی… شاہجہان بادشاہ» | kept as printed | historically Shaikh Salim Chishti (d. 1572) was contemporary with Akbar, not Shah Jahan; the print has «شاہجہان»; the toc heading also says «شاہجہان»; for the owner to check |
 | 218 (pr. 217) | text | gloss after «انما یرید اللہ لیعذبہم بہا»: «(جب مرتا ہے تو اپنے خیالات میں آلودہ ہوتا ہے اور جب سنتا ہے…)» | kept as printed | gloss seems to belong to the Persian line above; «سنتا» probably for «اٹھتا» |
 | 246 (pr. 245) | text | «اگر خدا تعالیٰ بندہ کے ساتھ بالکل استغفار کا برتاؤ بھی کریں تب بھی ان کے شایان شان ہے کیونکہ وہ غنی ہیں» | kept as printed | the sense requires «استغنا» (indifference); «استغفار» is probably a misprint |
+| 254 (pr. 253) | text | «…تو اس کو یہ پہچان لیتا ہے اور دوسرے لباس میں آتا ہے تو اس کو سچی محبت ہے تو اس کو پہچان لیتا ہے اور دوسرے لباس میں آتا ہے تب بھی اسکو پہچان لیتا ہے» | kept as printed | typesetting repeat |
