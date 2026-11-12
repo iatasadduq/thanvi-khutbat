@@ -21,3 +21,4 @@
 | 150 (pr. 149) | wording | «اور احوال من کل وجہ اختیاری ہیں» | kept as printed | the argument needs «غیر اختیاری»; a dropped «غیر» (cf. p. 118) |
 | 151 (pr. 150) | wording | «سونے والا نہیں سونے والا ہی ہے جس کو…» | kept as printed | the sense is «سونے والا وہی ہے» |
 | 159 (pr. 158) | citation | «حفت الجنة بالمكاره…» cited as «الصحیح لمسلم المقدمہ: ۱» | kept as printed | the hadith is in Muslim, کتاب الجنۃ (no. 2822), not the Muqaddima |
+| 175 (pr. 174) | couplet | «صحت آں حسن بجوئید از حبیب» | kept as printed | «حس» (sense), as the first half and the gloss «حس روحانی» show |
