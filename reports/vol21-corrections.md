@@ -17,3 +17,4 @@
 | 129 (pr. 128) | wording | «جو اجتہاد یعنی جذب» | kept as printed | the ayah has «یجتبی»; «اجتہاد» is a misprint for «اجتباء» |
 | 130 (pr. 129) | gloss | «تحقیق کلام منہ میں ہوتا ہے… زبان کو منہ اس لئے نشان بنایا ہے» as the Urdu of «ان الکلام لفی الفؤاد» | kept as printed | «منہ» is a slip for «دل» (الفؤاد); the sense of the verse is that speech is in the heart |
 | 138 (pr. 137) | misprints | «حضور صلی اللہ علیہ وسلم کو ظاہری شہادت خفیہ… سے افضل ہے»؛ «دوسروں کی شہادت جامہ سے» | kept as printed | the sense is «حضور ﷺ کی باطنی شہادت خفیہ… شہادت جلیہ سے افضل»; «جامہ» for «جلیہ» |
+| 142 (pr. 141) | couplet gloss | «جن کی تنگی معلوم ہو» as the gloss of «چونکہ قبض آید» | kept as printed | «جن» is a slip for «جب» |
