@@ -15,7 +15,8 @@ Update the **Status** and **Next steps** sections at the end of every working se
   `toc.tsv` (309 rows): 10 headings/pages set to the page (logged). mark_arabic: DIFFERS 0, CITE 0 (p. 324 «الیٰ قولہ»
   between 39:15 and 39:16 restored from the scan; two typing slips fixed). Hadith check: `reports/vol20-hadith-check.md`
   (16 differs, all the book's wording). Corrections: `reports/vol20-corrections.md`. Index built (1867 entries); site
-  rebuilt (`site/v20.html`). `mark_arabic.py` now also skips date lines, «ظفر احمد عفا اللہ عنہ», «الملقب بہ…» and
+  rebuilt (`site/v20.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/4AceXaakkPdmSpmjMUzPQV (not watched: remote session). `mark_arabic.py` now also skips date lines, «ظفر احمد عفا اللہ عنہ», «الملقب بہ…» and
   Persian couplet lines with Urdu letters (Vols 1–19 output unchanged). Sessions 2026-11-12 ran as a scheduled
   resume; the commit trailer now carries that session's link.
 
