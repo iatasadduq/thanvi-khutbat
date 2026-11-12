@@ -33,3 +33,4 @@
 | 255 (pr. 254) | couplet | «چہ خوش ست باتو بزمے نہفتہ ساز کرن / درخانہ بند کرن سر شیشہ باز کرن» | kept as printed | «کردن» printed as «کرن» throughout (metrical/print form); canonical term uses «کردن» |
 | 265 (pr. 264) | wording | «اگر وسعت ہو تو کفن خرید کر پہنا دو ورنہ وسعت ہو تو چندہ کا کفن ڈال دو» | kept as printed | the second clause needs «وسعت نہ ہو»; «اگر ہوں تو ہم خرما رہم ثواب» for «ہم خرما وہم ثواب» |
 | 271 (pr. 270) | wording | «جب کہ قصد کو ان میں دخل نہ ہو بلکہ قصد واختیار آئی ہو» | kept as printed | evidently «بلا قصد واختیار آئی ہو» |
+| 300 (pr. 299) | ayah | «اَلَآ اِنَّ حِزۡبَ اللّٰهِ هُمُ الۡغٰلِبُوۡنَ» | marked 5:56 «حزب اللہ ہم الغالبون»; «الا ان» left outside the marker | conflation of 58:22 (الا ان حزب اللہ ہم المفلحون) and 5:56 (فان حزب اللہ ہم الغالبون) |
