@@ -45,3 +45,5 @@
 | 394 (pr. 393) | name | «حضرت ذوالنون بصریؒ… بصرہ میں قحط» | kept as printed; indexed under حضرت ذو النون مصریؒ | the same story is told of ذو النون مصری elsewhere in the khutbat; «بصری/بصرہ» may be a slip for «مصری/مصر» — confirm |
 | 406 (pr. 405) | ayah | «وما انت علیہم بوکیل» | marked 6:107 | same words also end 42:6; first occurrence chosen |
 | 407 (pr. 406) | heading | «دربار نبوی ﷺ میں مشرکین کی ایک لایعنی درخواست» | written «حضرت نبوی میں…» as in toc.tsv | page reads «دربار نبوی», فہرست «حضرت نبوی»; fix at toc alignment |
+| 456 (pr. 455) | text | «اسی طرح گوں کے پاس ایک وقت جا کر دیکھا» | kept as printed | probably «بزرگوں» with the first letters lost — confirm |
+| 456 (pr. 455) | couplet | «مادح خورشید مداح خوداست / کہ دو چشم ونامرد است» | canonical term «مادح خورشید مداح خود است / کہ دو چشمم روشن و نامرد نیست» (Masnavi) with بصورت | second half garbled in print |
