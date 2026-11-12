@@ -9,3 +9,4 @@
 | 106 (pr. 105) | wording | «پس میرے نزدیک اجابت بالمعنی الاول نہیں» | kept as printed | the sense needs «…الاول مقید بالمشیت نہیں»; a dropped phrase, left as printed |
 | 108 (pr. 107) | ayah wording | «وانہ خبیر بما تعملون» quoted among ayat of warning | kept as printed in «»; not marked as an ayah | no ayah has these exact words (cf. 11:111 «اِنَّهٗ بِمَا يَعۡمَلُوۡنَ خَبِيۡرٌ», 24:53 «اِنَّ اللّٰهَ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ»); a paraphrase. «وہو علیم بذات الصدور» marked as 57:6 (also 64:4 with «واللہ»), «وما اللہ بغافل عما تعملون» as 2:74 (recurs) |
 | 108 (pr. 107) | bracket | a closing «۱۲)» after «…ہم سے تعلق ہوا» with no opening bracket | kept as printed | the start of the editor's insertion is not marked in the print |
+| 109 (pr. 108) | wording | «اجابت بالمعنی الثانی کا ثمرہ الگ ہے جو کبھی مرتب نہیں ہوتا» | kept as printed | the argument needs «کبھی مرتب ہوتا ہے کبھی نہیں»; probably a dropped phrase |
