@@ -9,3 +9,4 @@
 | 162 (pr. 161) | hadith | «اِنَّ الْعَبْدَ يُحْرَمُ الرِّزْقَ بِخَطِيْئَةٍ يَعْلَمُهَا» glossed «اور بندہ اپنے گناہ کو جانتا ہے» | kept as printed | Musnad Ahmad 5:280 reads «لَيُحْرَمُ … بِخَطِيْئَةٍ يَعْمَلُهَا» (a sin he commits); the print and its gloss read «يعلمها» |
 | 163 (pr. 162) | ayah | «وَلَنُحْيِيَنَّهٗ حَيٰوةً طَيِّبَةً» | ﴿16:97﴾ text from the reference («فَلَنُحۡيِيَنَّهٗ») | the print has «و» for «ف» |
 | 165 (pr. 164) | ayah | «وَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ اَيَّامٍ نَحِسَاتٍ» | ﴿41:16﴾ text from the reference («فَاَرۡسَلۡنَا») | the print has «و» for «ف» |
+| 256 (pr. 255) | ayah | «اِنَّ عَلَيْكُمْ لَحٰفِظِيْنَ» | ﴿82:10-12﴾ text from the reference («وَاِنَّ») | the print omits the opening «و» |
