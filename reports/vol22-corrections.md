@@ -37,3 +37,4 @@
 | 402 (pr. 401) | text | «کسی زن کو ہو جائے تو اور بات ہے»؛ «احوال و احوال آخرت» | kept as printed | «زن» is probably «ظن»-related misprint (perhaps «کسی کو»); «احوال و احوال» a repeat |
 | 409 (pr. 408) | ayah | «…کالذین اوتوا الکتب من قبلہم فقست قلوبہم… قد بینا لکم الآیات ان کنتم تعقلون» | ﴿57:16-17﴾ text from the reference | the print omits «فطال علیہم الامد», has «من قبلہم» for «من قبل» and «ان کنتم تعقلون» for «لعلکم تعقلون»; reference text used |
 | 414 (pr. 413) | ayah | «لا تزکوا انفسکم ہو اعلم بمن اتقی» | ﴿53:32﴾ text from the reference (فَلَا تُزَكُّوۡا…) | the print drops the «ف» of «فلا»; footnote «کنز العمال: ۳۵۹۹۳» attached to the ayah kept as printed |
+| 415 (pr. 414) | text | «(تم اپنے نفسوں کا تزکیہ کرو)» as gloss of «لا تزکوا انفسکم» | kept as printed | «نہ» dropped in the gloss; footnote «کنز العمال: ۳۵۹۹۳» repeated from p. 413, probably belongs to the Hudhayfa hadith |
