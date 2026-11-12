@@ -33,3 +33,4 @@
 | 368 (pr. 367) | text | «بلکہ ان کو تو "لاتکونوا من الذین نسوا اللہ" (تم ان لوگوں کی مثل نہ ہو جانا…)» | kept as printed | the contrast requires «کالذین» here (the translation «مثل» confirms it); «من الذین» is a misprint |
 | 382 (pr. 381) | text | «اس لیے آپ نے جنت مانگی اور اس سے استغناء برتا» | kept as printed | the sense requires «استغناء نہ برتا»; probably a dropped «نہ» |
 | 389 (pr. 388) | text | «اس آیت میں "اولئک ہم الفاسقون نسوا اللہ" پر مرتب کیا گیا ہے» | kept as printed | the words appear transposed: «اولئک ہم الفاسقون» is ordered on «نسوا اللہ»; text kept verbatim |
+| 396 (pr. 395) | verse | «چوں چنیں کارے ست اندر رہ ترا / لب چوں می آید اے ابلہ ترا» | kept as printed | the verse elsewhere reads «خواب چوں می آید»; the following sentence about sleep confirms «خواب»; «لب» is a misprint |
