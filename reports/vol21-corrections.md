@@ -37,3 +37,4 @@
 | 320 (pr. 319) | ayah | «ان فی ذلک لآیات لکل صبار شکور» (الشکر khutba) | marked as 31:31 | the phrase ends 14:5, 31:31, 34:19 and 42:33; the sermon only says «آیت طویلہ… قدرت کی نشانیاں», so 31:31 (ships by Allah's favour) is a best guess — confirm |
 | 330 (pr. 329) | heading | «حضور اکرم صلی اللہ علیہ وسلم وسلم کی شفقت ورحمت» | written with a single «وسلم» as in toc.tsv | printer's doubling |
 | 351 (pr. 350) | text | «دوسرے وہ حضور… کے چچازاد بھائی بھی تھے اور چچا بھی کیسے کہ حضور… کے جان نثار۔ اگرچہ وہ… ایمان نہیں لائے» | kept as printed | the subject shifts from حضرت علیؓ to ابو طالب without naming him; words seem to be missing after «اور» (e.g. «ان کے والد ابو طالب حضور کے») — confirm |
+| 358 (pr. 357) | attribution | «مجھ کو اپنے استادؒ کا جواب… مولانا نے اس کی وجہ بیان فرمائی» | indexed under مولانا محمد یعقوب نانوتویؒ | the same explanation of «لو کان بعدی نبی لکان عمر» is attributed to him by name elsewhere in the index |
