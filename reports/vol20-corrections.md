@@ -30,3 +30,4 @@
 | 337–338 (pr. 336–337) | couplet variant | «استخواں پیش سگاں انداختم» (p.336) / «استخواں بہر سگاں بگذاشتم» (p.337) | kept as printed; indexed under the canonical «…پیش سگاں بگذاشتم» with «بصورت» | the same spurious couplet is printed two ways two pages apart |
 | 338 (pr. 337) | translation slip | «(ایسی سختی پر دو سو لعنتیں)» | kept as printed | «سختی» for «تقلید» in the gloss; probably a typesetting slip |
 | 342 (pr. 341) | grammar slip | «میں اسے نالائق کو لندن بھیج کر» | kept as printed | probably «میں نے اس نالائق کو»; meaning is clear |
+| 348 (pr. 347) | unclear phrase | «بالکل ٹھوس رکھنا بہت واہیات ہے» | kept as printed | probably «ٹھس» (keeping them wholly uneducated); the reading is left as printed |
