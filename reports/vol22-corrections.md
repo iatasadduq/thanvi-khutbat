@@ -27,3 +27,4 @@
 | 326 (pr. 325) | text | «جس کو یہ حاصل نہ ہو اس کو ناقص سمجھنا یہ عظیم غلطی ہے وہ کافی ہے ورنہ انبیاء علیہم السلام اس سے کام لیتے یہ وہ کمال ہے کیونکہ بے دینوں کو بھی حاصل ہے» | kept as printed | the sense requires «نہ وہ کافی ہے… نہ وہ کمال ہے»; the negations appear to have dropped in print |
 | 327 (pr. 326) | text | «ایک وہ جو بدوں سے سمجھ میں آ سکتی ہیں اور ایک وہ جو بدون سے سمجھ میں نہیں آ سکتیں» | kept as printed | a word («سماع» / «سنے») appears to have dropped after «بدوں» / «بدون» |
 | 332 (pr. 331) | text | «یہ فریب اول وے کر شیطان کے احکام سمجھنا شروع کا کام نہیں» | kept as printed | the clause is garbled in print (perhaps «یہ فریب… سمجھنا ہر شخص کا کام نہیں») |
+| 333 (pr. 332) | text | «لہٰذا یہ قلب موضوع ہے کہ تو آدم کو سجدہ کرے» | kept as printed | «قلب موضوع» seems garbled; the sense is «یہ قلب موضوع (الٹی بات) ہے» |
