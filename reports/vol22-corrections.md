@@ -46,3 +46,4 @@
 | 425 (pr. 424) | ayah | «انما قولنا لشیء اذا اردنا ان نقول لہ کن فیکون» | ﴿16:40﴾ text from the reference («اِذَا٘ اَرَدۡنٰهُ») | print drops the pronoun «ہ»; also «لحہ» kept as printed (for «لمحہ») |
 | 426 (pr. 425) | verse | «بندہ ما را چرا کہ دی جدا»؛ «موسیا آداب دانا دیگر اند / سوختہ جاں در داناں دیگر اند» | kept as printed | Masnavi reads «چرا کردی جدا» and «موسیا آداب داناں دیگر اند / سوختہ جان و رواناں دیگر اند» |
 | 433 (pr. 432) | text | «اور جلدی مرتب عمل کامل نہ ہونے»؛ «تزکی کو مطلب نہیں سمجھتا»؛ «تزکیہ وہی مامور بہا ہے»؛ «جواب اس کا سا یہ ہے» | kept as printed | probably «جلدی ثمرہ مرتب نہ ہونے»، «مطلوب»، «مامور بہ»، «اس کا یہ ہے»; typesetting slips |
+| 434 (pr. 433) | text | «انا سنفتح فتحالک مبینا»؛ «صلح حدیبیہ اگر فتح مکہ کا سبب ہے) نہ ہوتی»؛ «حتی کہ یصل» | first as «انا سنفتح فتحا لک مبینا»; others kept as printed | stray «)» in the second; the paraphrase is not Qur'anic text so not marked as an ayah |
