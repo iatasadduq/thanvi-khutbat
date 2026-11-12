@@ -27,3 +27,5 @@
 | 306 (pr. 305) | missing text | «حدیث میں ہے:» is followed directly by «اور اگر جنگل میں کوئی نہیں…» | kept as printed | the hadith text after «حدیث میں ہے» appears to have dropped in the print; nothing was supplied |
 | 319 (pr. 318) | displaced lines | «کہ حضور کچھ تو کھا لینا چاہئے فاقہ بہتر نہیں…» follows the Sa'di couplets but continues the p. 317 point about eating on others' advice | kept in printed order | a paragraph appears to have been set out of place; the text is not reordered |
 | 329 (pr. 328) | repeated word | «جیسے کسی نے ایک مصرع کہا تھا ؎ کہا تھا ؎» | kept as printed | line-break repetition by the scribe; the text stays as printed |
+| 337–338 (pr. 336–337) | couplet variant | «استخواں پیش سگاں انداختم» (p.336) / «استخواں بہر سگاں بگذاشتم» (p.337) | kept as printed; indexed under the canonical «…پیش سگاں بگذاشتم» with «بصورت» | the same spurious couplet is printed two ways two pages apart |
+| 338 (pr. 337) | translation slip | «(ایسی سختی پر دو سو لعنتیں)» | kept as printed | «سختی» for «تقلید» in the gloss; probably a typesetting slip |
