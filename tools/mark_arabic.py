@@ -20,7 +20,9 @@ from arabic import Quran, norm, ratio, cited_surah, SURAHS
 URDU_CHARS = re.compile('[ٹڈڑںےگچپژ]')
 URDU_WORDS = set(('ہے ہیں کہ میں کی کا کے سے نے کو اور یہ وہ تو بھی نہ تھا تھے تھی پر جو اس جس کس ایک یعنی '
               # Persian (couplets are not Arabic)
-              'اند است ست را می بر از چہ چو چوں نیست باشد شد شود کند کرد در ایں آں تا باید خود ہمہ گر اگر بود نبود باش میان').split())
+              'اند است ست را می بر از چہ چو چوں نیست باشد شد شود کند کرد در ایں آں تا باید خود ہمہ گر اگر بود نبود باش میان '
+              # more Persian couplet words (2026-11-12, Vol 21)
+              'ہست لیک نباشد زکس میدارد نتوانست زدند خوداست').split())
 HARAKAT = re.compile(r'[ً-ْٰ]')
 VOWEL = re.compile(r'[\u064E-\u0652]')      # fatha..sukun: Urdu words (تعالیٰ، فوراً) never carry these
 ANY_MARK = re.compile(r'[﴿﴾«»]')
