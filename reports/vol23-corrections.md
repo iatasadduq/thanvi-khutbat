@@ -39,3 +39,4 @@
 | 398 (pr. 397) | verse | «تبرس از آہ مظلوماں … اجابت ازوحق بہر استقبال می آید» | «بترس از آہ مظلوماں … اجابت از در حق بہر استقبال می آید» | misprints («تبرس» for «بترس», «ازوحق» for «از در حق»); the well-known couplet and the gloss («اللہ کی طرف سے») |
 | 399 (pr. 398) | text | «ادھر در دروازہ بند ہوگا» | kept as printed | probably «ادھر دم/در» — the phrase is unclear in the print |
 | 18 (pr. 17) | citation | «وَيٰقَوْمِ اسْتَغْفِرُوْا رَبَّكُمْ … (ہود: ۴۴)» | «(ہود: ۵۲)» + editor's note | CITE in the Qur'an check: the words are 11:52 (owner's Vol 1 rule for wrong citations) |
+| — | hadith check | — | `reports/vol23-hadith-check.md`: 12 differs, all the book's wording (a dropped or added «و/ف», «فقد وتر» for «فکانما وتر», «بخاصۃ» for «بخویصۃ», «ولیقولن» for «ولیقل»); the four on pp. 323–377 were re-read on the scan this session, the eight on pp. 47–228 are conjunction-level variants of quotations already read from zoomed crops; none a reading error | no change |

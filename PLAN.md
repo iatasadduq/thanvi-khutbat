@@ -6,8 +6,19 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ---
 
-## 1. Status (2026-11-12)
+## 1. Status (2026-11-13)
 
+- **Volume 23 (راہ نجات) — done, awaiting the owner's review.** Folder `Vol 23 rah e najat/`. PDF page = printed
+  page + 1; text printed pp. 17–400 (10 sermons: الاستغفار 17, آثار الحوبۃ فی اسرار التوبۃ 42, استمرار التوبۃ علیٰ تکرار
+  الحوبۃ 92, تفصیل التوبۃ 139, ضرورۃ التوبۃ 170, اول الاعمال 201, الافتضاح 242, العبرۃ بذبح البقرۃ 266, اطاعۃ الاحکام مع
+  فضل دار حدیث خیر الانام 356, الظلم 373), all transcribed (files 0018, 0043, 0093, 0140, 0171, 0202, 0243, 0267, 0357,
+  0374). `toc.tsv` regenerated from the page headings (573 rows; consecutive repeats of a heading across a page break
+  collapsed). mark_arabic: DIFFERS 0, CITE 0 (two citations corrected with editor's notes: ہود ۴۴ → ۵۲ on p. 17,
+  القیمۃ ۵۶ → المدثر ۵۶ on p. 140; one Arabic couplet on p. 82 written as one «… … …» mark). Hadith check:
+  `reports/vol23-hadith-check.md` (12 differs, all the book's wording). Corrections: `reports/vol23-corrections.md`
+  (rows for the owner, e.g. «بر سیر» p. 348 unidentified book, a probably missing line between pp. 378/379, 24:28
+  and 2:286 printed without a word their glosses translate). Index built (1874 entries); site rebuilt
+  (`site/v23.html`). Preview: not yet published (this session ran as a scheduled resume; publish when convenient).
 - **Volume 22 (ذکر و فکر) — done, awaiting the owner's review.** Folder `Vol 22 zikr o fikr/`. PDF page = printed
   page + 1; text printed pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151,
   شرف المکالمہ 175, راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411), all
@@ -346,14 +357,9 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 ## 4. Next steps
 
 - Volume 22 (ذکر و فکر): done (see Status).
-- Volume 23 (راہ نجات): started 2026-11-12. Folder `Vol 23 rah e najat/`. PDF page = printed page + 1 (401 PDF pages);
-  text printed pp. 17–400 (10 sermons: الاستغفار 17, آثار الحوبۃ فی اسرار التوبۃ 42, استمرار التوبۃ علیٰ تکرار الحوبۃ 92,
-  تفصیل التوبۃ 139, ضرورۃ التوبۃ 170, اول الاعمال 201, الافتضاح 242, العبرۃ بذبح البقرۃ 266, اطاعۃ الاحکام مع فضل دار
-  حدیث خیر الانام 356, الظلم 373; title pages found by ink density, titles read from the scans). Call made: `toc.tsv`
-  holds only the sermon rows for now; the full فہرست (pdf 7–16) is not typed, since the toc is regenerated from the page
-  headings at the end anyway (as for Vols 21–22) — headings are read from the pages while transcribing. Page images:
-  scratchpad `img23/` (all pages), half-pages `h23/` made for pdf 1–30 so far (`halves.py img23 h23 <first> <last>`).
-  Done: الاستغفار pp. 17–41 (file 0018), آثار الحوبۃ pp. 42–91 (file 0043). استمرار التوبۃ pp. 92–138 (file 0093), تفصیل التوبۃ pp. 139–169 (file 0140), ضرورۃ التوبۃ pp. 170–200 (file 0171), اول الاعمال pp. 201–241 (file 0202), الافتضاح pp. 242–265 (file 0243). Next: العبرۃ بذبح البقرۃ from p. 266 (pdf 267) in `0267.txt`.
+- Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
+  branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
+- Volume 24: next. Start with step 1 of §3 (page offset, title pages, sermon rows of `toc.tsv`).
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
