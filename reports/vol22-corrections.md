@@ -30,3 +30,4 @@
 | 333 (pr. 332) | text | «لہٰذا یہ قلب موضوع ہے کہ تو آدم کو سجدہ کرے» | kept as printed | «قلب موضوع» seems garbled; the sense is «یہ قلب موضوع (الٹی بات) ہے» |
 | 353 (pr. 352) | text | «یہ امین کے واسطے نبی ہیں۔ (یعنی جاہلوں کے واسطے)» | kept as printed | «امین» is evidently «امیین» (the unlettered) misprinted |
 | 356 (pr. 355) | text | «اے محمد صلی اللہ علیہ وسلم ابدا افضل ما صلی علی احد من خلقہ» | kept as printed | the Arabic is incomplete as printed (the expected wording of Jibril’s reassurance is «یا محمد انک رسول اللہ حقا»); kept verbatim |
+| 368 (pr. 367) | text | «بلکہ ان کو تو "لاتکونوا من الذین نسوا اللہ" (تم ان لوگوں کی مثل نہ ہو جانا…)» | kept as printed | the contrast requires «کالذین» here (the translation «مثل» confirms it); «من الذین» is a misprint |
