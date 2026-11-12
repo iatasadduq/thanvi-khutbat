@@ -26,3 +26,4 @@
 | 194 (pr. 193) | wording | «دیگر نصوص سے معلوم ہوتا ہے کہ عمداً بھی گناہ کرے تب بھی توبہ قبول نہیں ہوتی» | kept as printed | the argument needs «قبول ہوتی ہے» (the تعارض is between 4:17 and nusus accepting repentance for deliberate sin); a stray «نہیں» |
 | 199 (pr. 198) | wording | «گمان کی رخامت عاقبت» | kept as printed | evidently «ان کی وخامت عاقبت» (bad end); a misprint |
 | 210 (pr. 209) | couplet | «شکم صوفی راز بوں کرد وفرج» | kept as printed | the reading is unclear in the print (perhaps «شکم صوفیے را زبوں کرد فرج»); recorded as printed |
+| 220 (pr. 219) | wording | «ان میں جواب موجود ہیں وہ اپنے وقت کے مقتدا ہیں» | kept as printed | evidently «جو اب موجود ہیں» |
