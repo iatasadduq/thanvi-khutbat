@@ -39,3 +39,4 @@
 | 351 (pr. 350) | text | «دوسرے وہ حضور… کے چچازاد بھائی بھی تھے اور چچا بھی کیسے کہ حضور… کے جان نثار۔ اگرچہ وہ… ایمان نہیں لائے» | kept as printed | the subject shifts from حضرت علیؓ to ابو طالب without naming him; words seem to be missing after «اور» (e.g. «ان کے والد ابو طالب حضور کے») — confirm |
 | 358 (pr. 357) | attribution | «مجھ کو اپنے استادؒ کا جواب… مولانا نے اس کی وجہ بیان فرمائی» | indexed under مولانا محمد یعقوب نانوتویؒ | the same explanation of «لو کان بعدی نبی لکان عمر» is attributed to him by name elsewhere in the index |
 | 371 (pr. 370) | ayah | «لا یخفف عنہم العذاب ولا ہم ینظرون» | marked 2:162 | the identical wording is also 3:88; first occurrence chosen |
+| 381 (pr. 380) | spelling | «ساٹنڈ» | written «سانڈ» | misprint |
