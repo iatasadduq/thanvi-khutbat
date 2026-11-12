@@ -17,3 +17,4 @@
 | 154 (pr. 153) | ayah reference | «خلقتنی من نار وخلقتہ من طین» | marked as 7:12 | the same words also occur at 38:76; the passage (refusing the prostration) fits both |
 | 164 (pr. 163) | ayah reference | the khutba cites «۱۹۴، ۱۹۵، آل عمران» and the translation note says «آیت نمبر ۱۶۴ ج ۲۰» | marked as 3:195 | the recited text is exactly 3:195; «۱۶۴» is the page number of the translation, kept as printed |
 | 165 (pr. 164) | ayah reference | «ان اللہ لا یضیع اجر المحسنین» | marked as 9:120 | the same words also close 11:115 and 12:90; the text says «کئی جگہ آیا ہے», so the first occurrence was chosen |
+| 224 (pr. 223) | wording | «تم اس متانت ہی میں رہوگی» addressed to a man | kept as printed | feminine verb form addressed to «مولانا»; likely a typesetting slip for «رہوگے» |
