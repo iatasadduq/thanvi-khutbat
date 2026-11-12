@@ -28,3 +28,6 @@
 | 366 (pr. 365) | Arabic | «نَحْنُ فَطِيْع الشح واطوى» glossed «ہم نفس پرستی کی اطاعت کرتے ہیں» | «نَحْنُ نُطِيْعُ الشُّحَّ وَالْهَوٰى» | misprinted letters; the phrase answers «اطیعوا» and echoes «شحا مطاعا وہوی متبعا» |
 | 366 (pr. 365) | text | «ان کے بارے میں دَعْ پر عمل ہے دفیہ قلیل» | kept as printed | «دفیہ قلیل» is unclear (perhaps «وفیہ قلیل», "and they are few") |
 | 368 (pr. 367) | text | «اطیعوا کا ماخذ طلوع ہے اور طوع کے معنی رغبت ہے» | kept as printed | «طلوع» is a misprint for «طوع» (the next words explain «طوع») |
+| 377 (pr. 376) | hadith | «… کثیراً اولخرجتم الی الصعدات تجارون الی اللہ وما تلذ ذتم بالنساء علی الفرش» | «… كَثِيْرًا وَلَخَرَجْتُمْ اِلَى الصُّعُدَاتِ تَجْاَرُوْنَ اِلَى اللّٰهِ وَمَا تَلَذَّذْتُمْ بِالنِّسَآءِ عَلَى الْفُرُشِ» | «او» is a misprint for «و» and «تلذ ذتم» a split word (Tirmidhi 2312 has the clauses in another order: «وما تلذذتم … ولخرجتم …»; the book's order kept) |
+| 378 (pr. 377) | hadith | «وکان رسول اللہ ﷺ کثیرا لتبسم ومار ای ضاحکا مستجمعا» | «… كَثِيْرًا لَّتَبَسُّمِ وَمَا رُئِيَ ضَاحِكًا مُّسْتَجْمِعًا» | «ومار ای» is a split word («وما رئی»); «کثیرا لتبسم» kept as printed (the sources read «کثیر التبسم») |
+| 378 (pr. 377) | text | «(…ہنستے ہوئے نہیں دیکھا) قطہ اور خوف کا یہ اثر تھا» | kept as printed | «قطہ» is unclear (perhaps «غرض»/«فقط») |
