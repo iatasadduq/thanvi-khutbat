@@ -27,3 +27,4 @@
 | 199 (pr. 198) | wording | «گمان کی رخامت عاقبت» | kept as printed | evidently «ان کی وخامت عاقبت» (bad end); a misprint |
 | 210 (pr. 209) | couplet | «شکم صوفی راز بوں کرد وفرج» | kept as printed | the reading is unclear in the print (perhaps «شکم صوفیے را زبوں کرد فرج»); recorded as printed |
 | 220 (pr. 219) | wording | «ان میں جواب موجود ہیں وہ اپنے وقت کے مقتدا ہیں» | kept as printed | evidently «جو اب موجود ہیں» |
+| 228 (pr. 227) | wording | «مدارس میں ایک انگریز مسلمان ہوا» | kept as printed | the place is مدراس (as indexed elsewhere); «مدارس» is a slip |
