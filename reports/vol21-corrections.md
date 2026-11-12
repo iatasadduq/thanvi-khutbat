@@ -30,3 +30,4 @@
 | 228 (pr. 227) | wording | «مدارس میں ایک انگریز مسلمان ہوا» | kept as printed | the place is مدراس (as indexed elsewhere); «مدارس» is a slip |
 | 245 (pr. 244) | wording | «حضرت باہوا آدمی اس موقع پر ہرگز غم کو ظاہر نہ کرتا» | kept as printed | the sense is «حضرت بنا ہوا آدمی» (a would-be saint); a misprint |
 | 250 (pr. 249) | wording | «اگر یہ حقیقت پہلے بتلا دی جائے تو اس قدر نہ ہو تسلی بھی نہ ہو»؛ «حاسد کا مدعی پورا ہو جائے گا» | kept as printed | evidently «اس قدر تسلی بھی نہ ہو» and «مدعا» |
+| 255 (pr. 254) | couplet | «چہ خوش ست باتو بزمے نہفتہ ساز کرن / درخانہ بند کرن سر شیشہ باز کرن» | kept as printed | «کردن» printed as «کرن» throughout (metrical/print form); canonical term uses «کردن» |
