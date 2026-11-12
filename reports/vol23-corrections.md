@@ -7,3 +7,4 @@
 | 108 (pr. 107) | ayah | «ان المنافقین یخدعون اللہ وہو خادعہم» glossed «بلاشبہ منافقین دوزخ کے سب سے نیچے کے طبقہ میں جائیں گے» | ﴿4:142﴾ kept as printed (text from the reference) | the gloss belongs to 4:145 («فی الدرک الاسفل من النار»); the print quotes 4:142 instead |
 | 141 (pr. 140) | citation | «ہو اہل التقویٰ واہل المغفرۃ (القیمۃ: ۵۶)» | kept as printed | the ayah is 74:56 (المدثر); to be corrected with an editor's note at the Qur'an-check step |
 | 162 (pr. 161) | hadith | «اِنَّ الْعَبْدَ يُحْرَمُ الرِّزْقَ بِخَطِيْئَةٍ يَعْلَمُهَا» glossed «اور بندہ اپنے گناہ کو جانتا ہے» | kept as printed | Musnad Ahmad 5:280 reads «لَيُحْرَمُ … بِخَطِيْئَةٍ يَعْمَلُهَا» (a sin he commits); the print and its gloss read «يعلمها» |
+| 163 (pr. 162) | ayah | «وَلَنُحْيِيَنَّهٗ حَيٰوةً طَيِّبَةً» | ﴿16:97﴾ text from the reference («فَلَنُحۡيِيَنَّهٗ») | the print has «و» for «ف» |
