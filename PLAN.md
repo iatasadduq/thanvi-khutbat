@@ -338,7 +338,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151, شرف المکالمہ 175,
   راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411). `toc.tsv` from the
   فہرست (485 rows). Half-page images: scratchpad `h22/` (rebuild with pdfimages + halves.py if the container is new).
-  Done: تفصیل الذکر pp. 21–42 (file 0022), المراقبہ pp. 43–66 (file 0044), القاف pp. 67–126 (file 0068). Next: شرط التذکر from p. 127 (pdf 128) in a new `0128.txt`. Corrections log: `reports/vol22-corrections.md`.
+  Done: تفصیل الذکر pp. 21–42 (file 0022), المراقبہ pp. 43–66 (file 0044), القاف pp. 67–126 (file 0068), شرط التذکر pp. 127–149 (file 0128). Next: رطوبۃ اللسان from p. 151 (pdf 152; p. 150 to be checked) in a new `0152.txt`. Corrections log: `reports/vol22-corrections.md`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
