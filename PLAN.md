@@ -345,8 +345,15 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 22 (ذکر و فکر): done (see Status). Next: Volume 23 — check whether its PDF is in the repository/Drive, read
-  its page offset and فہرست, and start the per-volume sequence (section 3) with a new folder.
+- Volume 22 (ذکر و فکر): done (see Status).
+- Volume 23 (راہ نجات): started 2026-11-12. Folder `Vol 23 rah e najat/`. PDF page = printed page + 1 (401 PDF pages);
+  text printed pp. 17–400 (10 sermons: الاستغفار 17, آثار الحوبۃ فی اسرار التوبۃ 42, استمرار التوبۃ علیٰ تکرار الحوبۃ 92,
+  تفصیل التوبۃ 139, ضرورۃ التوبۃ 170, اول الاعمال 201, الافتضاح 242, العبرۃ بذبح البقرۃ 266, اطاعۃ الاحکام مع فضل دار
+  حدیث خیر الانام 356, الظلم 373; title pages found by ink density, titles read from the scans). Call made: `toc.tsv`
+  holds only the sermon rows for now; the full فہرست (pdf 7–16) is not typed, since the toc is regenerated from the page
+  headings at the end anyway (as for Vols 21–22) — headings are read from the pages while transcribing. Page images:
+  scratchpad `img23/` (all pages), half-pages `h23/` made for pdf 1–30 so far (`halves.py img23 h23 <first> <last>`).
+  Next: transcribe الاستغفار from p. 17 (pdf 18) in `0018.txt`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
