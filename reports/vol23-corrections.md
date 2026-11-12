@@ -36,3 +36,5 @@
 | 388 (pr. 387) | hadith | «من اصبح معانی فی جسدہ یا منافی سربہ وعندہ قوت یومہ فکانما ہیزت لہ الدنیا بحذا فیرہ» | «مَنْ اَصْبَحَ مُعَافًى فِيْ جَسَدِهٖ اٰمِنًا فِيْ سِرْبِهٖ وَعِنْدَهٗ قُوْتُ يَوْمِهٖ فَكَاَنَّمَا حِيْزَتْ لَهُ الدُّنْيَا بِحَذَافِيْرِهَا» | misprinted letters throughout (معانی، یا منافی، ہیزت، بحذا فیرہ); the book's order of the clauses kept; the gloss translates the correct words |
 | 392 (pr. 391) | text | «اس آیت سے فرقہ عشویہ نے استدلال کیا ہے» | «فرقہ حشویہ» | misprint; the Hashwiyya are the sect that held prophets could sin |
 | 394 (pr. 393) | verse | «کہ از دوزک ہمی سرزد چوما» | «کہ از دوزخ ہمی لرزد چو ما» | misprints («دوزک» for «دوزخ», «سرزد» for «لرزد»); the gloss on the page reads «دوزخ ہماری طرح لرزتی ہے» |
+| 398 (pr. 397) | verse | «تبرس از آہ مظلوماں … اجابت ازوحق بہر استقبال می آید» | «بترس از آہ مظلوماں … اجابت از در حق بہر استقبال می آید» | misprints («تبرس» for «بترس», «ازوحق» for «از در حق»); the well-known couplet and the gloss («اللہ کی طرف سے») |
+| 399 (pr. 398) | text | «ادھر در دروازہ بند ہوگا» | kept as printed | probably «ادھر دم/در» — the phrase is unclear in the print |
