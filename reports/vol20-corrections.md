@@ -18,3 +18,4 @@
 | 164 (pr. 163) | ayah reference | the khutba cites «۱۹۴، ۱۹۵، آل عمران» and the translation note says «آیت نمبر ۱۶۴ ج ۲۰» | marked as 3:195 | the recited text is exactly 3:195; «۱۶۴» is the page number of the translation, kept as printed |
 | 165 (pr. 164) | ayah reference | «ان اللہ لا یضیع اجر المحسنین» | marked as 9:120 | the same words also close 11:115 and 12:90; the text says «کئی جگہ آیا ہے», so the first occurrence was chosen |
 | 224 (pr. 223) | wording | «تم اس متانت ہی میں رہوگی» addressed to a man | kept as printed | feminine verb form addressed to «مولانا»; likely a typesetting slip for «رہوگے» |
+| 251 (pr. 250) | missing words | p. 249 ends «کسی نے اپنے گھر والوں کو کہ:» and p. 250 begins «کھلایا۔» | kept as printed | words such as «کھانا» appear to have dropped at the page break; the sense (someone fed his household) is clear |
