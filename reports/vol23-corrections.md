@@ -10,3 +10,4 @@
 | 163 (pr. 162) | ayah | «وَلَنُحْيِيَنَّهٗ حَيٰوةً طَيِّبَةً» | ﴿16:97﴾ text from the reference («فَلَنُحۡيِيَنَّهٗ») | the print has «و» for «ف» |
 | 165 (pr. 164) | ayah | «وَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ اَيَّامٍ نَحِسَاتٍ» | ﴿41:16﴾ text from the reference («فَاَرۡسَلۡنَا») | the print has «و» for «ف» |
 | 256 (pr. 255) | ayah | «اِنَّ عَلَيْكُمْ لَحٰفِظِيْنَ» | ﴿82:10-12﴾ text from the reference («وَاِنَّ») | the print omits the opening «و» |
+| 285 (pr. 284) | ayah | «فَلَا تُعْجِبْكَ اَمْوَالُهُمْ وَاَوْلَادُهُمْ اِنَّمَا يُرِيْدُ اللّٰهُ اَنْ يُّعَذِّبَهُمْ بِهَا فِي الدُّنْيَا» and «آیت میں تو فی الحیٰوۃ الدنیا کی قید خود ہی مذکور ہے» | ﴿9:55﴾ text from the reference | the sermon recites 9:85 («وَلَا … فِي الدُّنْيَا») on p. 283 and then mixes it with 9:55 («فَلَا … وَلَا٘ اَوْلَادُهُمْ … لِيُعَذِّبَهُمْ بِهَا فِي الْحَيٰوةِ الدُّنْيَا»), which is the ayah that has the «فی الحیوۃ الدنیا» qualifier the speaker refers to |
