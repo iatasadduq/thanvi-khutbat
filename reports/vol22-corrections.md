@@ -35,3 +35,4 @@
 | 389 (pr. 388) | text | «اس آیت میں "اولئک ہم الفاسقون نسوا اللہ" پر مرتب کیا گیا ہے» | kept as printed | the words appear transposed: «اولئک ہم الفاسقون» is ordered on «نسوا اللہ»; text kept verbatim |
 | 396 (pr. 395) | verse | «چوں چنیں کارے ست اندر رہ ترا / لب چوں می آید اے ابلہ ترا» | kept as printed | the verse elsewhere reads «خواب چوں می آید»; the following sentence about sleep confirms «خواب»; «لب» is a misprint |
 | 402 (pr. 401) | text | «کسی زن کو ہو جائے تو اور بات ہے»؛ «احوال و احوال آخرت» | kept as printed | «زن» is probably «ظن»-related misprint (perhaps «کسی کو»); «احوال و احوال» a repeat |
+| 409 (pr. 408) | ayah | «…کالذین اوتوا الکتب من قبلہم فقست قلوبہم… قد بینا لکم الآیات ان کنتم تعقلون» | ﴿57:16-17﴾ text from the reference | the print omits «فطال علیہم الامد», has «من قبلہم» for «من قبل» and «ان کنتم تعقلون» for «لعلکم تعقلون»; reference text used |
