@@ -334,8 +334,11 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 22: next. Find its PDF in `scanned_version/`, create the folder, extract the فہرست into `toc.tsv`, then
-  transcribe sermon by sermon as for Vol 21.
+- Volume 22 (ذکر و فکر): in progress. Folder `Vol 22 zikr o fikr/`. PDF page = printed page + 1; text printed
+  pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151, شرف المکالمہ 175,
+  راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411). `toc.tsv` from the
+  فہرست (485 rows). Half-page images: scratchpad `h22/` (rebuild with pdfimages + halves.py if the container is new).
+  Next: تفصیل الذکر from printed p. 21 (pdf 22) in a new `0022.txt`. Corrections log: `reports/vol22-corrections.md`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
