@@ -14,3 +14,4 @@
 | 129 (pr. 128) | repeated words | «اسی لئے اسی لئے بعض جگہ» | kept as printed | typesetting repetition at the start of the section |
 | 130 (pr. 129) | repeated phrase | «…بھوک مر جائے گی۔ پھر اگر دوسرے وقت اگر بے بھوک مر جائے گی پھر اگر دوسرے وقت اگر بے بھوک کھا لیا گیا…» | kept as printed | a line was set twice in the print; the sense is «if he eats again without hunger the stomach is ruined» |
 | 132 (pr. 131) | couplet | «ما حال دل را بایاد گفتیم / نتواں نہفتن درد از حبیباں» | kept as printed; indexed under «ما حال دل را بایار گفتیم / نتواں نہفتن درد از طبیباں» | «بایاد» for «بایار» is a misprint; the next page quotes the half-line as «درد از حبیباں» and glosses it as «طبیب باطن», so both readings are shown |
+| 154 (pr. 153) | ayah reference | «خلقتنی من نار وخلقتہ من طین» | marked as 7:12 | the same words also occur at 38:76; the passage (refusing the prostration) fits both |
