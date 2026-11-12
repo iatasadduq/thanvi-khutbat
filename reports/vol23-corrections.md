@@ -22,3 +22,4 @@
 | 341 (pr. 340) | heading | «قرب امور مامور بہ میں امور اختیار کو دخل نہیں» | kept as printed | the text under it says «قرب میں امور غیر اختیاریہ کو دخل نہیں»; the heading probably dropped «غیر» |
 | 342 (pr. 341) | ayah | «يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا» | ﴿2:286﴾ «لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا وُسۡعَهَا» | the print drops the opening «لا», which its own gloss translates («تکلیف نہیں دیتے») |
 | 349 (pr. 348) | book name | «چنانچہ برسیر میں لکھا ہے» | kept as printed («بر سیر») | the book is not identified; possibly a misprint for «تفسیر» or another title — the owner may know |
+| 362 (pr. 361) | ayah | «وَالْكٰظِمِيْنَ الْغَيْظَ» | ﴿3:134﴾ «وَالۡكٰظِمِيۡنَ الۡغَيۡظَ» | the print once spells «الْكَظِمِيْنَ» without the alif; reference spelling used |
