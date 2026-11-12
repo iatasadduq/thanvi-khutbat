@@ -8,6 +8,17 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-12)
 
+- **Volume 22 (ذکر و فکر) — done, awaiting the owner's review.** Folder `Vol 22 zikr o fikr/`. PDF page = printed
+  page + 1; text printed pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151,
+  شرف المکالمہ 175, راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411), all
+  transcribed (files 0022, 0044, 0068, 0128, 0152, 0176, 0198, 0243, 0336, 0390, 0412). `toc.tsv` regenerated from the
+  page headings (493 rows; changes logged). mark_arabic: DIFFERS 0, CITE 0 (36:69 split word joined; النور ۳۶ citation
+  corrected to ۳۶ تا ۳۸ with editor's note); 26 Arabic lines marked; «درکارند» added to the Persian words and the ضابط's
+  signature to SIGNATURE in `mark_arabic.py` (Vols 19–21 output unchanged). Hadith check: `reports/vol22-hadith-check.md`
+  (16 differs, all the book's wording). Corrections: `reports/vol22-corrections.md` (rows for the owner, e.g. «حال» →
+  «مآل» p. 420, «تخلیہ» p. 441, 6:75 «المؤمنین» for «الموقنین»). Index built (2109 entries); site rebuilt
+  (`site/v22.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/9X55LMbFzx83GJChJApYoN (not watched: remote session).
 - **Volume 21 (تدبیر و توکل) — done, awaiting the owner's review.** Folder `Vol 21 tadbeer o tawakkul/`. PDF page =
   printed page + 1; text printed pp. 17–456 (12 sermons: اجابۃ الداعی 17, التوکل 58, الاصابۃ فی معنی الاجابۃ 97,
   الفصل والانفصال 115, شفاء العی 163, العمل للعلماء 195, التیسیر للتیسیر 228, القرض 275, الشکر 318, تحقیق الشکر 342,
@@ -334,11 +345,8 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 22 (ذکر و فکر): in progress. Folder `Vol 22 zikr o fikr/`. PDF page = printed page + 1; text printed
-  pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151, شرف المکالمہ 175,
-  راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411). `toc.tsv` from the
-  فہرست (485 rows). Half-page images: scratchpad `h22/` (rebuild with pdfimages + halves.py if the container is new).
-  Done: تفصیل الذکر pp. 21–42 (file 0022), المراقبہ pp. 43–66 (file 0044), القاف pp. 67–126 (file 0068), شرط التذکر pp. 127–150 (file 0128), رطوبۃ اللسان pp. 151–174 (file 0152), شرف المکالمہ pp. 175–196 (file 0176), راحت القلوب pp. 197–241 (file 0198), جلاء القلوب pp. 242–334 (file 0243), ذم النسیان pp. 335–388 (file 0336), التثبیت بمراقبۃ المبیت pp. 389–410 (file 0390). زکوٰۃ النفس pp. 411–440 (file 0412). All sermons transcribed; next: the Vol 22 finishing sequence (mark_arabic, check_hadith, toc alignment, index, site, artifact). Corrections log: `reports/vol22-corrections.md`.
+- Volume 22 (ذکر و فکر): done (see Status). Next: Volume 23 — check whether its PDF is in the repository/Drive, read
+  its page offset and فہرست, and start the per-volume sequence (section 3) with a new folder.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
