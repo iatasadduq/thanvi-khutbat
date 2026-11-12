@@ -41,3 +41,4 @@
 | 371 (pr. 370) | ayah | «لا یخفف عنہم العذاب ولا ہم ینظرون» | marked 2:162 | the identical wording is also 3:88; first occurrence chosen |
 | 381 (pr. 380) | spelling | «ساٹنڈ» | written «سانڈ» | misprint |
 | 383 (pr. 382) | heading | «ہر چیز کی ایک خاصیت حق تعالیٰ شانہ کی حکمت ہے» (one printed heading) | written as two headings «ہر چیز کی ایک خاصیت» / «حق تعالیٰ شانہ کی حکمت ہے», as split in toc.tsv | toc.tsv splits the printed heading; may be rejoined at toc alignment |
+| 392 (pr. 391) | heading | «بعد وصال امتیوں کی حضور صلی اللہ علیہ وسلم کو ایذا دہی» | written «بعد وصال احمقوں کی…» as in toc.tsv | page and فہرست differ (امتیوں / احمقوں); toc wording kept for now — confirm at toc alignment |
