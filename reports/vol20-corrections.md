@@ -19,3 +19,5 @@
 | 165 (pr. 164) | ayah reference | «ان اللہ لا یضیع اجر المحسنین» | marked as 9:120 | the same words also close 11:115 and 12:90; the text says «کئی جگہ آیا ہے», so the first occurrence was chosen |
 | 224 (pr. 223) | wording | «تم اس متانت ہی میں رہوگی» addressed to a man | kept as printed | feminine verb form addressed to «مولانا»; likely a typesetting slip for «رہوگے» |
 | 251 (pr. 250) | missing words | p. 249 ends «کسی نے اپنے گھر والوں کو کہ:» and p. 250 begins «کھلایا۔» | kept as printed | words such as «کھانا» appear to have dropped at the page break; the sense (someone fed his household) is clear |
+| 290 (pr. 289) | ayah number missing | «(النساء آیت نمبر……)» | marked as 4:19 | the recited text is 4:19; the dots are kept as printed |
+| 291 (pr. 290) | ayah gloss | «قاصرات الطرف اتراب (نیچی نگاہ والی ایک عورت)» | marked as 38:52 | the printed gloss renders «اتراب» as «ایک»; the speaker's point (equal ages) rests on «اتراب», i.e. of one age |
