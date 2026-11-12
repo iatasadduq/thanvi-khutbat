@@ -25,3 +25,4 @@
 | 177 (pr. 176) | heading | «شریعت کی بے تمیزی پر علماء کا غصہ بجا ہے» printed twice on the page (before and after «رفع شبہ کی دو صورتیں») | kept as printed | the فہرست lists it once (p. 176); the first instance heads the نو تعلیم یافتہ anecdote |
 | 194 (pr. 193) | wording | «دیگر نصوص سے معلوم ہوتا ہے کہ عمداً بھی گناہ کرے تب بھی توبہ قبول نہیں ہوتی» | kept as printed | the argument needs «قبول ہوتی ہے» (the تعارض is between 4:17 and nusus accepting repentance for deliberate sin); a stray «نہیں» |
 | 199 (pr. 198) | wording | «گمان کی رخامت عاقبت» | kept as printed | evidently «ان کی وخامت عاقبت» (bad end); a misprint |
+| 210 (pr. 209) | couplet | «شکم صوفی راز بوں کرد وفرج» | kept as printed | the reading is unclear in the print (perhaps «شکم صوفیے را زبوں کرد فرج»); recorded as printed |
