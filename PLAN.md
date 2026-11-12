@@ -6,7 +6,18 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ---
 
-## 1. Status (2026-11-11)
+## 1. Status (2026-11-12)
+
+- **Volume 20 (حقوق الزوجین) — done, awaiting the owner's review.** Folder `Vol 20 huqooq uz zaujain/`. PDF page =
+  printed page + 1; text printed pp. 11–440 (10 sermons: حقوق البیت 11, الکمال فی الدین للنساء 52, رفع الالتباس 111,
+  اصلاح النساء 141, کساء النساء 162, العاقلات الغافلات 243, عضل الجاہلیہ 288, الاستماع والاتباع 312, منازعۃ الہویٰ 350,
+  غایۃ النجاح فی آیۃ النکاح 387), all transcribed (files 0012, 0053, 0112, 0142, 0163, 0244, 0289, 0313, 0351, 0388).
+  `toc.tsv` (309 rows): 10 headings/pages set to the page (logged). mark_arabic: DIFFERS 0, CITE 0 (p. 324 «الیٰ قولہ»
+  between 39:15 and 39:16 restored from the scan; two typing slips fixed). Hadith check: `reports/vol20-hadith-check.md`
+  (16 differs, all the book's wording). Corrections: `reports/vol20-corrections.md`. Index built (1867 entries); site
+  rebuilt (`site/v20.html`). `mark_arabic.py` now also skips date lines, «ظفر احمد عفا اللہ عنہ», «الملقب بہ…» and
+  Persian couplet lines with Urdu letters (Vols 1–19 output unchanged). Sessions 2026-11-12 ran as a scheduled
+  resume; the commit trailer now carries that session's link.
 
 - **Volume 19 (آداب انسانیت) — done, awaiting the owner's review.** Folder `Vol 19 adab e insaniyat/`. PDF page =
   printed page + 1; text printed pp. 11–464 (11 sermons from ذم ہویٰ p. 11 to عمل الذرہ p. 427), all transcribed (files
@@ -234,7 +245,7 @@ Update the **Status** and **Next steps** sections at the end of every working se
 3. Commit after every 10 pages (owner, 2026-11-07) and push to the branch above (`git pull --rebase` first). No pull request unless asked.
    Commit messages end with:
    `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` and
-   `Claude-Session: https://claude.ai/code/session_015uM8b6tEpHrmFhzz1XdWLQ`. No model name elsewhere.
+   `Claude-Session: <the current session link>` (2026-11-12: use the link of the session doing the work). No model name elsewhere.
 4. Scans may be under copyright: keep PDFs in this private repo; the public site gets **text only, no scans**.
 5. GitHub account: the owner's personal account **iatasadduq**.
 
@@ -312,11 +323,11 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 20: next (`scanned_version/Khutbaat-i-Hakeem-ul-Ummat-Vol-20.pdf`). Start with step 1 of §3 (offset, فہرست).
+- Volume 21: next (`scanned_version/Khutbaat-i-Hakeem-ul-Ummat-Vol-21.pdf`). Start with step 1 of §3 (offset, فہرست).
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
-- The owner will review `reports/vol02-corrections.md` … `reports/vol19-corrections.md` at leisure; revert anything the owner rejects.
+- The owner will review `reports/vol02-corrections.md` … `reports/vol20-corrections.md` at leisure; revert anything the owner rejects.
 - Question answering (RAG) over the books: revised plan in `RAG_PLAN.md` (2026-11-06), awaiting the owner's go-ahead;
   transcription stays the priority.
 - Still open with the owner: the master heading list for the index (HANDOFF §2); creating the public site repo
