@@ -21,3 +21,4 @@
 | 251 (pr. 250) | missing words | p. 249 ends «کسی نے اپنے گھر والوں کو کہ:» and p. 250 begins «کھلایا۔» | kept as printed | words such as «کھانا» appear to have dropped at the page break; the sense (someone fed his household) is clear |
 | 290 (pr. 289) | ayah number missing | «(النساء آیت نمبر……)» | marked as 4:19 | the recited text is 4:19; the dots are kept as printed |
 | 291 (pr. 290) | ayah gloss | «قاصرات الطرف اتراب (نیچی نگاہ والی ایک عورت)» | marked as 38:52 | the printed gloss renders «اتراب» as «ایک»; the speaker's point (equal ages) rests on «اتراب», i.e. of one age |
+| 293 (pr. 292) | names an earlier story differently | the fasting-prince story names «دیوبند کے ایک طبیب» | indexed under the existing «شاہزادہ دہلی کا روزہ، ہندو طبیب کی لیموں چاٹنے کی تدبیر» with the Vol 20 wording as a variant | the same story is told in an earlier volume with a Hindu physician; both forms are kept as printed |
