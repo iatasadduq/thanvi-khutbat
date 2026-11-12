@@ -11,3 +11,4 @@
 | 109 (pr. 108) | hadith spacing | «ینقطع اجرا لمؤمن بموتہ الا من ثلث» | kept as printed in the text; indexed as «ینقطع اجر المؤمن بموتہ الا من ثلث» | word boundary misplaced in the print |
 | 116 (pr. 115) | couplet | «تو بندگی چو گدایان بشرط مزد مکن / کہ خواجہ خود روشن بندہ پروری داند» | kept as printed; indexed under «… روش بندہ پروری داند» | «روشن» for Hafiz's «روش» (manner); the translation on the page («طریقہ») follows «روش» |
 | 117 (pr. 116) | couplet | «طفل ے لرزد زنیش احتجام / مادر مشفق ازاں غم شاد کام» | kept as printed; indexed under «طفل مے لرزد ز نیش احتجام / مادر مشفق ازاں شد شاد کام» | «می» lost its first letter in the print; the two Vol 15/19 entries with «ازاں غم» were moved under the same canonical form as variants |
+| 129 (pr. 128) | repeated words | «اسی لئے اسی لئے بعض جگہ» | kept as printed | typesetting repetition at the start of the section |
