@@ -21,3 +21,4 @@
 | 256 (pr. 255) | hadith | «فَعَلَيْهِ جَلْدٌ تَامٌّ وَتَغْرِيْبُ عَامٍ» | kept as printed | Bukhari has «جلد مائة»; the print (and its translation «پورے کوڑے») has «تام» |
 | 267 (pr. 266) | text | «مثلاً علم کا معلوم جدا ہوتا ہے، جس علم کا معلوم جس درجہ میں ہے اسی درجہ میں علم بھی ہوتا ہے» printed twice | kept as printed | typesetting repeat |
 | 267 (pr. 266) | text | «علم کناسی ارذل ہوگا اور علم خلافت اشرف» | kept as printed | «خلافت» is probably a misprint for «فلاحت» (the comparison is between كناسی and فلاحت) |
+| 300 (pr. 299) | text | «عاشق کی تو شان یہی ہے کہ ملامت سے ڈرے» | kept as printed | the next sentence («عاشق کو تو ملامت میں لطف آیا کرتا ہے») requires «نہ ڈرے»; probably a dropped «نہ» |
