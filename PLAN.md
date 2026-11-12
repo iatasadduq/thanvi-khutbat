@@ -353,7 +353,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   holds only the sermon rows for now; the full فہرست (pdf 7–16) is not typed, since the toc is regenerated from the page
   headings at the end anyway (as for Vols 21–22) — headings are read from the pages while transcribing. Page images:
   scratchpad `img23/` (all pages), half-pages `h23/` made for pdf 1–30 so far (`halves.py img23 h23 <first> <last>`).
-  Done: الاستغفار pp. 17–41 (file 0018), آثار الحوبۃ pp. 42–91 (file 0043). استمرار التوبۃ pp. 92–138 (file 0093), تفصیل التوبۃ pp. 139–169 (file 0140). Next: ضرورۃ التوبۃ from p. 170 (pdf 171) in `0171.txt`.
+  Done: الاستغفار pp. 17–41 (file 0018), آثار الحوبۃ pp. 42–91 (file 0043). استمرار التوبۃ pp. 92–138 (file 0093), تفصیل التوبۃ pp. 139–169 (file 0140), ضرورۃ التوبۃ pp. 170–200 (file 0171). Next: اول الاعمال from p. 201 (pdf 202) in `0202.txt`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
