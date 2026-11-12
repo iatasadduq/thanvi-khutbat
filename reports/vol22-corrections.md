@@ -31,3 +31,4 @@
 | 353 (pr. 352) | text | «یہ امین کے واسطے نبی ہیں۔ (یعنی جاہلوں کے واسطے)» | kept as printed | «امین» is evidently «امیین» (the unlettered) misprinted |
 | 356 (pr. 355) | text | «اے محمد صلی اللہ علیہ وسلم ابدا افضل ما صلی علی احد من خلقہ» | kept as printed | the Arabic is incomplete as printed (the expected wording of Jibril’s reassurance is «یا محمد انک رسول اللہ حقا»); kept verbatim |
 | 368 (pr. 367) | text | «بلکہ ان کو تو "لاتکونوا من الذین نسوا اللہ" (تم ان لوگوں کی مثل نہ ہو جانا…)» | kept as printed | the contrast requires «کالذین» here (the translation «مثل» confirms it); «من الذین» is a misprint |
+| 382 (pr. 381) | text | «اس لیے آپ نے جنت مانگی اور اس سے استغناء برتا» | kept as printed | the sense requires «استغناء نہ برتا»; probably a dropped «نہ» |
