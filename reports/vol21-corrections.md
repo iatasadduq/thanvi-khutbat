@@ -19,3 +19,5 @@
 | 138 (pr. 137) | misprints | «حضور صلی اللہ علیہ وسلم کو ظاہری شہادت خفیہ… سے افضل ہے»؛ «دوسروں کی شہادت جامہ سے» | kept as printed | the sense is «حضور ﷺ کی باطنی شہادت خفیہ… شہادت جلیہ سے افضل»; «جامہ» for «جلیہ» |
 | 142 (pr. 141) | couplet gloss | «جن کی تنگی معلوم ہو» as the gloss of «چونکہ قبض آید» | kept as printed | «جن» is a slip for «جب» |
 | 150 (pr. 149) | wording | «اور احوال من کل وجہ اختیاری ہیں» | kept as printed | the argument needs «غیر اختیاری»; a dropped «غیر» (cf. p. 118) |
+| 151 (pr. 150) | wording | «سونے والا نہیں سونے والا ہی ہے جس کو…» | kept as printed | the sense is «سونے والا وہی ہے» |
+| 159 (pr. 158) | citation | «حفت الجنة بالمكاره…» cited as «الصحیح لمسلم المقدمہ: ۱» | kept as printed | the hadith is in Muslim, کتاب الجنۃ (no. 2822), not the Muqaddima |
