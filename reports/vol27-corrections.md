@@ -62,3 +62,4 @@
 | 372 (pr. 371) | misprint | «دینی کاموں میں خلوص کی حاجت تو خلوص سے بہت زیادہ ہے» | kept as printed | sense needs «فلوس سے» (cf. «فلوس کی طرف زیادہ نظر» next) |
 | 372 (pr. 371) | misprint | «گو درمیان میں مضامین علیہ بھی آ گئے» | kept as printed | probably «مضامین علمیہ» |
 | 373 (pr. 372) | ayah | the start of the ayah is damaged in the scan («… ان یطفئوا نور اللہ بافواہہم ویابی اللہ الا ان یتم نورہ») | marked ﴿9:32﴾ from «يُرِيۡدُوۡنَ» | 9:32 (not 61:8, which has «لِيُطۡفِـُٔوۡا»); the gloss starts «وہ چاہتے ہیں» |
+| 381 (pr. 380) | misprint | «یہ اسماء متقین من الحدیث ہیں» | kept as printed | sense needs «مشتقین» (names derived from the hadith) |
