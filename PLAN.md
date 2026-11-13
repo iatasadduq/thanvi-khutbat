@@ -382,7 +382,10 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   Arabic, left. Hadith check: `reports/vol26-hadith-check.md` (25 differs, all the book's wording or normalisation
   noise). Corrections: `reports/vol26-corrections.md` (owner rows e.g. p. 356 sentence breaks off, p. 425 garbled
   passage, p. 442 «لبا من», p. 454 «صبر یا» probably «کبریا»). Index built (1759 entries). Added to `VOLUMES` in
-  `tools/build_site.py`; site rebuilt (`site/v26.html`). Preview: see Status.
+  `tools/build_site.py`; site rebuilt (`site/v26.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/9MYc2frQfRvCdC2XiSvMcj (watched in this session, with the Vol 23–25 previews).
+- **Volume 27 — next.** PDF `Khutbaat-i-Hakeem-ul-Ummat-Vol-27.pdf` (441 pages); page images extracted to the scratchpad
+  (`h27/`). Start with step 1 (offset, فہرست into `toc.tsv`).
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
