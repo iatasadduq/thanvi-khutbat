@@ -82,3 +82,5 @@
 | 358 (pr. 357) | Urdu | «ہشام ابن عربی» (for «ابن عروہ»)، «تیزہ لگا» (for «نیزہ»)، «طلا اور مکس بیان کرتے ہیں» (translates the garbled Arabic) | kept as printed | |
 | 359 (pr. 358) | Urdu | «شرجیل» / «ترجیل» (for «شرحبیل»)، «اسود بن بلال» (for «ہلال»)، «حضرت عیاض» | kept as printed; the sermon file 0299 (with its appended notes) ends here, the next sermon «شوق اللقاء» begins on p. 359 (pdf 360) | |
 | 361 (pr. 360) | text | gloss of 62:7 «اللہ تعالیٰ کو خوف اطلاع ہے» | kept as printed («خوب اطلاع») |
+| 362 (pr. 361) | text | four ayah fragments numbered «(۲) (۳) (۴)» without citations | marked 17:53, 16:125, 23:96 (ادفع بالتی ہی احسن is also 41:34), 41:36 (also 7:200) | numbers kept as printed |
+| 363 (pr. 362) | text | «اس مہربان سے مراد نامہربان ہوتی ہے» | kept as printed; the couplet «بد لگامی شوی» (other volumes «بدرگ می شوی») | |
