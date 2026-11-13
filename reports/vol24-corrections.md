@@ -29,3 +29,4 @@
 | 203 (pr. 202) | text | «اس لئے یہ اضافت حقیقیہ ہے» (second time, of heart and mind) | kept as printed | sense requires «مغائرت حقیقیہ» or similar (the earlier sentence calls the روح's اضافت مجازیہ); left as in the book |
 | 241 (pr. 240) | text | «اصل علاج طبیعت کا بڑا سبب خوف اور فکر ہے» | kept as printed | the sense needs «اصل علاج طبیعت (کے ضعف) کا بڑا سبب»; a word seems dropped; left as in the book |
 | 243 (pr. 242) | text | «چنانچہ دوسری تدابیر کو بھی منع فرمایا» | kept as printed | the following sentences list measures that are allowed («جائز ہے بلکہ ایسا کرنا چاہئے»); «نہیں» seems dropped («منع نہیں فرمایا»); left as in the book |
+| 247 (pr. 246) | title | «الملفوظ المسمیٰ بہ الطاحون لمن فر من الطلعون» (an appended ملفوظ of 11 Ramadan 1344, pp. 246–251, not in the book's sermon list) | written as its own «# …» title inside file 0171 | it is a separate piece with its own date, so it gets a title row; «الطلعون» kept as printed (perhaps a pun on الطاعون) |
