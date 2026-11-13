@@ -41,3 +41,4 @@
 | 261 (pr. 260) | Persian | «گرتو بیداد کنی شرف مروت نبود» | kept as printed | the known line is «شرط مروت» |
 | 284 (pr. 283) | Persian | «بقدر ضرورت بسیارے بود» | kept as printed | the known line (already in the index) is «یسارے بود»; «بسیارے» looks like a misprint |
 | 284 (pr. 283) | colophon | «اشرف علی ۱۲ ج ۱۳۵۰ھ» | kept as printed | month abbreviated «ج» (جمادی); the sermon itself is dated ۱۲ جمادی الاولیٰ ۱۳۴۵ھ |
+| 286 (pr. 285) | translation | «اے ایمان والو جیسے جانوں کی حفاظت کرو» | kept as printed | «جیسے» looks like a misprint for «اپنی» |
