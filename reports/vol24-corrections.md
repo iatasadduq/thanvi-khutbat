@@ -17,3 +17,4 @@
 | 92 (pr. 91) | text | «قلب مبالات بالدین» | «قلت مبالات بالدین» | the same phrase «قلت مبالات» is on p. 90; ب for ت is a typesetting slip |
 | 94 (pr. 93) | verse | «ام الجنائث خواند» | «ام الخبائثش خواند» | Hafiz's line as given elsewhere in the series; ج/ن for خ/ب is a typesetting slip |
 | 104 (pr. 103) | text | «جس میں شرکت کی طالب علم کو ضرورت ہو دوسرے مدرسے میں وہ نہیں ہوتی تو اس صورت میں اس طالب کو ضرورت ہے اور دوسرے مدرسے میں وہ نہیں ہوتی» | kept as printed | the clause is printed twice (dittography); left as in the book |
+| 110 (pr. 109) | text | last words of the page are faint: «الفاظ ادا نہ ہوں تو» | written as read from a zoomed, contrast-boosted crop | reading is likely but not certain; the next page continues «کیا حرج ہے» |
