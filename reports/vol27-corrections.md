@@ -53,3 +53,6 @@
 | 364–365 (pr. 363–364) | Arabic note | the compiler's takhrij of «طلب العلم فریضۃ» («رواہ ابن عبد اللہ… لیس لہ اسناد ثابت») | kept as printed in one «…» mark | misprints such as «ابن عبد اللہ» (for ابن عبد البر), «ردہ بناہ», «السمعونیات», «ثناء» are kept; owner to confirm |
 | 366 (pr. 365) | misprint | «یہ امور آپ کے قرآن میں بھی تھے» | kept as printed | sense needs «اقران» (contemporaries, cf. «اقران و ہم عصر» above); owner to confirm |
 | 366 (pr. 365) | book name | «بہشتی جوہر حصہ اول» | kept; indexed under بہشتی زیور | probably بہشتی گوہر |
+| 368 (pr. 367) | ayah reference | «من جاء بالحسنۃ فلہ خیر منہا» | marked ﴿27:89﴾ | the same words are also 28:84 |
+| 368 (pr. 367) | parenthesis and Arabic note | «مکروہات (محرمات کا ارتکاب ہو گیا…» has no closing bracket in print; the compiler's Arabic note has misprints («تقبیہ», «التنزیہتہ», «المجمہ», «نعیم») | written as printed; the open bracket closed after «نماز خالص» | owner to confirm the reading of the Arabic note |
+| 368 (pr. 367) | misprint | «اس سے معلوم ہوا کہ علم سے جزاء افضل ہے» | kept as printed | sense needs «عمل سے» |
