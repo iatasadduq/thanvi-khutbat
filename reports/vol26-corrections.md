@@ -11,3 +11,4 @@
 | 90 (pr. 89) | couplet | «نمائد بھیاں کے در گرد که دارو چنیں سید پیشرو» | kept as printed | Persian hemistich garbled in the scan; sense given in the gloss |
 | 132 (pr. 131) | citation | «(سورۃ الاحزاب آیت نمبر ۷۰، ۷۱)» | kept as printed | 33:69 is also quoted in the khutba; the citation names only 70–71 |
 | — | toc | فہرست gives الاسعاد والابعاد 146 | first toc.tsv row read 136 by mistake, now 147 | printed 146 is still تسہیل الاصلاح; the sermon has no title page and starts with its khutba on printed 147 (file 0148) |
+| 159 (pr. 158) | garbled passage | «یہی معنی مولانا کا نام قاسم تھا۔ … اور تیسرے معنی یہ ہیں کہ فاضل (یعنی مسمی بہ فاضل قاسم کے ہیں» | kept as printed | a line seems lost: the second meaning is never stated and the bracket is not closed |
