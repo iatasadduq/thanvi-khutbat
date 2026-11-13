@@ -30,3 +30,5 @@
 | 163 (pr. 162) | text | «اینجا نردانند» | kept | probably «مردانند» as in other volumes |
 | 168 (pr. 167) | text | «جیسے کانپوری کو فرمایا…» bracket not closed | kept | probably «جیسے مولانا محمد حسین کانپوری»; name dropped in print |
 | 172 (pr. 171) | hadith | «فلینا فر عنه» | kept as printed | the known wording is «فلینأ عنه» |
+| 179 (pr. 178) | — | blank page (verso of the title page); sermon text begins pdf 180 (printed 179) | | |
+| 180 (pr. 179) | 2:189 | printed «ولیس البران تاتوا البیوت من ظهورها ولکن البر من اتقیٰ واتوا البیوت من ابوابها واتقوا الله لعلکم تفلحون» | Qur'anic text written | |
