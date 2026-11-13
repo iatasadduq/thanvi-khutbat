@@ -59,3 +59,7 @@
 | 302 (pr. 301) | text | «قرآن خبر بھی ہے کیا چیز ہے؟»، «ایتا سے مراد» | kept as printed | probably «قرآن کی خبر بھی ہے کیا چیز ہے» / «ایتاء» |
 | 303 (pr. 302) | text | «قرآن کے لئے مظہر و بطن ہے»، «بعض بطون ایسے ہی» | kept as printed | for «ظہر و بطن» / «ایسے ہیں» |
 | 307 (pr. 306) | text | «وہو عذ نویت» | kept as printed | for «وبصوم غد نویت» |
+| 308 (pr. 307) | text | «صنم ضمیمہ کا محتاج»، «الل جاتے ہیں»، «سب سے زیادہ آج کل ہیں» | kept as printed | probably «ضم ضمیمہ» / «الٹ جاتے ہیں»; the last clause is garbled |
+| 309 (pr. 308) | text / verse | «دواک منک وما تشعر / دواک منک وما تبصر» | kept as printed | the known verse is «دواؤک فیک وما تشعر / وداؤک منک وما تبصر» — owner to decide; gloss of «خود کوزہ» is garbled in print |
+| 310 (pr. 309) | hadith | «ثم تلد ہذہ الآیۃ»; ref «سنن الترمذی: ۶۹۵» (p. 301 has ۶۵۹) | kept as printed | for «ثم تلا»; the two references differ in print |
+| 312 (pr. 311) | verse | «در درویش راہ دربان نباید»، «بباید تاسگ دنیا نیاید» | kept as printed («راہ» for «را») | index term uses the usual wording |
