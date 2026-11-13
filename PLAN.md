@@ -389,7 +389,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   تعظیم العلم 17, طلب العلم 86, الہدیٰ والمغفرۃ 104, ضرورۃ العمل فی الدین 149, تفاضل الاعمال 178, الفضل العظیم 204,
   اشرف العلوم 234, شکر المثوی 285, مظاہر الاحوال 314, مفتاح الخیر 360, تقلیل الکلام 381; each file named after its title
   pdf page (0018, 0087, …; check each title page). `toc.tsv` has the 11 sermon rows. Page images in the scratchpad `h27/`.
-  Corrections: `reports/vol27-corrections.md`. Transcribed so far: تعظیم العلم complete (0018, pdf 18–86); طلب العلم complete (0087, pdf 87–104); الہدیٰ والمغفرۃ complete (0105, pdf 105–149); ضرورۃ العمل فی الدین complete (0150, pdf 150–178); تفاضل الاعمال complete (0179, pdf 179–204); الفضل العظیم complete (0205, pdf 205–234, with تنبیہات وعظ). Next: اشرف العلوم, pdf 235.
+  Corrections: `reports/vol27-corrections.md`. Transcribed so far: تعظیم العلم complete (0018, pdf 18–86); طلب العلم complete (0087, pdf 87–104); الہدیٰ والمغفرۃ complete (0105, pdf 105–149); ضرورۃ العمل فی الدین complete (0150, pdf 150–178); تفاضل الاعمال complete (0179, pdf 179–204); الفضل العظیم complete (0205, pdf 205–234, with تنبیہات وعظ); اشرف العلوم complete (0235, pdf 235–285). Next: شکر المثوی, pdf 286.
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
