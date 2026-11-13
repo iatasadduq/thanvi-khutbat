@@ -99,3 +99,5 @@
 | 397 (pr. 396) | verse | «چوں چنین کار اسب اندر رہ ترا» | kept as printed | usual «کارے ست» |
 | 399 (pr. 398) | verse | «اے دل آں بہ کہ خراب از گلگوں باشی» | kept as printed («از مے گلگوں» elsewhere) | |
 | 401 (pr. 400) | text | numbering «(۳)» and «(۴)» appear without (۱)/(۲) in print | kept as printed | |
+| 404 (pr. 403) | text | the کفن چور story: in print the thief gives the 5 rupees («مجھ سے پانچ روپے لے لو») | kept as printed | in Vol 22 version the saint pays; reused the existing story title |
+| 405 (pr. 404) | text | «مومن کے واسطے گھر سے اس کی قبر تک فرشتے دعاء و استغفار کرتے ہیں… اس سے ظاہر ہے کہ جس قدر زیادہ فاصلہ ہوگا اس کی رحمت کا سامان ہے» (argument as printed seems reversed) | kept as printed | |
