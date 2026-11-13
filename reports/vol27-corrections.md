@@ -46,3 +46,4 @@
 | 344–345 (pr. 343–344) | misprint | «اس کے کلام کا شوق تو نہیں ہوا», next page «کلام صوق نہیں» | «سوق» in both | the term for the purpose of a text (سیاق/سوق الکلام) in the definition of اشارۃ النص |
 | 346 (pr. 345) | misprint | «قطعیں الثالث متعین ہو گئے» | kept as printed | probably «قطعاً المعنی الثالث» or «فتعین الثالث»; owner to confirm |
 | 347 (pr. 346) | ayah reference | «یایہا الذین امنوا» quoted as a form of address found in many ayat | marked ﴿2:178﴾ (the qisas ayah, addressed to believers about a grave sin) | any of many ayat would do; owner may prefer another |
+| 348 (pr. 347) | misprint | «صمارہ قلندر سزوار بمن نمائی … دیدم رہ درہم پارسائی» | «صنما رہ قلندر سزوار بمن نمائی … دیدم رہ و رسم پارسائی» | the next sentence explains «رہ رسم و پارسائی»; the couplet is so written elsewhere in the series |
