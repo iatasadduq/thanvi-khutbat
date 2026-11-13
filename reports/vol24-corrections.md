@@ -105,3 +105,5 @@
 | 414 (pr. 413) | text | «اس کو وہ مالک نابالغوں کا حصہ محفوظ رکھ کر» | kept as printed (sentence garbled) | |
 | 416 (pr. 415) | text / verse | «اگر اشتعال نہیں ہے تو پڑا مت ہو»، «جب تم اہل حاجت ہو کہ مستغنی ہو» | kept as printed («پروا مت کرو»?) | |
 | 417 (pr. 416) | text | «ایسی حالت بنا لو کہ جب سوچ و موت سے کراہت نہ ہو» | kept as printed | sermon ends «اس کے بعد لوگوں نے دعا مانگی اور وعظ ختم ہوا» |
+| 418 (pr. 417) | text | the summary under the title opens with a quotation mark and a gloss «کیا ہم قرآن شریف اتارنا چھوڑ دیں…» (of 43:5 «افنضرب عنکم الذکر صفحا») | kept as printed | |
+| 419 (pr. 418) | text | «بلکہ یہی احکام اور واقعات بیان ہوتے ہیں۔ اہتمام ہی نہیں کہ دوسرے معنی لے لئے جاویں» | kept as printed | the argument breaks off here; text appears to be missing in print between «اختیار کرے» and «بلکہ» |
