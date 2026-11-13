@@ -370,7 +370,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039), السوق لاہل الشوق pp. 79–169 (file 0080),
   خیر الحیات و خیر الممات pp. 170–245 + appended ملفوظ «الطاحون لمن فر من الطلعون» pp. 246–251 (file 0171; given its
   own «#» title), دواء العیوب pp. 252–297 (file 0253; ends with a poem, no colophon). Qur'an check DIFFERS 0 so far.
-  Half-pages `h24/` exist for pdf 1–340. Next: الجمعین بین النفعین from p. 298 (pdf 299) in `0299.txt`.
+  الجمعین بین النفعین pp. 298–358 (file 0299; includes the appended Arabic notes «تحقیق معنی الطاعون…» from Fath al-Bari with their Urdu translation, pp. 349–358, transcribed as printed with misprints logged). Half-pages `h24/` exist for pdf 1–425. Next: شوق اللقاء from p. 361 (pdf 362) in `0360.txt` (pp. 359–360 done).
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
