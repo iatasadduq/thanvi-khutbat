@@ -27,3 +27,4 @@
 | 425 (pr. 424) | unclear wording | «…اور ایک علاج فرض ہے جو نفس میں موجود ہے … کبر و غیبت سے مقدم انس کا علاج ضروری ہے… کبر و غیبت و موطن وغیرہ» | kept as printed | the passage seems garbled: «علاج فرض» perhaps «عرض» (a symptom, cf. «غرض ضعیف» just after, itself perhaps «عرض ضعیف»), «انس کا» perhaps «اس کا», «موطن» unclear |
 | 442 (pr. 441) | unclear word | «لبا من سے تاریخ رکھوانا» | kept as printed | probably «برہمن» or «لگن»; the print is unclear |
 | 451 (pr. 450) | book title | «دیکھو رد المختار میں لکھا ہے» | kept as printed | misprint for «رد المحتار» (ابن عابدین); the term head uses the standard spelling |
+| 454 (pr. 453) | unclear word | «یہ صفت کسی اور کے لئے نہیں ہو سکتی وہ صبر یا ہے» | kept as printed | probably a misprint for «کبریا»; in the same passage «اس کے عموں کو» is perhaps «اس کے عموم کو», and «چھ نہ کچھ» is a misprint for «کچھ نہ کچھ» |
