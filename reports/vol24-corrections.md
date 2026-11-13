@@ -28,3 +28,4 @@
 | 55 (pr. 54) | marking | ﴿24:30-31|…﴾ one mark over two partial ayat | split into ﴿24:30|…﴾ ﴿24:31|…﴾ | each part is the opening of its own ayah |
 | 203 (pr. 202) | text | «اس لئے یہ اضافت حقیقیہ ہے» (second time, of heart and mind) | kept as printed | sense requires «مغائرت حقیقیہ» or similar (the earlier sentence calls the روح's اضافت مجازیہ); left as in the book |
 | 241 (pr. 240) | text | «اصل علاج طبیعت کا بڑا سبب خوف اور فکر ہے» | kept as printed | the sense needs «اصل علاج طبیعت (کے ضعف) کا بڑا سبب»; a word seems dropped; left as in the book |
+| 243 (pr. 242) | text | «چنانچہ دوسری تدابیر کو بھی منع فرمایا» | kept as printed | the following sentences list measures that are allowed («جائز ہے بلکہ ایسا کرنا چاہئے»); «نہیں» seems dropped («منع نہیں فرمایا»); left as in the book |
