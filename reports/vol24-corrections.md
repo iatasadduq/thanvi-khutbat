@@ -26,3 +26,4 @@
 | 167 (pr. 166) | ayat | «لست علیہم بمصیطر ولا تسئل عن اصحب الجحیم ولا تحزن علیہم فان اعرضوا فما ارسلنک علیہم حفیظا ان علیک الا البلغ» printed as one run | marked as four separate pieces: 88:22, 2:119 (part), 27:70 (part), 42:48 (part) | the book strings together phrases from four surahs with no citation; each piece is marked to its own ayah |
 | 37 (pr. 37) | marking | closing «آمین برحمتک یا ارحم الراحمین» left unmarked | wrapped as «…» | a dua, not an ayah; the Qur'an check flagged it |
 | 55 (pr. 54) | marking | ﴿24:30-31|…﴾ one mark over two partial ayat | split into ﴿24:30|…﴾ ﴿24:31|…﴾ | each part is the opening of its own ayah |
+| 203 (pr. 202) | text | «اس لئے یہ اضافت حقیقیہ ہے» (second time, of heart and mind) | kept as printed | sense requires «مغائرت حقیقیہ» or similar (the earlier sentence calls the روح's اضافت مجازیہ); left as in the book |
