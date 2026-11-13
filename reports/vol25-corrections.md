@@ -7,3 +7,5 @@
 | 26 (pr. 25) | hadith | «من حسن اسلام المرئ ترکه مالا یعنیه» | «المرء»، «ما لا» | hamza spelling normalised |
 | 29 (pr. 28) | 28:24 | printed «رب بما انزلت الی من خیر فقیر» | Qur'anic text «رَبِّ اِنِّيۡ لِمَا٘ اَنۡزَلۡتَ اِلَيَّ…» written | the book quotes from memory |
 | 29 (pr. 28) | dua | printed «غیر مودع ولامکفی ولامستغنی عنه ربنا» | spacing «ولا مکفی ولا مستغنی» | |
+| 33 (pr. 32) | text | «ابتدء میں» | kept | probably «ابتداء میں» |
+| 36 (pr. 35) | couplet | «اور لقائے تو جواب ہر سوال» | kept | the Masnavi reads «اے لقائے تو»; probably a misprint |
