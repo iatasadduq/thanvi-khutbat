@@ -54,3 +54,5 @@
 | 389 (pr. 388) | text | «بعض سے مراد وہ جس کا استناد نص کی طرف نہ ہو» | context suggests «ظن سے مراد»; kept as printed | |
 | 392 (pr. 391) | 53:3 | printed «ماینطق عن الهوی» | Qur'anic «وما ینطق عن الهوی» | |
 | 395 (pr. 394) | 2:102 | printed «ولقد عملوا» and «لو کانو» | Qur'anic «ولقد علموا», «لو کانوا» | |
+| 380 (pr. 379) | hadith | «لا ینبغی للمؤمنین ان یذل نفسه» | «لا ینبغی للمؤمن ان یذل نفسه» | plural is a slip: «نفسه» is singular; Tirmidhi 2254 and Ibn Majah 4016 read «للمؤمن» |
+| — | hadith check | 17 other «differs» in reports/vol25-hadith-check.md (pp. 27, 43, 50, 53, 68, 70, 74, 97, 102, 103, 139, 140, 150, 164, 297, 345, 400) | kept as printed | transcribed from the scans; read as wording variants of other narrations or the speaker's paraphrase, not misprints (not re-opened one by one at this step) |
