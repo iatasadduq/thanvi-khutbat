@@ -28,3 +28,4 @@
 | 149 (pr. 148) | hadith | printed «…احینی ماعلمت الحیوة خیرا وتوفنی اذا علمت الوفاة خیرا…» | the book's wording kept (without «لی») | |
 | 158 (pr. 157) | text | «تو یا یعنی قدما لی الطریق بدون اسے» | kept as printed | garbled phrase; for the owner |
 | 163 (pr. 162) | text | «اینجا نردانند» | kept | probably «مردانند» as in other volumes |
+| 168 (pr. 167) | text | «جیسے کانپوری کو فرمایا…» bracket not closed | kept | probably «جیسے مولانا محمد حسین کانپوری»; name dropped in print |
