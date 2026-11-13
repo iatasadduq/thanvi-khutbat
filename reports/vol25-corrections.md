@@ -9,3 +9,7 @@
 | 29 (pr. 28) | dua | printed «غیر مودع ولامکفی ولامستغنی عنه ربنا» | spacing «ولا مکفی ولا مستغنی» | |
 | 33 (pr. 32) | text | «ابتدء میں» | kept | probably «ابتداء میں» |
 | 36 (pr. 35) | couplet | «اور لقائے تو جواب ہر سوال» | kept | the Masnavi reads «اے لقائے تو»; probably a misprint |
+| 43 (pr. 42) | text | «اولاد کو اس کی حدود پر رکھا» | kept | the sense needs «نہ رکھا» |
+| 45 (pr. 44) | 9:112 | printed «بشر المؤمنون» and «والحافظون لحدود دالله» | Qur'anic text written | |
+| 45 (pr. 44) | text | «اور دنیا مقصود بالذات ہے» | kept | the sense needs «دین مقصود بالذات ہے»; for the owner |
+| 47 (pr. 46) | couplet | «ریگ کاغذ بود و انگشتان قلم ☆ مے نویسی بہر کس نامہ رقم» | kept | other volumes print «می نمودی»; the gloss here belongs to the next couplet's answer |
