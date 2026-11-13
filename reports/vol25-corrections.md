@@ -42,3 +42,4 @@
 | 284 (pr. 283) | Persian | «بقدر ضرورت بسیارے بود» | kept as printed | the known line (already in the index) is «یسارے بود»; «بسیارے» looks like a misprint |
 | 284 (pr. 283) | colophon | «اشرف علی ۱۲ ج ۱۳۵۰ھ» | kept as printed | month abbreviated «ج» (جمادی); the sermon itself is dated ۱۲ جمادی الاولیٰ ۱۳۴۵ھ |
 | 286 (pr. 285) | translation | «اے ایمان والو جیسے جانوں کی حفاظت کرو» | kept as printed | «جیسے» looks like a misprint for «اپنی» |
+| 304 (pr. 303) | ayah | «لاتحزن علیهم» | written as 27:70 | the same words occur in 15:88, 16:127 and 27:70; the book gives no reference |
