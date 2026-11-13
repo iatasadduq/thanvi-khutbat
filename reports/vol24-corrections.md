@@ -109,3 +109,5 @@
 | 419 (pr. 418) | text | «بلکہ یہی احکام اور واقعات بیان ہوتے ہیں۔ اہتمام ہی نہیں کہ دوسرے معنی لے لئے جاویں» | kept as printed | the argument breaks off here; text appears to be missing in print between «اختیار کرے» and «بلکہ» |
 | 420 (pr. 419) | text | «احتمام ناشی عن دلیل»، «قرائن تو یہی کہتے ہیں کہ غلط نہیں کیا تواریخ سے بھی گئیں» | kept as printed | «احتمال»; second sentence garbled |
 | 421 (pr. 420) | text | «ایک بات بھی متفق علیہ ثابت ہوئی» (sense «نہ ہوئی»)؛ «اور رشتے کی ضرورت»؛ «کیا ان احکام کو یونہی نہیں چھوڑ دیا» | kept as printed | |
+| 423 (pr. 422) | text | right margin cut off in the scan on several lines of the lower half | missing letters supplied from context: «پروا [نہیں]»، «[ضرو]ری کا ذریعہ»، «مدر[سے] [بھی] ضروری»، «مگر [ا]ن کے معاملہ»، «جب کوئی [کہ]تا ہے»، «صحیح بھی [ہو]»، «ہمیشہ کی [مصیبت]یں» | owner to check against another copy |
+| 424 (pr. 423) | text | «اگر ان کا نتیجہ ابھی چھپا دیا گیا ہے»، «اپنی غرض کو......» (dots in print) | kept as printed | |
