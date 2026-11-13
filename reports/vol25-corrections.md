@@ -35,3 +35,4 @@
 | 185 (pr. 184) | 28:68 | printed «سبحانه وتعالیٰ عما یشرکون» | Qur'anic text «سبحان اللہ وتعالیٰ عما یشرکون» | |
 | 202–203 (pr. 201–202) | text | page 201 ends «…غرض» and page 202 resumes the تابیر story with «صحابہ نے تابیر کو اس سال چھوڑ دیا» | kept as printed | read as the end of the digression; possibly a few words missing in print |
 | 203 (pr. 202) | 2:189 | printed «واتوا البیوت من ابوابها» | Qur'anic text written | |
+| 213 (pr. 212) | Persian | «دماغ بے ہودہ پخت وخیال باطل ست» | kept as printed | the known line is «…خیال باطل بست»; the Urdu gloss «خیال باطل باندھا» supports «بست» |
