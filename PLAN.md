@@ -360,7 +360,15 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
   branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
-- Volume 24: next. Start with step 1 of §3 (page offset, title pages, sermon rows of `toc.tsv`).
+- Volume 24 (موت و حیات): started 2026-11-13. Folder `Vol 24 maut o hayat/`. PDF page = printed page + 1 (425 PDF
+  pages); text printed pp. 18–424 (10 sermons, title pages found by ink density and read from the scans: ذکر الموت 18,
+  رجاء اللقاء 38, السوق لاہل الشوق 79, خیر الحیات و خیر الممات 170, دواء العیوب المعروف بہ شام خورشید 252, الجمعین بین
+  النفعین 298, شوق اللقاء 359, احکام و مسائل متعلق موت 389, اشرف المواعظ (پہلا وعظ) 407, (دوسرا وعظ) 417). `toc.tsv`
+  holds the sermon rows only (regenerate from page headings at the end, as for Vol 23). Page images: scratchpad
+  `img24/` (all pages), half-pages `h24/` made for pdf 1–80 (`halves.py img24 h24 <first> <last>`). Corrections log:
+  `reports/vol24-corrections.md`.
+  Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039). Next: السوق لاہل الشوق from p. 79 (pdf 80)
+  in `0080.txt`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
