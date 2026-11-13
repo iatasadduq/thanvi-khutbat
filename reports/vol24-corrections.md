@@ -6,3 +6,4 @@
 | 28 (pr. 27) | hadith | «اکثروا ذکرھا ذم اللذات» | «اَكْثِرُوْا ذِكْرَ هَاذِمِ اللَّذَّاتِ» | split/misprinted word; the heading on the same page reads «ہاذم اللذات» |
 | 32 (pr. 31) | hadith | «اذا اصحبت فلا تحدث … واذا امسیت فلا تحدث فی نفسک بالصبح» | «اِذَا اَصْبَحْتَ فَلَا تُحَدِّثْ نَفْسَكَ بِالْمَسَاءِ وَاِذَا اَمْسَيْتَ فَلَا تُحَدِّثْ نَفْسَكَ بِالصَّبَاحِ» | «اصحبت» misprint; «فی نفسک بالصبح» brought in line with the first half and the collections (Ibn Umar) |
 | 34 (pr. 33) | person | «حافظ صاحب» (beside حاجی صاحبؒ, «صاحب جلال») | indexed as حضرت حافظ محمد ضامن شہیدؒ | identification, not a text change: the Thana Bhawan companion of Haji Imdadullah known for جلال |
+| 38 (pr. 37) | text | «شاہ صاحب» for the فقیر of the story begun on p. 35 | kept as printed | the story calls him «فقیر»/«بزرگ» elsewhere; «شاہ صاحب» is a usual title for a faqir |
