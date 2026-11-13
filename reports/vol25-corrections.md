@@ -33,3 +33,5 @@
 | 179 (pr. 178) | — | blank page (verso of the title page); sermon text begins pdf 180 (printed 179) | | |
 | 180 (pr. 179) | 2:189 | printed «ولیس البران تاتوا البیوت من ظهورها ولکن البر من اتقیٰ واتوا البیوت من ابوابها واتقوا الله لعلکم تفلحون» | Qur'anic text written | |
 | 185 (pr. 184) | 28:68 | printed «سبحانه وتعالیٰ عما یشرکون» | Qur'anic text «سبحان اللہ وتعالیٰ عما یشرکون» | |
+| 202–203 (pr. 201–202) | text | page 201 ends «…غرض» and page 202 resumes the تابیر story with «صحابہ نے تابیر کو اس سال چھوڑ دیا» | kept as printed | read as the end of the digression; possibly a few words missing in print |
+| 203 (pr. 202) | 2:189 | printed «واتوا البیوت من ابوابها» | Qur'anic text written | |
