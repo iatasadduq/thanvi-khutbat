@@ -98,3 +98,4 @@
 | 395 (pr. 394) | verse | «کہ کھے اللہ دروغے میزنی»، «کار بار او است باید داشتن» | kept as printed | usual «گہ کشی اللہ…»، «کار با او راست باید داشتن» |
 | 397 (pr. 396) | verse | «چوں چنین کار اسب اندر رہ ترا» | kept as printed | usual «کارے ست» |
 | 399 (pr. 398) | verse | «اے دل آں بہ کہ خراب از گلگوں باشی» | kept as printed («از مے گلگوں» elsewhere) | |
+| 401 (pr. 400) | text | numbering «(۳)» and «(۴)» appear without (۱)/(۲) in print | kept as printed | |
