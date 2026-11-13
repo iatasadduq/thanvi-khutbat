@@ -9,3 +9,4 @@
 | 38 (pr. 37) | text | «شاہ صاحب» for the فقیر of the story begun on p. 35 | kept as printed | the story calls him «فقیر»/«بزرگ» elsewhere; «شاہ صاحب» is a usual title for a faqir |
 | 41 (pr. 40) | text | «جب سب سے زیادہ آسان کام کی یہ حالت ہے کہ وہ تدبیروں اور طریقوں سے آسان معلوم ہونے لگیں اور تدبیر و ہمت سے کچھ بھی کام لینا نہ پڑے ان کے آسان ہونے کا بھی یہی طریقہ ہے» | kept as printed | a clause seems missing (likely «تو دین کے کام … ») between «… معلوم ہونے لگیں» and «اور تدبیر» |
 | 42 (pr. 41) | heading | «جزا مقدار» | kept as printed | the text speaks of «جزا مقدر» (the elided apodosis); the heading probably meant «جزا مقدر» |
+| 48 (pr. 47) | text | «تو لامحالہ دنیوی ضرورت میں صرف کرنے ہی سے روپیہ کی راحت معلوم ہوتی ہے، لامحالہ دنیوی ضرورت میں …» | kept as printed | a partly doubled phrase (dittography) |
