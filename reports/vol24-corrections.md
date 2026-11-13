@@ -104,3 +104,4 @@
 | 407 (pr. 406) | text | sermon ends at p. 406 without a closing formula or colophon | | |
 | 414 (pr. 413) | text | «اس کو وہ مالک نابالغوں کا حصہ محفوظ رکھ کر» | kept as printed (sentence garbled) | |
 | 416 (pr. 415) | text / verse | «اگر اشتعال نہیں ہے تو پڑا مت ہو»، «جب تم اہل حاجت ہو کہ مستغنی ہو» | kept as printed («پروا مت کرو»?) | |
+| 417 (pr. 416) | text | «ایسی حالت بنا لو کہ جب سوچ و موت سے کراہت نہ ہو» | kept as printed | sermon ends «اس کے بعد لوگوں نے دعا مانگی اور وعظ ختم ہوا» |
