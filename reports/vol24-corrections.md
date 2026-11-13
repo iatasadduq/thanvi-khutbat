@@ -65,3 +65,4 @@
 | 312 (pr. 311) | verse | «در درویش راہ دربان نباید»، «بباید تاسگ دنیا نیاید» | kept as printed («راہ» for «را») | index term uses the usual wording |
 | 316 (pr. 315) | text | «اکرام ضعیف کے خلاف» | kept as printed | for «اکرام ضیف» |
 | 317 (pr. 316) | text | «واجتنوا کثیراً من الظن» (after 49:12 «ان بعض الظن اثم») | kept as «…» (not an ayah mark) since misspelled and in reverse order | owner may prefer ﴿49:12|اجۡتَنِبُوۡا…﴾ |
+| 322 (pr. 321) | text | «تو دوبارہ اس سے کام لینا یقیناً عذر ہے»، «بدون عذر کے» | kept as printed | «عذر» here means «غدر» (breach) |
