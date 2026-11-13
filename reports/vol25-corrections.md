@@ -37,3 +37,4 @@
 | 203 (pr. 202) | 2:189 | printed «واتوا البیوت من ابوابها» | Qur'anic text written | |
 | 213 (pr. 212) | Persian | «دماغ بے ہودہ پخت وخیال باطل ست» | kept as printed | the known line is «…خیال باطل بست»; the Urdu gloss «خیال باطل باندھا» supports «بست» |
 | 229 (pr. 228) | Persian | «ہیچ کنجے بے دو وبیدام نیست» | kept as printed | the known line is «بے دد و بے دام» (beast and snare); the Urdu gloss «بے دوڑ دھوپ» follows the printed «دو»; gloss also prints «شبہ» where «گوشہ» seems meant |
+| 253 (pr. 252) | text | «پس تم بزرگوں کے واقعات سن کر تعلق مع الخلق کو اپنے لئے محمود سمجھو» | kept as printed | sense requires «نہ سمجھو»; «نہ» probably dropped in print |
