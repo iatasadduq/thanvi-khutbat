@@ -92,3 +92,4 @@
 | 380 (pr. 379) | gloss | «اور ... خوبیوں کا اظہار ہوتا ہے» | a word illegible in the scan, marked «...» | |
 | 386 (pr. 385) | hadith | «من احب لقاء اللہ…» introduced as «مسلم شریف میں» but cited «(الصحیح للبخاری ۸: ۱۳۳)»; «یعنی یہ حجاب رحمت کے وقت کا ذکر نہیں» | kept as printed | |
 | 388 (pr. 387) | text | «گو احتمال صحت یہی ہوگا مگر مغلوب»، «وہ احتمال مغلوب عذاب کا واقع نہ ہوگا رغبت موت کا» | kept as printed | sentence garbled in print («بھی ہوگا» / «مانع نہ ہوگا»?) |
+| 389 (pr. 388) | text | «جس عیش میں زوال عیش کا خوف ہو وہ اس تکلیف سے بڑا ہوگا»، «آرام پر ترجیح دے گا» | kept as printed; the sermon ends with «خلاصہ وعظ» (same text as the summary under the title) and no colophon | |
