@@ -21,3 +21,4 @@
 | 179 (pr. 178) | scan | the title page of تفاضل الاعمال is a heavily speckled scan; its one line under the title is unreadable in the page image | read from the full-resolution scan (tools/zoom.py, thresholded): «بمقام تھانہ بھون ۱۳ صفر ۱۳۳۰ھ کو ہوا۔» | the page gives no listener count or recorder |
 | 194 (pr. 193) | couplet | «بقدر ضرورت یسارے بود ☆ کند کارے امرد کارے بود» | kept as printed; head uses the established «از مرد کارے» | «امرد» looks like «از مرد» run together |
 | 205 (pr. 204) | title | the title page prints the title as «بفضل العظیم» | heading «الفضل العظیم», as in the volume's table of contents and toc.tsv | the calligraphic «ال» is likely read as «ب» in the scan |
+| 209 (pr. 208) | ayah | first quotation of 20:114 printed «قل رب زدنی علما» without the opening «و» | reference text «وَقُلۡ رَّبِّ زِدۡنِيۡ عِلۡمًا» used | the second quotation on the page («رب زدنی علما») is a correct partial quote |
