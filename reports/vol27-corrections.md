@@ -44,3 +44,4 @@
 | 339 (pr. 338) | damaged print | the heading and the next lines have letters missing in the scan («عن. ہے», «اپ.نفس .ے», «اتنا .نہیں», «سوال کر. ہے», «.لوب .یں») | read «عنقا ہے», «اپنے نفس کے», «اتنا برا نہیں», «سوال کرنا ہے», «قلوب میں» | restored from context; «عنقا» repeats in the same paragraph |
 | 344 (pr. 343) | misprint | «وہ عرش اللعن گیا ہے» | «وہ عرش الرحمٰن ہو گیا ہے» | the sense (the heart protected like the عرش; «قلب المؤمن عرش الرحمٰن») needs الرحمٰن; «ہو» restored. Owner to confirm |
 | 344–345 (pr. 343–344) | misprint | «اس کے کلام کا شوق تو نہیں ہوا», next page «کلام صوق نہیں» | «سوق» in both | the term for the purpose of a text (سیاق/سوق الکلام) in the definition of اشارۃ النص |
+| 346 (pr. 345) | misprint | «قطعیں الثالث متعین ہو گئے» | kept as printed | probably «قطعاً المعنی الثالث» or «فتعین الثالث»; owner to confirm |
