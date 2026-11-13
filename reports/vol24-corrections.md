@@ -66,3 +66,5 @@
 | 316 (pr. 315) | text | «اکرام ضعیف کے خلاف» | kept as printed | for «اکرام ضیف» |
 | 317 (pr. 316) | text | «واجتنوا کثیراً من الظن» (after 49:12 «ان بعض الظن اثم») | kept as «…» (not an ayah mark) since misspelled and in reverse order | owner may prefer ﴿49:12|اجۡتَنِبُوۡا…﴾ |
 | 322 (pr. 321) | text | «تو دوبارہ اس سے کام لینا یقیناً عذر ہے»، «بدون عذر کے» | kept as printed | «عذر» here means «غدر» (breach) |
+| 326 (pr. 325) | text | «شہرا عیدہ ینقصان»، «باطن میں اس طرح کہ روزے رکھنے کی وجہ سے» | kept as printed | for «شہرا عید لا ینقصان» / «روزے نہ رکھنے» |
+| 327 (pr. 326) | text | gloss of «حتی اذا ہذبوا ونقوا» printed «(انہیں پاک نہ کرے گا)» | kept as printed | the gloss belongs to «لا یزکیہم»; the hadith means «جب پاک صاف کر دیئے جائیں گے» |
