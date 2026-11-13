@@ -8,6 +8,7 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-13)
 
+- **Volume 26 (اصلاح اعمال) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 26 entry).
 - **Volume 25 (حدود و قیود) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 25 entry).
 - **Volume 24 (موت و حیات) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 24 entry).
 - **Volume 23 (راہ نجات) — done, awaiting the owner's review.** Folder `Vol 23 rah e najat/`. PDF page = printed
@@ -370,11 +371,18 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   slip fixed, p. 379 «للمؤمنین» → «للمؤمن»). Corrections: `reports/vol25-corrections.md`. Index built (1479 entries).
   Added to `VOLUMES` in `tools/build_site.py`; site rebuilt (`site/v25.html`). Preview (private artifact, republish to
   the same URL): https://claude.ai/artifact/R9hQniafZBVkniWm4Beghb
-- **Volume 26 (اصلاح اعمال) — in progress (started 2026-11-13).** Folder `Vol 26 islah e aamal/`; PDF
-  `Khutbaat-i-Hakeem-ul-Ummat-Vol-26.pdf` (456 pages), PDF page = printed page + 1. Sermons (اجمالی فہرست, printed
-  pages): الصالحون 17, تسہیل الاصلاح 130, الاسعاد والابعاد 146 (no title page; text begins printed 147), الخلط 201, المباح 228, السوال 256, ذم المکروہات 268,
-  اصلاح النفس 373, الارتیاب والاغتیاب 399, علاج الکبر 436; each file named after its title pdf page (0018, 0131, …).
-  `toc.tsv` has the 10 sermon rows; regenerate from the page headings when done. Transcribed so far: الصالحون complete (0018, pdf 18–130); تسہیل الاصلاح complete (0131, pdf 131–147). الاسعاد والابعاد complete (0148, pdf 148–201). الخلط complete (0202, pdf 202–228). المباح complete (0229, pdf 229–256). السوال complete (0257, pdf 257–268). ذم المکروہات complete (0269, pdf 269–373). اصلاح النفس complete (0374, pdf 374–399). الارتیاب والاغتیاب complete (0400, pdf 400–436). Next: علاج الکبر (0437), pdf 437.
+- **Volume 26 (اصلاح اعمال) — done 2026-11-13, awaiting the owner's review.** Folder `Vol 26 islah e aamal/`; PDF
+  `Khutbaat-i-Hakeem-ul-Ummat-Vol-26.pdf` (456 pages), PDF page = printed page + 1. Sermons (printed pages): الصالحون 17
+  (with the مکالمہ before the sermon, p. 18), تسہیل الاصلاح 130, الاسعاد والابعاد 146 (no title page; text begins printed
+  147), الخلط 201, المباح 228, السوال 256, ذم المکروہات 268, اصلاح النفس 373, الارتیاب والاغتیاب 399, علاج الکبر 436; files
+  0018, 0131, 0148, 0202, 0229, 0257, 0269, 0374, 0400, 0437, all transcribed (text ends pdf 455; pdf 456 is a publisher's
+  advertisement, not transcribed). `toc.tsv` regenerated from the page headings (475 rows; «# مکالمہ» in 0018 changed
+  to «## مکالمہ» so it stays under الصالحون). mark_arabic: DIFFERS 0, CITE 0 (p. 202 citation التوبۃ ۱۰۶ → ۱۰۲ with
+  editor's note; the printed translation is of 9:106 and was kept); two Urdu lines «اشرف المواعظ حصہ دوم» flagged as
+  Arabic, left. Hadith check: `reports/vol26-hadith-check.md` (25 differs, all the book's wording or normalisation
+  noise). Corrections: `reports/vol26-corrections.md` (owner rows e.g. p. 356 sentence breaks off, p. 425 garbled
+  passage, p. 442 «لبا من», p. 454 «صبر یا» probably «کبریا»). Index built (1759 entries). Added to `VOLUMES` in
+  `tools/build_site.py`; site rebuilt (`site/v26.html`). Preview: see Status.
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
