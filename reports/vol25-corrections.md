@@ -39,3 +39,5 @@
 | 229 (pr. 228) | Persian | «ہیچ کنجے بے دو وبیدام نیست» | kept as printed | the known line is «بے دد و بے دام» (beast and snare); the Urdu gloss «بے دوڑ دھوپ» follows the printed «دو»; gloss also prints «شبہ» where «گوشہ» seems meant |
 | 253 (pr. 252) | text | «پس تم بزرگوں کے واقعات سن کر تعلق مع الخلق کو اپنے لئے محمود سمجھو» | kept as printed | sense requires «نہ سمجھو»; «نہ» probably dropped in print |
 | 261 (pr. 260) | Persian | «گرتو بیداد کنی شرف مروت نبود» | kept as printed | the known line is «شرط مروت» |
+| 284 (pr. 283) | Persian | «بقدر ضرورت بسیارے بود» | kept as printed | the known line (already in the index) is «یسارے بود»; «بسیارے» looks like a misprint |
+| 284 (pr. 283) | colophon | «اشرف علی ۱۲ ج ۱۳۵۰ھ» | kept as printed | month abbreviated «ج» (جمادی); the sermon itself is dated ۱۲ جمادی الاولیٰ ۱۳۴۵ھ |
