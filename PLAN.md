@@ -8,6 +8,7 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-13)
 
+- **Volume 24 (موت و حیات) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 24 entry).
 - **Volume 23 (راہ نجات) — done, awaiting the owner's review.** Folder `Vol 23 rah e najat/`. PDF page = printed
   page + 1; text printed pp. 17–400 (10 sermons: الاستغفار 17, آثار الحوبۃ فی اسرار التوبۃ 42, استمرار التوبۃ علیٰ تکرار
   الحوبۃ 92, تفصیل التوبۃ 139, ضرورۃ التوبۃ 170, اول الاعمال 201, الافتضاح 242, العبرۃ بذبح البقرۃ 266, اطاعۃ الاحکام مع
@@ -357,20 +358,24 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
+- Volume 24 (موت و حیات): done 2026-11-13 (see Status). Next: Volume 25 (find its PDF in `scanned_version/`, extract
+  pages, find sermon title pages, then the per-volume sequence in §3).
+
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
   branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
-- Volume 24 (موت و حیات): started 2026-11-13. Folder `Vol 24 maut o hayat/`. PDF page = printed page + 1 (425 PDF
-  pages); text printed pp. 18–424 (10 sermons, title pages found by ink density and read from the scans: ذکر الموت 18,
-  رجاء اللقاء 38, السوق لاہل الشوق 79, خیر الحیات و خیر الممات 170, دواء العیوب المعروف بہ شام خورشید 252, الجمعین بین
-  النفعین 298, شوق اللقاء 359, احکام و مسائل متعلق موت 389, اشرف المواعظ (پہلا وعظ) 407, (دوسرا وعظ) 417). `toc.tsv`
-  holds the sermon rows only (regenerate from page headings at the end, as for Vol 23). Page images: scratchpad
-  `img24/` (all pages), half-pages `h24/` (`halves.py img24 h24 <first> <last>`). Corrections log:
-  `reports/vol24-corrections.md`.
-  Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039), السوق لاہل الشوق pp. 79–169 (file 0080),
-  خیر الحیات و خیر الممات pp. 170–245 + appended ملفوظ «الطاحون لمن فر من الطلعون» pp. 246–251 (file 0171; given its
-  own «#» title), دواء العیوب pp. 252–297 (file 0253; ends with a poem, no colophon). Qur'an check DIFFERS 0 so far.
-  الجمعین بین النفعین pp. 298–358 (file 0299; includes the appended Arabic notes «تحقیق معنی الطاعون…» from Fath al-Bari with their Urdu translation, pp. 349–358, transcribed as printed with misprints logged). Half-pages `h24/` exist for pdf 1–425. شوق اللقاء pp. 359–388 (file 0360). احکام و مسائل متعلق موت pp. 389–406 (file 0390). Next: اشرف المواعظ (پہلا وعظ) from p. 407 (pdf 408) in `0408.txt`.
+- **Volume 24 (موت و حیات) — done 2026-11-13, awaiting the owner's review.** Folder `Vol 24 maut o hayat/`. PDF page
+  = printed page + 1 (425 PDF pages); text printed pp. 18–424 (10 sermons + one appended ملفوظ: ذکر الموت 18 (file
+  0019), رجاء اللقاء 38 (0039), السوق لاہل الشوق 79 (0080), خیر الحیات و خیر الممات 170 + ملفوظ «الطاحون لمن فر من
+  الطلعون» 246 (0171), دواء العیوب المعروف بہ شام خورشید 252 (0253), الجمعین بین النفعین 298 (0299; incl. the appended
+  Arabic notes «تحقیق معنی الطاعون…» from Fath al-Bari with Urdu translation, pp. 349–358, transcribed as printed),
+  شوق اللقاء 359 (0360), احکام و مسائل متعلق موت 389 (0390), اشرف المواعظ (پہلا وعظ) 407 (0408), (دوسرا وعظ) 417
+  (0418)). `toc.tsv` regenerated from page headings (532 rows). mark_arabic: DIFFERS 0, CITE 0 (two Urdu lines flagged
+  as Arabic, left). Hadith check: `reports/vol24-hadith-check.md` (15 differs, all the book's wording). Corrections:
+  `reports/vol24-corrections.md` (many misprints kept as printed; owner rows e.g. the garbled Fath al-Bari Arabic, pp.
+  349–357; right margin cut off in the scan on pp. 422 and 424, letters supplied; «ہمارے بعض آریوں سے بدتر حالات»
+  heading p. 274 probably «جواریوں»; «نہوت» p. 264). Index built (1585 entries). Added to `VOLUMES` in
+  `tools/build_site.py`; site rebuilt (`site/v24.html`).
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
