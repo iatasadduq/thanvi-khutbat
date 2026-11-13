@@ -13,3 +13,4 @@
 | 67 (pr. 66) | story | «امبیٹھ» (the school where the Muslim boy bought پیڑا and the Bania boy سنگھاڑے) | kept as printed | the same story is set in «لنہٹہ» in an earlier volume; the index uses the existing story name and notes the place |
 | 74 (pr. 73) | text | «ہر دم اپنے نفس و نقصان کی فکر رہتی ہے» | kept as printed | «نفس» is probably a misprint for «نفع» («نفع و نقصان») |
 | 79 (pr. 78) | text | «اس تصور اور حضور صلی اللہ علیہ وسلم کی وجہ سے» | kept as printed | «حضور» here probably means «حضوری» (presence), not the Prophet ﷺ; the honorific seems added by mistake |
+| 81 (pr. 80) | heading | the page is headed «دعا خطبہ» and has only the ayat 39:67–75 (no خطبہ ماثورہ text) | written as «# خطبہ ماثورہ» with the ayat | same heading as the other sermons for the site; the printed «دعا خطبہ» label is not kept |
