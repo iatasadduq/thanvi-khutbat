@@ -22,3 +22,5 @@
 | 288 (pr. 287) | repeated verse | the line «از فراق تلخ میگوئی سخن / ہر چہ خواہی کن ولیکن ایں مکن» is printed three times | transcribed once | duplicated typesetting |
 | 356 (pr. 355) | sentence breaks off | «غرض سوال مانگنے کے معنی میں ہو یا پوچھنے کے معنی میں دونوں» runs straight into the hadith «حب الدنیا راس کل خطیئۃ» | kept as printed | words seem lost (perhaps «…دونوں کی جڑ حب دنیا ہے»); a line may have dropped in typesetting |
 | 387 (pr. 386) | possible misprint or wordplay | «…تو ہم کو بیت المدنس تیار کرنے کے لئے مہلت کب مل سکتی ہے» | kept as printed | probably deliberate (بیت المدنس, "the defiled house", i.e. one's own self, against بیت المقدس); otherwise a misprint for بیت المقدس |
+| 403 (pr. 402) | hadith wording | «…الا فہما اوتیہ الرجل فی القران اوما فی سندہ الصحیفۃ» | kept as printed | the Bukhari wording is «…او ما فی ہذہ الصحیفۃ»; «سندہ» is probably a misprint for «ہذہ» |
+| 403 (pr. 402) | doubtful phrase | «بعض لوگ تو قرآن کے بعضے علوم کو سمجھانے سے بھی نہیں سمجھتے یہ تو عبادت ہے» | kept as read | «یہ تو عبادت ہے» does not fit the sense; the print is unclear here and should be checked against another edition |
