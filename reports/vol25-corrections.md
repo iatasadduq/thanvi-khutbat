@@ -52,3 +52,5 @@
 | 388 (pr. 387) | title | printed «الغاء المجازفته» | written «الغاء المجازفۃ» as in PLAN.md and other titles | |
 | 389 (pr. 388) | khutba / 53:28 | printed «مفصل له», «اعبده», «وان انظن» | khutba from the standard text; 53:28 marker from the Qur'anic text | |
 | 389 (pr. 388) | text | «بعض سے مراد وہ جس کا استناد نص کی طرف نہ ہو» | context suggests «ظن سے مراد»; kept as printed | |
+| 392 (pr. 391) | 53:3 | printed «ماینطق عن الهوی» | Qur'anic «وما ینطق عن الهوی» | |
+| 393 (pr. 392) | text | «بعض ناممسوع» | read «نامسموع»; kept as printed | |
