@@ -13,3 +13,5 @@
 | 45 (pr. 44) | 9:112 | printed «بشر المؤمنون» and «والحافظون لحدود دالله» | Qur'anic text written | |
 | 45 (pr. 44) | text | «اور دنیا مقصود بالذات ہے» | kept | the sense needs «دین مقصود بالذات ہے»; for the owner |
 | 47 (pr. 46) | couplet | «ریگ کاغذ بود و انگشتان قلم ☆ مے نویسی بہر کس نامہ رقم» | kept | other volumes print «می نمودی»; the gloss here belongs to the next couplet's answer |
+| 50 (pr. 49) | hadith | «اذانعس احدکم فلیر قد فلعله یستغفر فیسب نفسه» | spacing normalised | |
+| 51 (pr. 50) | text | «کثرت بالشاء… کسرت بالسنین» | kept as printed | unclear phrase; for the owner |
