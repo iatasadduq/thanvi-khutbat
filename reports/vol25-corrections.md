@@ -18,3 +18,4 @@
 | 64 (pr. 63) | text | «تجلیات آلہ» | kept | probably «تجلیات الٰہیہ» |
 | 67 (pr. 66) | text | gloss order: the reply couplet «توانی…» precedes «اس پر دوبارہ آواز آئی» | transcribed in printed order | the second «توانی» line is the saint's reply, «قبولست» the voice |
 | 70 (pr. 69) | text | «یہ کل ۹۰ درجے ہوئے» | kept | three powers × three degrees = 9 («نو درجوں» below); «۹۰» is a misprint for ۹ |
+| 82 (pr. 81) | name | «حضرت سعد بن وقاصؓ» | kept; term under «حضرت سعد بن ابی وقاصؓ» | |
