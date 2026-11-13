@@ -45,3 +45,9 @@
 | 277 (pr. 276) | hadith | «ترک الصلوٰۃ معمدا فقد کفر» | kept as printed | for «متعمدا»; gloss of «قمار خانہ» says «شراب خانہ» as printed |
 | 278 (pr. 277) | text | «حق تعلق کا معاملہ» | kept as printed | for «حق تعالیٰ کا معاملہ» |
 | 279 (pr. 278) | text | «ان کی زبان نہیں کہتی»، «اس کی روح کیا کہتی ہوگی» | read from a faded print line | owner may check against another copy |
+| 280 (pr. 279) | couplet / text | «جان بجاناں دہم»، «مصیبت سے اخلاص چاہتے ہیں» | «وہم» in the print read as «دہم» (gloss: قربان کروں); «اخلاص» kept as printed | «اخلاص» probably for «خلاص» |
+| 282 (pr. 281) | text | «ایک جھونکے میں ختم» | faded print reads «ایک بھوکے ..ں ختم»; read as «جھونکے میں» from context (a lamp put out by a gust) | owner to confirm |
+| 283 (pr. 282) | text | «تو شام کے منصوبے موت لگاؤ»، «کسی میں جب دنیا نہ رہے» | kept as printed | probably «مت لگاؤ» and «حب دنیا» |
+| 285 (pr. 284) | text | «شال ہاف چاہئے»، «اس کی عادت کو لو» | kept as printed | unclear («شال باف»؟); probably «عادت ڈالو» |
+| 287 (pr. 286) | text | sentence «اور وہ حالت اور وہ ذوق شوق کی حالت رفع ہو جاتی ہے … بہت بار معلوم ہوتا ہے» printed twice; «اخار للعسان … قرار دیتا ہے» | kept as printed | the repetition is in the print; «اخار للعسان» probably «ارخاءً للعنان» and «دیتا ہوں» |
+| 288 (pr. 287) | text | «وہاں تو بے حس پنجابی ہیں»، «ایک یہ دوسرے اس جگہ»، «پھوٹی خاک ملی چھاڑو ماری» | kept as printed | text unclear («بے حس بن جاتی ہیں»؟); «جھاڑو ماری» |
