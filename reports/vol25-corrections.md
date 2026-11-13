@@ -46,3 +46,6 @@
 | 328 (pr. 327) | Persian | «منزل ویراں بردم … وزپے جاناں بردم … غزل خوان بردم» | kept as printed | the known line (in the index) has «بروم» throughout |
 | 383 (pr. 382) | Persian | «ایکہ خواہی کز بلا جان و آخری» | kept as printed | the index already has this couplet as «گر تو خواہی کز بلا جاں و آخری»; indexed under that head with the printed wording as a variant |
 | 386 (pr. 385) | 7:31 | printed «ان الله لا یحب المسرفین» | Qur'anic text «انه لا یحب المسرفین» | |
+| 387 (pr. 386) | couplet | «فراق یارنہ آں من کند» | standard «نہ آں می کند»; kept as printed, term uses the existing head | |
+| 387 (pr. 386) | couplet | «تشبیہ دکنایتے ست» | «د» likely for «و»; existing head reads «کنایتیست»; kept as printed | |
+| 387 (pr. 386) | 7:31 | printed «ان الله لا یحب المسرفین» again | Qur'anic «انه لا یحب المسرفین» | |
