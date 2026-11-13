@@ -367,8 +367,8 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   holds the sermon rows only (regenerate from page headings at the end, as for Vol 23). Page images: scratchpad
   `img24/` (all pages), half-pages `h24/` made for pdf 1–80 (`halves.py img24 h24 <first> <last>`). Corrections log:
   `reports/vol24-corrections.md`.
-  Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039). Next: السوق لاہل الشوق from p. 79 (pdf 80)
-  in `0080.txt`.
+  Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039), السوق لاہل الشوق pp. 79–169 (file 0080;
+  Qur'an check DIFFERS 0 so far). Next: خیر الحیات و خیر الممات from p. 170 (pdf 171) in `0171.txt`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.
