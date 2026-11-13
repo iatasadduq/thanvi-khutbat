@@ -11,3 +11,4 @@
 | 60 (pr. 59) | ayah | «وَلَا تُمَارِ فِيهِمْ اِلَّا مِرَآءً ظَاهِرًا» | ﴿18:22﴾ text from the reference («فَلَا») | the print has «و» for «ف» |
 | 61 (pr. 60) | name | «مولوی سراج الدین صاحب» and, a line later, «مولوی سراج احمد صاحب» | kept as printed | the same person is meant; one of the two names is a misprint |
 | 99 (pr. 98) | translation placement | after «گفت اے موسیٰ دہانم دوختی ☆ وز پشیمانی تو جانم سوختی» the print gives the gloss of the next couplet («خدا کی طرف سے … وحی نازل ہوئی …») | kept as printed | the same gloss is printed again, in its right place, after «وحی آمد سوئے موسیٰ…»; the first one is misplaced |
+| 114 (pr. 113) | translation placement | under «آسماں نسبت بہ عرش آمد فرود ☆ لیک بس عالی ست پیش خاک تود» the print repeats the gloss of 24:35 («اس کا تیل اگر اس کو آگ بھی نہ چھوئے …») | kept as printed | the couplet’s own gloss is missing; the next paragraph explains it |
