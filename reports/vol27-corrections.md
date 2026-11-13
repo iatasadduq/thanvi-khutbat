@@ -56,3 +56,5 @@
 | 368 (pr. 367) | ayah reference | «من جاء بالحسنۃ فلہ خیر منہا» | marked ﴿27:89﴾ | the same words are also 28:84 |
 | 368 (pr. 367) | parenthesis and Arabic note | «مکروہات (محرمات کا ارتکاب ہو گیا…» has no closing bracket in print; the compiler's Arabic note has misprints («تقبیہ», «التنزیہتہ», «المجمہ», «نعیم») | written as printed; the open bracket closed after «نماز خالص» | owner to confirm the reading of the Arabic note |
 | 368 (pr. 367) | misprint | «اس سے معلوم ہوا کہ علم سے جزاء افضل ہے» | kept as printed | sense needs «عمل سے» |
+| 370 (pr. 369) | list of cases | the eight cases are printed with «ثالث خیر کا مفتاح ہونا شر کا مغلاق ہونا» (same as the first) and «سابع … خیر و شر دونوں کا مغلاق ہونا» joined to the seventh | kept as printed | sense needs «ثالث خیر کا مفتاح ہونا شر کا مغلاق نہ ہونا» and the joined phrase as the eighth case; owner to confirm |
+| 370 (pr. 369) | parenthesis | the gloss of «در کارخانہ عشق…» opens «(کارخانہ عشق میں…» and never closes | kept as printed | the gloss runs into the following text |
