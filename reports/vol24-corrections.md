@@ -30,3 +30,5 @@
 | 241 (pr. 240) | text | «اصل علاج طبیعت کا بڑا سبب خوف اور فکر ہے» | kept as printed | the sense needs «اصل علاج طبیعت (کے ضعف) کا بڑا سبب»; a word seems dropped; left as in the book |
 | 243 (pr. 242) | text | «چنانچہ دوسری تدابیر کو بھی منع فرمایا» | kept as printed | the following sentences list measures that are allowed («جائز ہے بلکہ ایسا کرنا چاہئے»); «نہیں» seems dropped («منع نہیں فرمایا»); left as in the book |
 | 247 (pr. 246) | title | «الملفوظ المسمیٰ بہ الطاحون لمن فر من الطلعون» (an appended ملفوظ of 11 Ramadan 1344, pp. 246–251, not in the book's sermon list) | written as its own «# …» title inside file 0171 | it is a separate piece with its own date, so it gets a title row; «الطلعون» kept as printed (perhaps a pun on الطاعون) |
+| 249 (pr. 248) | ayah | «رَبُّ اَنِّيۡ مَسَّنِيَ الشَّيۡطٰنُ…» | ﴿38:41|رَبَّهٗ٘ اَنِّيۡ مَسَّنِيَ الشَّيۡطٰنُ بِنُصۡبٍ وَّعَذَابٍ﴾ | the book prints «رب» for «ربہ» (a slip); the ayah is written as in the Qur'an |
+| 249 (pr. 248) | text | «البتہ جبکہ یہ نیت نہ ہو کہ جب جائیں گے تب بچ جائیں گے» | kept as printed | the logic needs «جبکہ یہ نیت ہو»; «نہ» seems an extra word; left as in the book |
