@@ -21,3 +21,4 @@
 | 117 (pr. 116) | text | «صرف احتمال کے طور پر کہا جاتا ہے کہ اس قرب اور بعد کے ہونے کی یہ بھی صورت ہوئی تھی۔» printed before the same sentence ending «صورت ممکن ہے» | kept as printed | a near-duplicate line (typesetting repeat); left as in the book |
 | 118 (pr. 117) | text | «ان کے اتحاد پر کوئی دلیل عقلی نہیں» | «ان کے استحالہ پر کوئی دلیل عقلی نہیں» | the argument is the one on p. 116 («جس بات کے استحالہ پر کوئی دلیل عقلی قائم نہیں ہے وہ ممکن ہے»); «اتحاد» makes no sense here |
 | 120 (pr. 119) | citation | «ان ہؤلاء متبر ما ہم فیہ وباطل ما کانوا یعملون (الاعراف: ۵)» | «(الاعراف: ۱۳۹)» | the ayah is 7:139 (owner's Vol 1 rule for wrong citations, as in Vol 23) |
+| 126 (pr. 125) | text | «بلکہ صرف اظہار مسرت ہے» | «بلکہ صرف اظہار حسرت ہے» | the whole paragraph says this is «کلمہ حسرت»; «مسرت» (joy) is a typesetting slip |
