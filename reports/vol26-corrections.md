@@ -5,3 +5,4 @@
 | 22 (pr. 21) | text | «…مفقود ہو گئیں)» has no opening bracket | kept as printed | the remark «اس کو کہتے ہیں بے تکلفی…» is an aside whose opening bracket is missing in print |
 | 26 (pr. 25) | citation | «(آل عمران آیت ۱۱)» | «(آل عمران آیت ۱۱۴)» | the ayah quoted is 3:114; a digit dropped in print |
 | 27 (pr. 26) | text | «بلحاظ مالک اور خالص ہونے کے» | kept as printed | probably «خالق» |
+| 55 (pr. 54) | text | one word illegible in «وہ … ہے تو بہت ضروری» | marked «...» | the scan is faint; the sense is "it is very necessary but not found in books" |
