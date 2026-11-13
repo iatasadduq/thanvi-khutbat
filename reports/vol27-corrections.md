@@ -22,3 +22,4 @@
 | 194 (pr. 193) | couplet | «بقدر ضرورت یسارے بود ☆ کند کارے امرد کارے بود» | kept as printed; head uses the established «از مرد کارے» | «امرد» looks like «از مرد» run together |
 | 205 (pr. 204) | title | the title page prints the title as «بفضل العظیم» | heading «الفضل العظیم», as in the volume's table of contents and toc.tsv | the calligraphic «ال» is likely read as «ب» in the scan |
 | 209 (pr. 208) | ayah | first quotation of 20:114 printed «قل رب زدنی علما» without the opening «و» | reference text «وَقُلۡ رَّبِّ زِدۡنِيۡ عِلۡمًا» used | the second quotation on the page («رب زدنی علما») is a correct partial quote |
+| 218 (pr. 217) | scan | the page is printed skewed and the right margin of the lower lines is cut off («…والوں کو نہ چھوڑو», «…اف (ہلکا سمجھنا)», «…ین کو بھی غارت») | read from a deskewed full-resolution image; supplied «ان اللہ والوں» (printed «ان» / «والوں» split), «استخفاف», «دین» | from context and the gloss «(ہلکا سمجھنا)» |
