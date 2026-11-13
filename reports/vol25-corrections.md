@@ -53,3 +53,4 @@
 | 389 (pr. 388) | khutba / 53:28 | printed «مفصل له», «اعبده», «وان انظن» | khutba from the standard text; 53:28 marker from the Qur'anic text | |
 | 389 (pr. 388) | text | «بعض سے مراد وہ جس کا استناد نص کی طرف نہ ہو» | context suggests «ظن سے مراد»; kept as printed | |
 | 392 (pr. 391) | 53:3 | printed «ماینطق عن الهوی» | Qur'anic «وما ینطق عن الهوی» | |
+| 395 (pr. 394) | 2:102 | printed «ولقد عملوا» and «لو کانو» | Qur'anic «ولقد علموا», «لو کانوا» | |
