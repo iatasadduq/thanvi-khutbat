@@ -44,4 +44,4 @@
 | 286 (pr. 285) | translation | «اے ایمان والو جیسے جانوں کی حفاظت کرو» | kept as printed | «جیسے» looks like a misprint for «اپنی» |
 | 304 (pr. 303) | ayah | «لاتحزن علیهم» | written as 27:70 | the same words occur in 15:88, 16:127 and 27:70; the book gives no reference |
 | 328 (pr. 327) | Persian | «منزل ویراں بردم … وزپے جاناں بردم … غزل خوان بردم» | kept as printed | the known line (in the index) has «بروم» throughout |
-| 383 (pr. 382) | Persian | «ایکہ خواہی کز بلا جان و آخری» | kept as printed | the known line is «اے کہ خواہی کز بلا جاں آوری»; indexed under that head |
+| 383 (pr. 382) | Persian | «ایکہ خواہی کز بلا جان و آخری» | kept as printed | the index already has this couplet as «گر تو خواہی کز بلا جاں و آخری»; indexed under that head with the printed wording as a variant |
