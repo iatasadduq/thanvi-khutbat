@@ -358,8 +358,13 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 
 ## 4. Next steps
 
-- Volume 24 (موت و حیات): done 2026-11-13 (see Status). Next: Volume 25 (find its PDF in `scanned_version/`, extract
-  pages, find sermon title pages, then the per-volume sequence in §3).
+- Volume 24 (موت و حیات): done 2026-11-13 (see Status).
+- **Volume 25 (حدود و قیود) — in progress (started 2026-11-13).** Folder `Vol 25 hudood o quyood/`; PDF
+  `Khutbaat-i-Hakeem-ul-Ummat-Vol-25.pdf` (409 pages), PDF page = printed page + 1. Sermons (printed title page):
+  الحدود والقیود 17, حرمات الحدود 77, التراحم فی التراحم 147 (verify title: maybe «التزاحم»), الباب لاولی الالباب 177,
+  الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ 229, التصدی للغیر 284, الاسراف 304, الغاء المجازفۃ 387; each sermon's file is named
+  after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: pdf 18–22 (in 0018).
+  Continue from the first pdf page not yet in the notes; then the per-volume sequence in §3.
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
@@ -375,7 +380,8 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   `reports/vol24-corrections.md` (many misprints kept as printed; owner rows e.g. the garbled Fath al-Bari Arabic, pp.
   349–357; right margin cut off in the scan on pp. 422 and 424, letters supplied; «ہمارے بعض آریوں سے بدتر حالات»
   heading p. 274 probably «جواریوں»; «نہوت» p. 264). Index built (1585 entries). Added to `VOLUMES` in
-  `tools/build_site.py`; site rebuilt (`site/v24.html`).
+  `tools/build_site.py`; site rebuilt (`site/v24.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/VHnTvvEbMECH1mNULCFeWk
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.

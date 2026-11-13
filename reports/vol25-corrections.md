@@ -4,3 +4,6 @@
 |---|---|---|---|---|
 | 18 (pr. 17) | title page | sermon title page without colophon (date, place, scribe) | | the first sermon has no colophon in print |
 | 19 (pr. 18) | khutba | the printed khutba is the full «الحمد للہ نحمدہ…» | written as the standard vocalized text used in Vols 23–24 | |
+| 26 (pr. 25) | hadith | «من حسن اسلام المرئ ترکه مالا یعنیه» | «المرء»، «ما لا» | hamza spelling normalised |
+| 29 (pr. 28) | 28:24 | printed «رب بما انزلت الی من خیر فقیر» | Qur'anic text «رَبِّ اِنِّيۡ لِمَا٘ اَنۡزَلۡتَ اِلَيَّ…» written | the book quotes from memory |
+| 29 (pr. 28) | dua | printed «غیر مودع ولامکفی ولامستغنی عنه ربنا» | spacing «ولا مکفی ولا مستغنی» | |
