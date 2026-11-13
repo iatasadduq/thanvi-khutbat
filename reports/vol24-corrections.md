@@ -32,3 +32,4 @@
 | 247 (pr. 246) | title | «الملفوظ المسمیٰ بہ الطاحون لمن فر من الطلعون» (an appended ملفوظ of 11 Ramadan 1344, pp. 246–251, not in the book's sermon list) | written as its own «# …» title inside file 0171 | it is a separate piece with its own date, so it gets a title row; «الطلعون» kept as printed (perhaps a pun on الطاعون) |
 | 249 (pr. 248) | ayah | «رَبُّ اَنِّيۡ مَسَّنِيَ الشَّيۡطٰنُ…» | ﴿38:41|رَبَّهٗ٘ اَنِّيۡ مَسَّنِيَ الشَّيۡطٰنُ بِنُصۡبٍ وَّعَذَابٍ﴾ | the book prints «رب» for «ربہ» (a slip); the ayah is written as in the Qur'an |
 | 249 (pr. 248) | text | «البتہ جبکہ یہ نیت نہ ہو کہ جب جائیں گے تب بچ جائیں گے» | kept as printed | the logic needs «جبکہ یہ نیت ہو»; «نہ» seems an extra word; left as in the book |
+| 252 (pr. 251) | text | «طاعون کے مقام پر نہ جانا جائز نہ وہاں سے بھاگنا جائز» | kept as printed | the sense is «نہ وہاں جانا جائز نہ وہاں سے بھاگنا»; word order as in the book |
