@@ -32,3 +32,4 @@
 | 172 (pr. 171) | hadith | «فلینا فر عنه» | kept as printed | the known wording is «فلینأ عنه» |
 | 179 (pr. 178) | — | blank page (verso of the title page); sermon text begins pdf 180 (printed 179) | | |
 | 180 (pr. 179) | 2:189 | printed «ولیس البران تاتوا البیوت من ظهورها ولکن البر من اتقیٰ واتوا البیوت من ابوابها واتقوا الله لعلکم تفلحون» | Qur'anic text written | |
+| 185 (pr. 184) | 28:68 | printed «سبحانه وتعالیٰ عما یشرکون» | Qur'anic text «سبحان اللہ وتعالیٰ عما یشرکون» | |
