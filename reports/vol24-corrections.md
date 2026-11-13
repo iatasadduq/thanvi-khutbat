@@ -90,3 +90,4 @@
 | 374 (pr. 373) | verse | «مانبودیم و تقاضیا ما نہ بود … لطف تو گفتہ نامی شنود» | kept as printed | usual reading «ما نبودیم و تقاضا ما نبود / لطف تو ناگفتہ ما می شنود» |
 | 376 (pr. 375) | text | «یوجدون اعمالنا اجدو» | kept as printed | unclear (perhaps «یوجدون ما اوجدوا») |
 | 380 (pr. 379) | gloss | «اور ... خوبیوں کا اظہار ہوتا ہے» | a word illegible in the scan, marked «...» | |
+| 386 (pr. 385) | hadith | «من احب لقاء اللہ…» introduced as «مسلم شریف میں» but cited «(الصحیح للبخاری ۸: ۱۳۳)»; «یعنی یہ حجاب رحمت کے وقت کا ذکر نہیں» | kept as printed | |
