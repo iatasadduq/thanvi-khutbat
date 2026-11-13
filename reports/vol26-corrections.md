@@ -26,3 +26,4 @@
 | 403 (pr. 402) | doubtful phrase | «بعض لوگ تو قرآن کے بعضے علوم کو سمجھانے سے بھی نہیں سمجھتے یہ تو عبادت ہے» | kept as read | «یہ تو عبادت ہے» does not fit the sense; the print is unclear here and should be checked against another edition |
 | 425 (pr. 424) | unclear wording | «…اور ایک علاج فرض ہے جو نفس میں موجود ہے … کبر و غیبت سے مقدم انس کا علاج ضروری ہے… کبر و غیبت و موطن وغیرہ» | kept as printed | the passage seems garbled: «علاج فرض» perhaps «عرض» (a symptom, cf. «غرض ضعیف» just after, itself perhaps «عرض ضعیف»), «انس کا» perhaps «اس کا», «موطن» unclear |
 | 442 (pr. 441) | unclear word | «لبا من سے تاریخ رکھوانا» | kept as printed | probably «برہمن» or «لگن»; the print is unclear |
+| 451 (pr. 450) | book title | «دیکھو رد المختار میں لکھا ہے» | kept as printed | misprint for «رد المحتار» (ابن عابدین); the term head uses the standard spelling |
