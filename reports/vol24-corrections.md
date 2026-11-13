@@ -101,3 +101,4 @@
 | 401 (pr. 400) | text | numbering «(۳)» and «(۴)» appear without (۱)/(۲) in print | kept as printed | |
 | 404 (pr. 403) | text | the کفن چور story: in print the thief gives the 5 rupees («مجھ سے پانچ روپے لے لو») | kept as printed | in Vol 22 version the saint pays; reused the existing story title |
 | 405 (pr. 404) | text | «مومن کے واسطے گھر سے اس کی قبر تک فرشتے دعاء و استغفار کرتے ہیں… اس سے ظاہر ہے کہ جس قدر زیادہ فاصلہ ہوگا اس کی رحمت کا سامان ہے» (argument as printed seems reversed) | kept as printed | |
+| 407 (pr. 406) | text | sermon ends at p. 406 without a closing formula or colophon | | |
