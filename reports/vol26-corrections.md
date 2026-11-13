@@ -14,3 +14,4 @@
 | 159 (pr. 158) | garbled passage | «یہی معنی مولانا کا نام قاسم تھا۔ … اور تیسرے معنی یہ ہیں کہ فاضل (یعنی مسمی بہ فاضل قاسم کے ہیں» | kept as printed | a line seems lost: the second meaning is never stated and the bracket is not closed |
 | 171 (pr. 170) | repeated line | «مولانا کو پھر غصہ آیا اور دوسری مرتبہ آپ نے پھر اسباب اٹھا کر مسجد میں اپنی جگہ لا رکھا» followed by the same sentence ending «مسجد سے باہر پھینک دیا» | kept as printed | the first sentence looks like a dittography mixing the traveller's and the Maulana's actions |
 | 177 (pr. 176) | probable misprint | «گو معصیت کا انعدام نہ ہوگا مگر تقلید ضرور ہو جائے گی» | kept as printed | the sense needs «تقلیل» (reduction) |
+| 184 (pr. 183) | probable misprint | «یہ احکام سب محکوم ہیں جو کسی شریعت میں کبھی منسوخ نہیں ہوئے» | kept as printed | the sense and the later «احکام غیر محکمہ» need «محکم» |
