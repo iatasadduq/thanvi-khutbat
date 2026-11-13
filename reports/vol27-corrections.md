@@ -51,3 +51,5 @@
 | 353 (pr. 352) | Persian couplet | «من ملک نیم روز بیک جونے خورم» | kept as printed | the couplet is elsewhere «بیک جو نمی خرم»; the gloss «ایک جو کے بدلے میں بھی نہیں لوں گا» fits «نمی خرم» |
 | 365 (pr. 364) | parenthesis | the compiler's note opens «(اگر شبہ ہو» and closes at «۱۲ جامع عفی عنہ)» | written as one parenthesis | the printed «(اگر شبہ ہو)» reads as a closed parenthesis, but the closing bracket belongs after «جامع عفی عنہ» |
 | 364–365 (pr. 363–364) | Arabic note | the compiler's takhrij of «طلب العلم فریضۃ» («رواہ ابن عبد اللہ… لیس لہ اسناد ثابت») | kept as printed in one «…» mark | misprints such as «ابن عبد اللہ» (for ابن عبد البر), «ردہ بناہ», «السمعونیات», «ثناء» are kept; owner to confirm |
+| 366 (pr. 365) | misprint | «یہ امور آپ کے قرآن میں بھی تھے» | kept as printed | sense needs «اقران» (contemporaries, cf. «اقران و ہم عصر» above); owner to confirm |
+| 366 (pr. 365) | book name | «بہشتی جوہر حصہ اول» | kept; indexed under بہشتی زیور | probably بہشتی گوہر |
