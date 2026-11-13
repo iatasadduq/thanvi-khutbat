@@ -14,3 +14,4 @@
 | 74 (pr. 73) | text | «ہر دم اپنے نفس و نقصان کی فکر رہتی ہے» | kept as printed | «نفس» is probably a misprint for «نفع» («نفع و نقصان») |
 | 79 (pr. 78) | text | «اس تصور اور حضور صلی اللہ علیہ وسلم کی وجہ سے» | kept as printed | «حضور» here probably means «حضوری» (presence), not the Prophet ﷺ; the honorific seems added by mistake |
 | 81 (pr. 80) | heading | the page is headed «دعا خطبہ» and has only the ayat 39:67–75 (no خطبہ ماثورہ text) | written as «# خطبہ ماثورہ» with the ayat | same heading as the other sermons for the site; the printed «دعا خطبہ» label is not kept |
+| 92 (pr. 91) | text | «قلب مبالات بالدین» | «قلت مبالات بالدین» | the same phrase «قلت مبالات» is on p. 90; ب for ت is a typesetting slip |
