@@ -54,3 +54,8 @@
 | 295 (pr. 294) | text | «ہر فرقہ ... جتنا سامان»، «مکان سے یا مافی الرکان سے دلچسپی اور بے فکر» | line faded at the foot of the page; a word after «فرقہ» unreadable, marked «...»; «مافی الرکان» kept as printed | owner to check against another copy |
 | 297 (pr. 296) | text | «مع تفصیل ان امور کے ...... جو موت»، «سو کر ان سے پیچھا نہیں چھوٹتا» | kept as printed | dots in the print; «سو کر» probably «سو کر اٹھنے سے» or similar |
 | 298 (pr. 297) | text / verse | «بزرگوں کے کلمات سے مذکورہ موت»، «اس طرح آواز طبل»، «کہا کاؤس» | «مذکورہ» kept (for «تذکرہ»); «طرح» kept as printed (other volumes «طرف»); «کہا کاؤس» written «کیکاؤس» as in the same poem in other volumes; the poem is the end of the sermon (no colophon line) | |
+| 300 (pr. 299) | text | gloss of 2:177 (first part) opens without «(» | «(» not added; as printed |
+| 301 (pr. 300) | text | «مہارت دین سب اس میں مذکور ہیں» | kept as printed | probably «امہات دین» |
+| 302 (pr. 301) | text | «قرآن خبر بھی ہے کیا چیز ہے؟»، «ایتا سے مراد» | kept as printed | probably «قرآن کی خبر بھی ہے کیا چیز ہے» / «ایتاء» |
+| 303 (pr. 302) | text | «قرآن کے لئے مظہر و بطن ہے»، «بعض بطون ایسے ہی» | kept as printed | for «ظہر و بطن» / «ایسے ہیں» |
+| 307 (pr. 306) | text | «وہو عذ نویت» | kept as printed | for «وبصوم غد نویت» |
