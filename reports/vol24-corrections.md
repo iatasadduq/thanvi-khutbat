@@ -93,3 +93,5 @@
 | 386 (pr. 385) | hadith | «من احب لقاء اللہ…» introduced as «مسلم شریف میں» but cited «(الصحیح للبخاری ۸: ۱۳۳)»; «یعنی یہ حجاب رحمت کے وقت کا ذکر نہیں» | kept as printed | |
 | 388 (pr. 387) | text | «گو احتمال صحت یہی ہوگا مگر مغلوب»، «وہ احتمال مغلوب عذاب کا واقع نہ ہوگا رغبت موت کا» | kept as printed | sentence garbled in print («بھی ہوگا» / «مانع نہ ہوگا»?) |
 | 389 (pr. 388) | text | «جس عیش میں زوال عیش کا خوف ہو وہ اس تکلیف سے بڑا ہوگا»، «آرام پر ترجیح دے گا» | kept as printed; the sermon ends with «خلاصہ وعظ» (same text as the summary under the title) and no colophon | |
+| 391 (pr. 390) | text | «بھلا کہاں تک خوان کا پانی کرے» | kept as printed («خون کا پانی») |
+| 393 (pr. 392) | text | «کیونکہ ایسا یقین وہ الاعتقاد الجازم…» | kept as printed (sentence incomplete: «یقین وہ ہے جو…»?) |
