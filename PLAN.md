@@ -361,9 +361,9 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 - Volume 24 (موت و حیات): done 2026-11-13 (see Status).
 - **Volume 25 (حدود و قیود) — in progress (started 2026-11-13).** Folder `Vol 25 hudood o quyood/`; PDF
   `Khutbaat-i-Hakeem-ul-Ummat-Vol-25.pdf` (409 pages), PDF page = printed page + 1. Sermons (printed title page):
-  الحدود والقیود 17, حرمات الحدود 77, التراحم فی التراحم 147 (verify title: maybe «التزاحم»), الباب لاولی الالباب 177,
+  الحدود والقیود 17, حرمات الحدود 77, التزاحم فی التراحم 147 (title verified on its title page), الباب لاولی الالباب 177,
   الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ 229, التصدی للغیر 284, الاسراف 304, الغاء المجازفۃ 387; each sermon's file is named
-  after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: الحدود والقیود complete (0018, pdf 18–77); حرمات الحدود complete (0078, pdf 78–147). Next: pdf 148 (التراحم/التزاحم title page).
+  after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: الحدود والقیود complete (0018, pdf 18–77); حرمات الحدود complete (0078, pdf 78–147). Next: pdf 149.
   Continue from the first pdf page not yet in the notes; then the per-volume sequence in §3.
 
 - Volume 22 (ذکر و فکر): done (see Status).

@@ -24,3 +24,5 @@
 | 114 (pr. 113) | 33:39 | printed «یخشونه ولا یخشون احدا الا الله» | Qur'anic text | |
 | 114 (pr. 113) | 20:43 | printed «اذهبا الی فرعون انه طغی» after «حکم ہو چکا تھا» | cited as 20:43 | |
 | 121 (pr. 120) | text | «اور یہ بات حضرت حاجی صاحب ہی کے قول سے ثابت نہیں کہ سلام دعا ہے» | kept | probably «ثابت ہوتی ہے» or the «نہیں» belongs to a dropped «ہی»; for the owner |
+| 148 (pr. 147) | toc | Vol 25 toc entry read «التراحم فی التراحم» | «التزاحم فی التراحم» per the title page | |
+| 149 (pr. 148) | hadith | printed «…احینی ماعلمت الحیوة خیرا وتوفنی اذا علمت الوفاة خیرا…» | the book's wording kept (without «لی») | |
