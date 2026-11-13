@@ -45,3 +45,4 @@
 | 304 (pr. 303) | ayah | «لاتحزن علیهم» | written as 27:70 | the same words occur in 15:88, 16:127 and 27:70; the book gives no reference |
 | 328 (pr. 327) | Persian | «منزل ویراں بردم … وزپے جاناں بردم … غزل خوان بردم» | kept as printed | the known line (in the index) has «بروم» throughout |
 | 383 (pr. 382) | Persian | «ایکہ خواہی کز بلا جان و آخری» | kept as printed | the index already has this couplet as «گر تو خواہی کز بلا جاں و آخری»; indexed under that head with the printed wording as a variant |
+| 386 (pr. 385) | 7:31 | printed «ان الله لا یحب المسرفین» | Qur'anic text «انه لا یحب المسرفین» | |
