@@ -8,6 +8,7 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ## 1. Status (2026-11-13)
 
+- **Volume 25 (حدود و قیود) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 25 entry).
 - **Volume 24 (موت و حیات) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 24 entry).
 - **Volume 23 (راہ نجات) — done, awaiting the owner's review.** Folder `Vol 23 rah e najat/`. PDF page = printed
   page + 1; text printed pp. 17–400 (10 sermons: الاستغفار 17, آثار الحوبۃ فی اسرار التوبۃ 42, استمرار التوبۃ علیٰ تکرار
@@ -359,12 +360,17 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
 ## 4. Next steps
 
 - Volume 24 (موت و حیات): done 2026-11-13 (see Status).
-- **Volume 25 (حدود و قیود) — in progress (started 2026-11-13).** Folder `Vol 25 hudood o quyood/`; PDF
+- **Volume 25 (حدود و قیود) — done 2026-11-13, awaiting the owner's review.** Folder `Vol 25 hudood o quyood/`; PDF
   `Khutbaat-i-Hakeem-ul-Ummat-Vol-25.pdf` (409 pages), PDF page = printed page + 1. Sermons (printed title page):
   الحدود والقیود 17, حرمات الحدود 77, التزاحم فی التراحم 147 (title verified on its title page), الباب لاولی الالباب 177,
   الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ 229, التصدی للغیر 284, الاسراف 304, الغاء المجازفۃ 387; each sermon's file is named
   after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: الحدود والقیود complete (0018, pdf 18–77); حرمات الحدود complete (0078, pdf 78–147); التزاحم فی التراحم complete (0148, pdf 148–177); الباب لاولی الالباب complete (0178, pdf 178–229); الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ complete (0230, pdf 230–284); التصدی للغیر complete (0285, pdf 285–304); الاسراف complete (0305, pdf 305–387); الغاء المجازفۃ complete (0388, pdf 388–409, ends «بحمد اللہ تم»). All page-notes written (2026-11-13).
-  Next: the per-volume sequence in §3 from step 1 (toc.tsv) and steps 3–8.
+  `toc.tsv` regenerated from the page headings (419 rows). mark_arabic: DIFFERS 0, CITE 0 (three Persian lines flagged as
+  Arabic, pp. 34, 56, 269, left). Hadith check: `reports/vol25-hadith-check.md` (17 differs kept as the book's wording; one
+  slip fixed, p. 379 «للمؤمنین» → «للمؤمن»). Corrections: `reports/vol25-corrections.md`. Index built (1479 entries).
+  Added to `VOLUMES` in `tools/build_site.py`; site rebuilt (`site/v25.html`). Preview (private artifact, republish to
+  the same URL): https://claude.ai/artifact/R9hQniafZBVkniWm4Beghb
+- **Next: Volume 26** (§3 sequence from step 1).
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
