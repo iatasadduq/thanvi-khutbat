@@ -39,3 +39,9 @@
 | 260 (pr. 259) | text | «مجرائے عطام کون سا ہے»، «جس میں اہتمام ہلاک موجود ہے» | kept as printed | probably «مجرائے نفس» / «احتمال ہلاک»; the sentence «اور طبیب کہتے ہیں والعبرۃ للاکثر مسلم قاعدہ ہو تو» is also garbled in print; left as in the book |
 | 262 (pr. 261) | text | «ما یتخلل» (twice), «جزو بدن باندھ» | kept as printed | for «ما یتحلل» and probably «بندھے/بنانا»; index term uses «بدل ما یتحلل» as in Vol 16 |
 | 264 (pr. 263) | text | «گنوار سے گنوار ...... سے بھی ..... پوچھا جاوے»، «ایک لحہ» (twice), gloss «کیا ہم نے تم کو ان کی عمر نہ دی» | kept as printed | dots are in the print (word(s) missing); «لحہ» for «لمحہ»; gloss garbled («اتنی» → «ان کی»?) |
+| 265 (pr. 264) | text | «کچھ نہوت بھی تو تھی»، «جس کو نہوت ہو» | kept as printed | the same paragraph then has «ہوت ہو یا نہ ہوت»; «نہوت» in the first two may be a misprint for «ہوت» / «ہوت نہ» — owner to confirm |
+| 272 (pr. 271) | couplet | «باز چوں فردا شودا امروز افسردا کنم» | kept as printed | garbled typesetting of «باز چوں فردا شود امروز را فردا کنم» (the gloss and other volumes have it so); index term uses the usual wording |
+| 275 (pr. 274) | heading | «ہمارے بعض آریوں سے بدتر حالات» | kept as printed | the section that follows compares us with «جواری» (gamblers); probably «جواریوں» — owner to confirm (toc follows the print) |
+| 277 (pr. 276) | hadith | «ترک الصلوٰۃ معمدا فقد کفر» | kept as printed | for «متعمدا»; gloss of «قمار خانہ» says «شراب خانہ» as printed |
+| 278 (pr. 277) | text | «حق تعلق کا معاملہ» | kept as printed | for «حق تعالیٰ کا معاملہ» |
+| 279 (pr. 278) | text | «ان کی زبان نہیں کہتی»، «اس کی روح کیا کہتی ہوگی» | read from a faded print line | owner may check against another copy |
