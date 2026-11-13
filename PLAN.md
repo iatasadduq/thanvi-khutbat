@@ -18,7 +18,8 @@ Update the **Status** and **Next steps** sections at the end of every working se
   `reports/vol23-hadith-check.md` (12 differs, all the book's wording). Corrections: `reports/vol23-corrections.md`
   (rows for the owner, e.g. «بر سیر» p. 348 unidentified book, a probably missing line between pp. 378/379, 24:28
   and 2:286 printed without a word their glosses translate). Index built (1874 entries); site rebuilt
-  (`site/v23.html`). Preview: not yet published (this session ran as a scheduled resume; publish when convenient).
+  (`site/v23.html`). Preview (private artifact, republish to the same URL):
+  https://claude.ai/artifact/8tzXXV6eqdSHcpqLsjBqun
 - **Volume 22 (ذکر و فکر) — done, awaiting the owner's review.** Folder `Vol 22 zikr o fikr/`. PDF page = printed
   page + 1; text printed pp. 21–440 (11 sermons: تفصیل الذکر 21, المراقبہ 43, القاف 67, شرط التذکر 127, رطوبۃ اللسان 151,
   شرف المکالمہ 175, راحت القلوب 197, جلاء القلوب 242, ذم النسیان 335, التثبیت بمراقبۃ المبیت 389, زکوٰۃ النفس 411), all
