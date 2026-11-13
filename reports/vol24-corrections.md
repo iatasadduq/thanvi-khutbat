@@ -10,3 +10,4 @@
 | 41 (pr. 40) | text | «جب سب سے زیادہ آسان کام کی یہ حالت ہے کہ وہ تدبیروں اور طریقوں سے آسان معلوم ہونے لگیں اور تدبیر و ہمت سے کچھ بھی کام لینا نہ پڑے ان کے آسان ہونے کا بھی یہی طریقہ ہے» | kept as printed | a clause seems missing (likely «تو دین کے کام … ») between «… معلوم ہونے لگیں» and «اور تدبیر» |
 | 42 (pr. 41) | heading | «جزا مقدار» | kept as printed | the text speaks of «جزا مقدر» (the elided apodosis); the heading probably meant «جزا مقدر» |
 | 48 (pr. 47) | text | «تو لامحالہ دنیوی ضرورت میں صرف کرنے ہی سے روپیہ کی راحت معلوم ہوتی ہے، لامحالہ دنیوی ضرورت میں …» | kept as printed | a partly doubled phrase (dittography) |
+| 67 (pr. 66) | story | «امبیٹھ» (the school where the Muslim boy bought پیڑا and the Bania boy سنگھاڑے) | kept as printed | the same story is set in «لنہٹہ» in an earlier volume; the index uses the existing story name and notes the place |
