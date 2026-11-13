@@ -84,3 +84,5 @@
 | 361 (pr. 360) | text | gloss of 62:7 «اللہ تعالیٰ کو خوف اطلاع ہے» | kept as printed («خوب اطلاع») |
 | 362 (pr. 361) | text | four ayah fragments numbered «(۲) (۳) (۴)» without citations | marked 17:53, 16:125, 23:96 (ادفع بالتی ہی احسن is also 41:34), 41:36 (also 7:200) | numbers kept as printed |
 | 363 (pr. 362) | text | «اس مہربان سے مراد نامہربان ہوتی ہے» | kept as printed; the couplet «بد لگامی شوی» (other volumes «بدرگ می شوی») | |
+| 366 (pr. 365) | text | «امانت علیہ بو کیل» | kept as printed (not marked as ayah) | garbled «وما انت علیہم بوکیل» (6:107 / 42:6) |
+| 367 (pr. 366) | text | «وَمَنْ يَتَمَنَّوْهُ اَبَدًا» (62:7 is «ولا یتمنونہ ابدا»)؛ «جب اعمال سیئہ ہوں گے تو موت سے انس ہوگا»؛ «دوسرا حکم یعنی اعمال صالحہ میں موت۔» | kept as printed, marked «…» not as ayah | the second probably «اعمال صالحہ»; the last sentence is cut short in print |
