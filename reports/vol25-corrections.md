@@ -49,3 +49,6 @@
 | 387 (pr. 386) | couplet | «فراق یارنہ آں من کند» | standard «نہ آں می کند»; kept as printed, term uses the existing head | |
 | 387 (pr. 386) | couplet | «تشبیہ دکنایتے ست» | «د» likely for «و»; existing head reads «کنایتیست»; kept as printed | |
 | 387 (pr. 386) | 7:31 | printed «ان الله لا یحب المسرفین» again | Qur'anic «انه لا یحب المسرفین» | |
+| 388 (pr. 387) | title | printed «الغاء المجازفته» | written «الغاء المجازفۃ» as in PLAN.md and other titles | |
+| 389 (pr. 388) | khutba / 53:28 | printed «مفصل له», «اعبده», «وان انظن» | khutba from the standard text; 53:28 marker from the Qur'anic text | |
+| 389 (pr. 388) | text | «بعض سے مراد وہ جس کا استناد نص کی طرف نہ ہو» | context suggests «ظن سے مراد»; kept as printed | |
