@@ -36,3 +36,4 @@
 | 202–203 (pr. 201–202) | text | page 201 ends «…غرض» and page 202 resumes the تابیر story with «صحابہ نے تابیر کو اس سال چھوڑ دیا» | kept as printed | read as the end of the digression; possibly a few words missing in print |
 | 203 (pr. 202) | 2:189 | printed «واتوا البیوت من ابوابها» | Qur'anic text written | |
 | 213 (pr. 212) | Persian | «دماغ بے ہودہ پخت وخیال باطل ست» | kept as printed | the known line is «…خیال باطل بست»; the Urdu gloss «خیال باطل باندھا» supports «بست» |
+| 229 (pr. 228) | Persian | «ہیچ کنجے بے دو وبیدام نیست» | kept as printed | the known line is «بے دد و بے دام» (beast and snare); the Urdu gloss «بے دوڑ دھوپ» follows the printed «دو»; gloss also prints «شبہ» where «گوشہ» seems meant |
