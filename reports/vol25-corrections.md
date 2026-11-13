@@ -15,3 +15,5 @@
 | 47 (pr. 46) | couplet | «ریگ کاغذ بود و انگشتان قلم ☆ مے نویسی بہر کس نامہ رقم» | kept | other volumes print «می نمودی»; the gloss here belongs to the next couplet's answer |
 | 50 (pr. 49) | hadith | «اذانعس احدکم فلیر قد فلعله یستغفر فیسب نفسه» | spacing normalised | |
 | 51 (pr. 50) | text | «کثرت بالشاء… کسرت بالسنین» | kept as printed | unclear phrase; for the owner |
+| 64 (pr. 63) | text | «تجلیات آلہ» | kept | probably «تجلیات الٰہیہ» |
+| 67 (pr. 66) | text | gloss order: the reply couplet «توانی…» precedes «اس پر دوبارہ آواز آئی» | transcribed in printed order | the second «توانی» line is the saint's reply, «قبولست» the voice |
