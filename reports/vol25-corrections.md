@@ -26,3 +26,4 @@
 | 121 (pr. 120) | text | «اور یہ بات حضرت حاجی صاحب ہی کے قول سے ثابت نہیں کہ سلام دعا ہے» | kept | probably «ثابت ہوتی ہے» or the «نہیں» belongs to a dropped «ہی»; for the owner |
 | 148 (pr. 147) | toc | Vol 25 toc entry read «التراحم فی التراحم» | «التزاحم فی التراحم» per the title page | |
 | 149 (pr. 148) | hadith | printed «…احینی ماعلمت الحیوة خیرا وتوفنی اذا علمت الوفاة خیرا…» | the book's wording kept (without «لی») | |
+| 158 (pr. 157) | text | «تو یا یعنی قدما لی الطریق بدون اسے» | kept as printed | garbled phrase; for the owner |
