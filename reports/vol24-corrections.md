@@ -107,3 +107,5 @@
 | 417 (pr. 416) | text | «ایسی حالت بنا لو کہ جب سوچ و موت سے کراہت نہ ہو» | kept as printed | sermon ends «اس کے بعد لوگوں نے دعا مانگی اور وعظ ختم ہوا» |
 | 418 (pr. 417) | text | the summary under the title opens with a quotation mark and a gloss «کیا ہم قرآن شریف اتارنا چھوڑ دیں…» (of 43:5 «افنضرب عنکم الذکر صفحا») | kept as printed | |
 | 419 (pr. 418) | text | «بلکہ یہی احکام اور واقعات بیان ہوتے ہیں۔ اہتمام ہی نہیں کہ دوسرے معنی لے لئے جاویں» | kept as printed | the argument breaks off here; text appears to be missing in print between «اختیار کرے» and «بلکہ» |
+| 420 (pr. 419) | text | «احتمام ناشی عن دلیل»، «قرائن تو یہی کہتے ہیں کہ غلط نہیں کیا تواریخ سے بھی گئیں» | kept as printed | «احتمال»; second sentence garbled |
+| 421 (pr. 420) | text | «ایک بات بھی متفق علیہ ثابت ہوئی» (sense «نہ ہوئی»)؛ «اور رشتے کی ضرورت»؛ «کیا ان احکام کو یونہی نہیں چھوڑ دیا» | kept as printed | |
