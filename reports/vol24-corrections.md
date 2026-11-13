@@ -91,3 +91,4 @@
 | 376 (pr. 375) | text | «یوجدون اعمالنا اجدو» | kept as printed | unclear (perhaps «یوجدون ما اوجدوا») |
 | 380 (pr. 379) | gloss | «اور ... خوبیوں کا اظہار ہوتا ہے» | a word illegible in the scan, marked «...» | |
 | 386 (pr. 385) | hadith | «من احب لقاء اللہ…» introduced as «مسلم شریف میں» but cited «(الصحیح للبخاری ۸: ۱۳۳)»; «یعنی یہ حجاب رحمت کے وقت کا ذکر نہیں» | kept as printed | |
+| 388 (pr. 387) | text | «گو احتمال صحت یہی ہوگا مگر مغلوب»، «وہ احتمال مغلوب عذاب کا واقع نہ ہوگا رغبت موت کا» | kept as printed | sentence garbled in print («بھی ہوگا» / «مانع نہ ہوگا»?) |
