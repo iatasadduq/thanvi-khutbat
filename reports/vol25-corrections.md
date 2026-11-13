@@ -21,3 +21,5 @@
 | 82 (pr. 81) | name | «حضرت سعد بن وقاصؓ» | kept; term under «حضرت سعد بن ابی وقاصؓ» | |
 | 94 (pr. 93) | editorial note | «کذا فی المقاصد الحسنۃ للسخاوی ۱۲ جامع» | transcribed in the text as printed | the compiler's note interrupts the sentence |
 | 97–98 (pr. 96–97) | 4:35 | the ayah fragment «ان یرید ااصلاحا یوفق اللہ بینھما» runs across the page break | written whole on pdf 97 | |
+| 114 (pr. 113) | 33:39 | printed «یخشونه ولا یخشون احدا الا الله» | Qur'anic text | |
+| 114 (pr. 113) | 20:43 | printed «اذهبا الی فرعون انه طغی» after «حکم ہو چکا تھا» | cited as 20:43 | |
