@@ -10,3 +10,4 @@
 | 73 (pr. 72) | hadith | «ہلا شفقت قلبہ» | «ہلا شققت قلبہ» (مسند احمد) | «شفقت» misprint for «شققت» (did you split his heart open) |
 | 90 (pr. 89) | couplet | «نمائد بھیاں کے در گرد که دارو چنیں سید پیشرو» | kept as printed | Persian hemistich garbled in the scan; sense given in the gloss |
 | 132 (pr. 131) | citation | «(سورۃ الاحزاب آیت نمبر ۷۰، ۷۱)» | kept as printed | 33:69 is also quoted in the khutba; the citation names only 70–71 |
+| — | toc | فہرست gives الاسعاد والابعاد 146 | first toc.tsv row read 136 by mistake, now 147 | printed 146 is still تسہیل الاصلاح; the sermon has no title page and starts with its khutba on printed 147 (file 0148) |
