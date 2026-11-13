@@ -22,3 +22,4 @@
 | 118 (pr. 117) | text | «ان کے اتحاد پر کوئی دلیل عقلی نہیں» | «ان کے استحالہ پر کوئی دلیل عقلی نہیں» | the argument is the one on p. 116 («جس بات کے استحالہ پر کوئی دلیل عقلی قائم نہیں ہے وہ ممکن ہے»); «اتحاد» makes no sense here |
 | 120 (pr. 119) | citation | «ان ہؤلاء متبر ما ہم فیہ وباطل ما کانوا یعملون (الاعراف: ۵)» | «(الاعراف: ۱۳۹)» | the ayah is 7:139 (owner's Vol 1 rule for wrong citations, as in Vol 23) |
 | 126 (pr. 125) | text | «بلکہ صرف اظہار مسرت ہے» | «بلکہ صرف اظہار حسرت ہے» | the whole paragraph says this is «کلمہ حسرت»; «مسرت» (joy) is a typesetting slip |
+| 145 (pr. 144) | text | «ان کا قبل حق تعالیٰ سے ملا ہوا ہے» | «ان کا قلب حق تعالیٰ سے ملا ہوا ہے» | the sentence before speaks of «ان کے قلب میں ایک قوت کشش»; «قبل» is a letter-order slip |
