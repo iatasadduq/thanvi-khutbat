@@ -35,3 +35,7 @@
 | 252 (pr. 251) | text | «طاعون کے مقام پر نہ جانا جائز نہ وہاں سے بھاگنا جائز» | kept as printed | the sense is «نہ وہاں جانا جائز نہ وہاں سے بھاگنا»; word order as in the book |
 | 256 (pr. 255) | text | «اور یہ سنانا تمہیں قانون کا اور سلطنت کے جبروت کا علم نہ تھا» | kept as printed | words seem dropped (an example of a sentence passed on a criminal, e.g. «…ایسا ہے جیسے مجرم سے کہا جائے کیا تمہیں…»); left as in the book |
 | 257 (pr. 256) | text | «صرف ایک ضعیف سا احتمام ہے» | kept as printed | «احتمام» is a slip for «احتمال» (the page later says «صرف ضعیف احتمال کے درجہ میں»); left as in the book |
+| 259 (pr. 258) | text | «کھانا کھانے میں بھی ہلاکت کا احتمام ہے» | kept as printed | «احتمام» for «احتمال» again (cf. p. 256); left as in the book |
+| 260 (pr. 259) | text | «مجرائے عطام کون سا ہے»، «جس میں اہتمام ہلاک موجود ہے» | kept as printed | probably «مجرائے نفس» / «احتمال ہلاک»; the sentence «اور طبیب کہتے ہیں والعبرۃ للاکثر مسلم قاعدہ ہو تو» is also garbled in print; left as in the book |
+| 262 (pr. 261) | text | «ما یتخلل» (twice), «جزو بدن باندھ» | kept as printed | for «ما یتحلل» and probably «بندھے/بنانا»; index term uses «بدل ما یتحلل» as in Vol 16 |
+| 264 (pr. 263) | text | «گنوار سے گنوار ...... سے بھی ..... پوچھا جاوے»، «ایک لحہ» (twice), gloss «کیا ہم نے تم کو ان کی عمر نہ دی» | kept as printed | dots are in the print (word(s) missing); «لحہ» for «لمحہ»; gloss garbled («اتنی» → «ان کی»?) |
