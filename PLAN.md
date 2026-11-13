@@ -374,7 +374,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   `Khutbaat-i-Hakeem-ul-Ummat-Vol-26.pdf` (456 pages), PDF page = printed page + 1. Sermons (اجمالی فہرست, printed
   pages): الصالحون 17, تسہیل الاصلاح 130, الاسعاد والابعاد 136, الخلط 201, المباح 228, السوال 256, ذم المکروہات 268,
   اصلاح النفس 373, الارتیاب والاغتیاب 399, علاج الکبر 436; each file named after its title pdf page (0018, 0131, …).
-  `toc.tsv` has the 10 sermon rows; regenerate from the page headings when done. Transcribed so far: الصالحون complete (0018, pdf 18–130). Next: pdf 131 (تسہیل الاصلاح).
+  `toc.tsv` has the 10 sermon rows; regenerate from the page headings when done. Transcribed so far: الصالحون complete (0018, pdf 18–130); تسہیل الاصلاح complete (0131, pdf 131–147). Next: pdf 148 (الاسعاد والابعاد, title page; check the file name against the printed start 136).
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
