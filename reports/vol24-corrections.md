@@ -18,3 +18,5 @@
 | 94 (pr. 93) | verse | «ام الجنائث خواند» | «ام الخبائثش خواند» | Hafiz's line as given elsewhere in the series; ج/ن for خ/ب is a typesetting slip |
 | 104 (pr. 103) | text | «جس میں شرکت کی طالب علم کو ضرورت ہو دوسرے مدرسے میں وہ نہیں ہوتی تو اس صورت میں اس طالب کو ضرورت ہے اور دوسرے مدرسے میں وہ نہیں ہوتی» | kept as printed | the clause is printed twice (dittography); left as in the book |
 | 110 (pr. 109) | text | last words of the page are faint: «الفاظ ادا نہ ہوں تو» | written as read from a zoomed, contrast-boosted crop | reading is likely but not certain; the next page continues «کیا حرج ہے» |
+| 117 (pr. 116) | text | «صرف احتمال کے طور پر کہا جاتا ہے کہ اس قرب اور بعد کے ہونے کی یہ بھی صورت ہوئی تھی۔» printed before the same sentence ending «صورت ممکن ہے» | kept as printed | a near-duplicate line (typesetting repeat); left as in the book |
+| 118 (pr. 117) | text | «ان کے اتحاد پر کوئی دلیل عقلی نہیں» | «ان کے استحالہ پر کوئی دلیل عقلی نہیں» | the argument is the one on p. 116 («جس بات کے استحالہ پر کوئی دلیل عقلی قائم نہیں ہے وہ ممکن ہے»); «اتحاد» makes no sense here |
