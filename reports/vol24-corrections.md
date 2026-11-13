@@ -88,3 +88,4 @@
 | 367 (pr. 366) | text | «وَمَنْ يَتَمَنَّوْهُ اَبَدًا» (62:7 is «ولا یتمنونہ ابدا»)؛ «جب اعمال سیئہ ہوں گے تو موت سے انس ہوگا»؛ «دوسرا حکم یعنی اعمال صالحہ میں موت۔» | kept as printed, marked «…» not as ayah | the second probably «اعمال صالحہ»; the last sentence is cut short in print |
 | 370 (pr. 369) | text | the couplet has two Urdu glosses printed one after the other | kept as printed | |
 | 374 (pr. 373) | verse | «مانبودیم و تقاضیا ما نہ بود … لطف تو گفتہ نامی شنود» | kept as printed | usual reading «ما نبودیم و تقاضا ما نبود / لطف تو ناگفتہ ما می شنود» |
+| 376 (pr. 375) | text | «یوجدون اعمالنا اجدو» | kept as printed | unclear (perhaps «یوجدون ما اوجدوا») |
