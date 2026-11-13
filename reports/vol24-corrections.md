@@ -63,3 +63,5 @@
 | 309 (pr. 308) | text / verse | «دواک منک وما تشعر / دواک منک وما تبصر» | kept as printed | the known verse is «دواؤک فیک وما تشعر / وداؤک منک وما تبصر» — owner to decide; gloss of «خود کوزہ» is garbled in print |
 | 310 (pr. 309) | hadith | «ثم تلد ہذہ الآیۃ»; ref «سنن الترمذی: ۶۹۵» (p. 301 has ۶۵۹) | kept as printed | for «ثم تلا»; the two references differ in print |
 | 312 (pr. 311) | verse | «در درویش راہ دربان نباید»، «بباید تاسگ دنیا نیاید» | kept as printed («راہ» for «را») | index term uses the usual wording |
+| 316 (pr. 315) | text | «اکرام ضعیف کے خلاف» | kept as printed | for «اکرام ضیف» |
+| 317 (pr. 316) | text | «واجتنوا کثیراً من الظن» (after 49:12 «ان بعض الظن اثم») | kept as «…» (not an ayah mark) since misspelled and in reverse order | owner may prefer ﴿49:12|اجۡتَنِبُوۡا…﴾ |
