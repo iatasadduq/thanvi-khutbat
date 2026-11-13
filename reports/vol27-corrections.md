@@ -9,3 +9,4 @@
 | 53 (pr. 52) | ayah | «رَبِّ هَبْ لِیْ مُلْکًا لَا یَنْبَغِیْ لِاَحَدٍ مِّنْ بَعْدِیْ» | ﴿38:35﴾ text from the reference | the print omits «اغۡفِرۡ لِيۡ و»; reference text used (as in Vol 24/25) |
 | 58 (pr. 57) | wording | «(اگر اعتبارات ہوتے تو حماقت باطل ہو جاتی)» | kept as printed | the gloss of «لولا الاعتبارات لبطلت الحماقۃ» should read «اگر اعتبارات نہ ہوتے»; «مگ دے» is kept as printed |
 | 60 (pr. 59) | ayah | «وَلَا تُمَارِ فِيهِمْ اِلَّا مِرَآءً ظَاهِرًا» | ﴿18:22﴾ text from the reference («فَلَا») | the print has «و» for «ف» |
+| 61 (pr. 60) | name | «مولوی سراج الدین صاحب» and, a line later, «مولوی سراج احمد صاحب» | kept as printed | the same person is meant; one of the two names is a misprint |
