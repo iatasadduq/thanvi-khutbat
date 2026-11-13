@@ -384,8 +384,12 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   passage, p. 442 «لبا من», p. 454 «صبر یا» probably «کبریا»). Index built (1759 entries). Added to `VOLUMES` in
   `tools/build_site.py`; site rebuilt (`site/v26.html`). Preview (private artifact, republish to the same URL):
   https://claude.ai/artifact/9MYc2frQfRvCdC2XiSvMcj (watched in this session, with the Vol 23–25 previews).
-- **Volume 27 — next.** PDF `Khutbaat-i-Hakeem-ul-Ummat-Vol-27.pdf` (441 pages); page images extracted to the scratchpad
-  (`h27/`). Start with step 1 (offset, فہرست into `toc.tsv`).
+- **Volume 27 (فضائل علم) — in progress (started 2026-11-13).** Folder `Vol 27 fazail e ilm/`; PDF
+  `Khutbaat-i-Hakeem-ul-Ummat-Vol-27.pdf` (441 pages), PDF page = printed page + 1. Sermons (اجمالی فہرست, printed pages):
+  تعظیم العلم 17, طلب العلم 86, الہدیٰ والمغفرۃ 104, ضرورۃ العمل فی الدین 149, تفاضل الاعمال 178, الفضل العظیم 204,
+  اشرف العلوم 234, شکر المثوی 285, مظاہر الاحوال 314, مفتاح الخیر 360, تقلیل الکلام 381; each file named after its title
+  pdf page (0018, 0087, …; check each title page). `toc.tsv` has the 11 sermon rows. Page images in the scratchpad `h27/`.
+  Corrections: `reports/vol27-corrections.md`. Transcribed so far: تعظیم العلم complete (0018, pdf 18–86). Next: طلب العلم, pdf 87.
 
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
