@@ -9,3 +9,4 @@
 | 68 (pr. 67) | 5:8 | printed «لا یجر منکم شنان قوم علیٰ ان لا تعدلوا» | 5:8 «ولا یجرمنکم شنان قوم علیٰ الا تعدلوا» | quoted as a standalone proof; the leading «و» and «الا» written as printed differ slightly |
 | 73 (pr. 72) | hadith | «ہلا شفقت قلبہ» | «ہلا شققت قلبہ» (مسند احمد) | «شفقت» misprint for «شققت» (did you split his heart open) |
 | 90 (pr. 89) | couplet | «نمائد بھیاں کے در گرد که دارو چنیں سید پیشرو» | kept as printed | Persian hemistich garbled in the scan; sense given in the gloss |
+| 132 (pr. 131) | citation | «(سورۃ الاحزاب آیت نمبر ۷۰، ۷۱)» | kept as printed | 33:69 is also quoted in the khutba; the citation names only 70–71 |
