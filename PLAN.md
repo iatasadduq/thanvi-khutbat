@@ -365,11 +365,12 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   رجاء اللقاء 38, السوق لاہل الشوق 79, خیر الحیات و خیر الممات 170, دواء العیوب المعروف بہ شام خورشید 252, الجمعین بین
   النفعین 298, شوق اللقاء 359, احکام و مسائل متعلق موت 389, اشرف المواعظ (پہلا وعظ) 407, (دوسرا وعظ) 417). `toc.tsv`
   holds the sermon rows only (regenerate from page headings at the end, as for Vol 23). Page images: scratchpad
-  `img24/` (all pages), half-pages `h24/` made for pdf 1–80 (`halves.py img24 h24 <first> <last>`). Corrections log:
+  `img24/` (all pages), half-pages `h24/` (`halves.py img24 h24 <first> <last>`). Corrections log:
   `reports/vol24-corrections.md`.
   Done: ذکر الموت pp. 18–37 (file 0019), رجاء اللقاء pp. 38–78 (file 0039), السوق لاہل الشوق pp. 79–169 (file 0080),
   خیر الحیات و خیر الممات pp. 170–245 + appended ملفوظ «الطاحون لمن فر من الطلعون» pp. 246–251 (file 0171; given its
-  own «#» title). Qur'an check DIFFERS 0 so far. Next: دواء العیوب from p. 252 (pdf 253) in `0253.txt`.
+  own «#» title), دواء العیوب pp. 252–297 (file 0253; ends with a poem, no colophon). Qur'an check DIFFERS 0 so far.
+  Half-pages `h24/` exist for pdf 1–340. Next: الجمعین بین النفعین from p. 298 (pdf 299) in `0299.txt`.
 - Environment note (2026-11-11): in a fresh container `python3 -I` may find a broken system Pillow; fix with
   `python3 -m pip install --break-system-packages --ignore-installed pillow`. `pdfimages -f/-l` numbers its output
   from 000, so rename to `p-<pdf page - 1>` before `halves.py`.

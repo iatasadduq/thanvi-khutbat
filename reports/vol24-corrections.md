@@ -51,3 +51,6 @@
 | 285 (pr. 284) | text | «شال ہاف چاہئے»، «اس کی عادت کو لو» | kept as printed | unclear («شال باف»؟); probably «عادت ڈالو» |
 | 287 (pr. 286) | text | sentence «اور وہ حالت اور وہ ذوق شوق کی حالت رفع ہو جاتی ہے … بہت بار معلوم ہوتا ہے» printed twice; «اخار للعسان … قرار دیتا ہے» | kept as printed | the repetition is in the print; «اخار للعسان» probably «ارخاءً للعنان» and «دیتا ہوں» |
 | 288 (pr. 287) | text | «وہاں تو بے حس پنجابی ہیں»، «ایک یہ دوسرے اس جگہ»، «پھوٹی خاک ملی چھاڑو ماری» | kept as printed | text unclear («بے حس بن جاتی ہیں»؟); «جھاڑو ماری» |
+| 295 (pr. 294) | text | «ہر فرقہ ... جتنا سامان»، «مکان سے یا مافی الرکان سے دلچسپی اور بے فکر» | line faded at the foot of the page; a word after «فرقہ» unreadable, marked «...»; «مافی الرکان» kept as printed | owner to check against another copy |
+| 297 (pr. 296) | text | «مع تفصیل ان امور کے ...... جو موت»، «سو کر ان سے پیچھا نہیں چھوٹتا» | kept as printed | dots in the print; «سو کر» probably «سو کر اٹھنے سے» or similar |
+| 298 (pr. 297) | text / verse | «بزرگوں کے کلمات سے مذکورہ موت»، «اس طرح آواز طبل»، «کہا کاؤس» | «مذکورہ» kept (for «تذکرہ»); «طرح» kept as printed (other volumes «طرف»); «کہا کاؤس» written «کیکاؤس» as in the same poem in other volumes; the poem is the end of the sermon (no colophon line) | |
