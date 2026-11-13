@@ -111,3 +111,4 @@
 | 421 (pr. 420) | text | «ایک بات بھی متفق علیہ ثابت ہوئی» (sense «نہ ہوئی»)؛ «اور رشتے کی ضرورت»؛ «کیا ان احکام کو یونہی نہیں چھوڑ دیا» | kept as printed | |
 | 423 (pr. 422) | text | right margin cut off in the scan on several lines of the lower half | missing letters supplied from context: «پروا [نہیں]»، «[ضرو]ری کا ذریعہ»، «مدر[سے] [بھی] ضروری»، «مگر [ا]ن کے معاملہ»، «جب کوئی [کہ]تا ہے»، «صحیح بھی [ہو]»، «ہمیشہ کی [مصیبت]یں» | owner to check against another copy |
 | 424 (pr. 423) | text | «اگر ان کا نتیجہ ابھی چھپا دیا گیا ہے»، «اپنی غرض کو......» (dots in print) | kept as printed | |
+| 425 (pr. 424) | text | first line partly cut at the right margin («[ا]س درجہ ضروری»، «[ا]گر اس قدر مہلت»); «آپ جو کچھ دین اپنی ضرورت…» (for «دیں»?); «جو شب قدر میں ہے کہ خیر من الف شہر» | supplied / kept as printed | the volume ends here with «(وعظ ختم ہوا)» and the «بحمد اللہ» calligraphy |
