@@ -34,3 +34,4 @@
 | 249 (pr. 248) | text | «البتہ جبکہ یہ نیت نہ ہو کہ جب جائیں گے تب بچ جائیں گے» | kept as printed | the logic needs «جبکہ یہ نیت ہو»; «نہ» seems an extra word; left as in the book |
 | 252 (pr. 251) | text | «طاعون کے مقام پر نہ جانا جائز نہ وہاں سے بھاگنا جائز» | kept as printed | the sense is «نہ وہاں جانا جائز نہ وہاں سے بھاگنا»; word order as in the book |
 | 256 (pr. 255) | text | «اور یہ سنانا تمہیں قانون کا اور سلطنت کے جبروت کا علم نہ تھا» | kept as printed | words seem dropped (an example of a sentence passed on a criminal, e.g. «…ایسا ہے جیسے مجرم سے کہا جائے کیا تمہیں…»); left as in the book |
+| 257 (pr. 256) | text | «صرف ایک ضعیف سا احتمام ہے» | kept as printed | «احتمام» is a slip for «احتمال» (the page later says «صرف ضعیف احتمال کے درجہ میں»); left as in the book |
