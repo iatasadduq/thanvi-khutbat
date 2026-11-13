@@ -95,3 +95,4 @@
 | 389 (pr. 388) | text | «جس عیش میں زوال عیش کا خوف ہو وہ اس تکلیف سے بڑا ہوگا»، «آرام پر ترجیح دے گا» | kept as printed; the sermon ends with «خلاصہ وعظ» (same text as the summary under the title) and no colophon | |
 | 391 (pr. 390) | text | «بھلا کہاں تک خوان کا پانی کرے» | kept as printed («خون کا پانی») |
 | 393 (pr. 392) | text | «کیونکہ ایسا یقین وہ الاعتقاد الجازم…» | kept as printed (sentence incomplete: «یقین وہ ہے جو…»?) |
+| 395 (pr. 394) | verse | «کہ کھے اللہ دروغے میزنی»، «کار بار او است باید داشتن» | kept as printed | usual «گہ کشی اللہ…»، «کار با او راست باید داشتن» |
