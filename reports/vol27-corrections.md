@@ -58,3 +58,4 @@
 | 368 (pr. 367) | misprint | «اس سے معلوم ہوا کہ علم سے جزاء افضل ہے» | kept as printed | sense needs «عمل سے» |
 | 370 (pr. 369) | list of cases | the eight cases are printed with «ثالث خیر کا مفتاح ہونا شر کا مغلاق ہونا» (same as the first) and «سابع … خیر و شر دونوں کا مغلاق ہونا» joined to the seventh | kept as printed | sense needs «ثالث خیر کا مفتاح ہونا شر کا مغلاق نہ ہونا» and the joined phrase as the eighth case; owner to confirm |
 | 370 (pr. 369) | parenthesis | the gloss of «در کارخانہ عشق…» opens «(کارخانہ عشق میں…» and never closes | kept as printed | the gloss runs into the following text |
+| 371 (pr. 370) | misprint | «پس قسم خامس مقدم ہو گئی» | kept as printed | sense needs «منعدم ہو گئی» (as «قسم سادس نہ رہی» next) |
