@@ -28,3 +28,4 @@
 | 442 (pr. 441) | unclear word | «لبا من سے تاریخ رکھوانا» | kept as printed | probably «برہمن» or «لگن»; the print is unclear |
 | 451 (pr. 450) | book title | «دیکھو رد المختار میں لکھا ہے» | kept as printed | misprint for «رد المحتار» (ابن عابدین); the term head uses the standard spelling |
 | 454 (pr. 453) | unclear word | «یہ صفت کسی اور کے لئے نہیں ہو سکتی وہ صبر یا ہے» | kept as printed | probably a misprint for «کبریا»; in the same passage «اس کے عموں کو» is perhaps «اس کے عموم کو», and «چھ نہ کچھ» is a misprint for «کچھ نہ کچھ» |
+| 455 (pr. 454) | Arabic word split | «زور والقبور واکثروا ذکر ہاذم اللذات» | corrected to «زوروا القبور» | the print splits the word wrongly; the hadith is marked «بلفظ آخر» and cited as سنن ابن ماجہ ۱۵۶۹ |
