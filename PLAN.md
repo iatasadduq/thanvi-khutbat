@@ -363,7 +363,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   `Khutbaat-i-Hakeem-ul-Ummat-Vol-25.pdf` (409 pages), PDF page = printed page + 1. Sermons (printed title page):
   الحدود والقیود 17, حرمات الحدود 77, التزاحم فی التراحم 147 (title verified on its title page), الباب لاولی الالباب 177,
   الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ 229, التصدی للغیر 284, الاسراف 304, الغاء المجازفۃ 387; each sermon's file is named
-  after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: الحدود والقیود complete (0018, pdf 18–77); حرمات الحدود complete (0078, pdf 78–147); التزاحم فی التراحم complete (0148, pdf 148–177); الباب لاولی الالباب complete (0178, pdf 178–229); الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ in progress (0230, pdf 230–231 so far). Next: pdf 232.
+  after its title pdf page (0018, 0078, 0148, 0178, 0230, 0285, 0305, 0388). Transcribed so far: الحدود والقیود complete (0018, pdf 18–77); حرمات الحدود complete (0078, pdf 78–147); التزاحم فی التراحم complete (0148, pdf 148–177); الباب لاولی الالباب complete (0178, pdf 178–229); الرغبۃ المرغوبۃ والطلبۃ المطلوبۃ in progress (0230, pdf 230–270 so far). Next: pdf 271.
   Continue from the first pdf page not yet in the notes; then the per-volume sequence in §3.
 
 - Volume 22 (ذکر و فکر): done (see Status).
