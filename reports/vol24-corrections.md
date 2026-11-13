@@ -23,3 +23,4 @@
 | 120 (pr. 119) | citation | «ان ہؤلاء متبر ما ہم فیہ وباطل ما کانوا یعملون (الاعراف: ۵)» | «(الاعراف: ۱۳۹)» | the ayah is 7:139 (owner's Vol 1 rule for wrong citations, as in Vol 23) |
 | 126 (pr. 125) | text | «بلکہ صرف اظہار مسرت ہے» | «بلکہ صرف اظہار حسرت ہے» | the whole paragraph says this is «کلمہ حسرت»; «مسرت» (joy) is a typesetting slip |
 | 145 (pr. 144) | text | «ان کا قبل حق تعالیٰ سے ملا ہوا ہے» | «ان کا قلب حق تعالیٰ سے ملا ہوا ہے» | the sentence before speaks of «ان کے قلب میں ایک قوت کشش»; «قبل» is a letter-order slip |
+| 167 (pr. 166) | ayat | «لست علیہم بمصیطر ولا تسئل عن اصحب الجحیم ولا تحزن علیہم فان اعرضوا فما ارسلنک علیہم حفیظا ان علیک الا البلغ» printed as one run | marked as four separate pieces: 88:22, 2:119 (part), 27:70 (part), 42:48 (part) | the book strings together phrases from four surahs with no citation; each piece is marked to its own ayah |
