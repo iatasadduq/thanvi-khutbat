@@ -70,3 +70,4 @@
 | 327 (pr. 326) | text | gloss of «حتی اذا ہذبوا ونقوا» printed «(انہیں پاک نہ کرے گا)» | kept as printed | the gloss belongs to «لا یزکیہم»; the hadith means «جب پاک صاف کر دیئے جائیں گے» |
 | 329 (pr. 328) | verse | «راست اخلاص صداق افراشتن»، «در غلط اندازی تا»، «کارہا باخلق آرے» | kept as printed | known reading «رایت اخلاص و صدق افراشتن»; index uses the usual wording |
 | 331 (pr. 330) | text | gloss after 3:135 is the gloss of the Persian couplet that follows («ہاتھ میں تسبیح…»), printed before it; «گو تم اس کو عید سمجھتے ہو» (= «وعید»?) | kept as printed | |
+| 340 (pr. 339) | text | «والفار منہ کالفار من الزحف» printed twice in succession | kept as printed | |
