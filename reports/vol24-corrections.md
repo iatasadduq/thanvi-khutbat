@@ -68,3 +68,5 @@
 | 322 (pr. 321) | text | «تو دوبارہ اس سے کام لینا یقیناً عذر ہے»، «بدون عذر کے» | kept as printed | «عذر» here means «غدر» (breach) |
 | 326 (pr. 325) | text | «شہرا عیدہ ینقصان»، «باطن میں اس طرح کہ روزے رکھنے کی وجہ سے» | kept as printed | for «شہرا عید لا ینقصان» / «روزے نہ رکھنے» |
 | 327 (pr. 326) | text | gloss of «حتی اذا ہذبوا ونقوا» printed «(انہیں پاک نہ کرے گا)» | kept as printed | the gloss belongs to «لا یزکیہم»; the hadith means «جب پاک صاف کر دیئے جائیں گے» |
+| 329 (pr. 328) | verse | «راست اخلاص صداق افراشتن»، «در غلط اندازی تا»، «کارہا باخلق آرے» | kept as printed | known reading «رایت اخلاص و صدق افراشتن»; index uses the usual wording |
+| 331 (pr. 330) | text | gloss after 3:135 is the gloss of the Persian couplet that follows («ہاتھ میں تسبیح…»), printed before it; «گو تم اس کو عید سمجھتے ہو» (= «وعید»?) | kept as printed | |
