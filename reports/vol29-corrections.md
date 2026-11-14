@@ -78,3 +78,5 @@
 | 117 (pr. 116) | wording | «اگر یہ حدیث ثابت بھی نہ ہوتو تو» | kept as printed | |
 | 123 (pr. 122) | heading | «تعدد کثرت ازواج رسول کریمؐ میں حکمت» | ؐ written out as «صلی اللہ علیہ وسلم» in the heading | |
 | 123 (pr. 122) | wording | «ایک مجمع ایسا ہے بے تکلف تھا» | kept as printed | |
+| 126 (pr. 125) | wording | gloss «جس عاشق کو دیکھو اس کو معشوق مت سمجھو» (the couplet says «سمجھو»; «مت» a misprint?) | kept as printed | owner to confirm |
+| 126 (pr. 125) | spelling | couplet «ہر کہ عاشق دید بس معشوق داں» (elsewhere «دیدیش») | kept as printed; head unchanged | |
