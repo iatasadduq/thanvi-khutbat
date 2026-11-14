@@ -115,3 +115,5 @@
 | 0418 | pdf 423 | «اس غلام پر حد جاری نہ کی» — the غلام is not introduced earlier in the text | kept as printed |
 | 0418 | pdf 424 | «اتباع ہونے سے بچنا» («اتباع ہوی» likely intended); «اتباع نفس دھوکا» | kept as printed |
 | 0418 | pdf 424–425 | «…ورنہ حدیث پر قول مجتہد کی ترجیح لازم آتی ہے» spans the page break | written whole on pdf 424 |
+| 0418 | pdf 425 | «بعض وقت برائے کا اختلاف» («رائے» intended?) | kept as printed |
+| 0418 | pdf 425–426 | «…بلکہ محض غیر اہل زبان کے واسطے… مکالمت کرنے کا آلہ ہے» spans the page break | written whole on pdf 425 |
