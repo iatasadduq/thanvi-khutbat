@@ -10,3 +10,4 @@
 | 75 (pr. 74) | spelling | gloss «ارکین سلطنت» for «ارکان» | kept as printed | |
 | 79 (pr. 78) | Quran wording | printed «وَلَا تُعْجِبْكَ اَمْوَالُهُمْ وَلَا اَوْلَادُهُمْ اِنَّمَا يُرِيْدُ اللّٰهُ اَنْ يُّعَذِّبَهُمْ بِهَا فِي الْحَيٰوةِ الدُّنْيَا» mixes 9:55 («فَلَا… وَلَاۤ اَوْلَادُهُمْ… لِيُعَذِّبَهُمْ… فِى الْحَيٰوةِ الدُّنْيَا») and 9:85 («وَلَا… وَاَوْلَادُهُمْ… اَنْ يُّعَذِّبَهُمْ… فِى الدُّنْيَا») | marked as 9:55 from «تُعۡجِبۡكَ», reference text | owner may prefer a note |
 | 90 (pr. 89) | stray mark | «کسب الحلال فریضة بعد الفریضة ۱۲)» — closing parenthesis with «۱۲» but no opening one | kept as printed | |
+| 96 (pr. 95) | parentheses | «… سلطنت دی تھی پارہ نمبر ۳ رکوع ۳)» (no opening bracket) and «(مراد نمرود ہے کہا (قاله المفسرون ۱۲)» (one bracket left open) | kept as printed | |
