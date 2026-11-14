@@ -97,3 +97,8 @@
 | 0328 | pdf 412 | «اس قعد کا اثر» («قصد» likely intended) | kept as printed |
 | 0328 | pdf 412–413 | «…چہ جائیکہ اللہ و رسول صلی اللہ علیہ وسلم جنہوں نے یہ سب احکام مقرر فرمائے» spans the page break | written whole on pdf 412 |
 | 0328 | pdf 413–414 | «…حضرات یہ بڑا فتنہ ہے بعض وقت ایمان تک اس سے کھویا جاتا ہے» spans the page break | written whole on pdf 413 |
+| 0328 | pdf 414–415 | couplet «گر انارے می خری خنداں بجز» quoted at the end of pdf 414 continues on pdf 415 | written whole on pdf 414 |
+| 0328 | pdf 414–415 | «بجز» in «گر انارے میخری خنداں بجز» («بخر» intended); «رحمۃ اللعالمین» | kept as printed; head records «بصورت» |
+| 0328 | pdf 415 | «برنگ اصحاب صورت بوارباب معنی را» (standard «را ببو ارباب») | kept as printed, spaced «بو ارباب»; head records «بصورت» |
+| 0328 | pdf 415 | «ان کی ضرورت کا بیان پرسوں کے وعظ میں» («اس کی» or «باطن کی» intended?) | kept as printed |
+| 0328 | pdf 415–416 | «…کہ یہ بھی تو وعدہ خلافی ہے… ہر شخص چاہتا ہے» spans the page break | written whole on pdf 415 |
