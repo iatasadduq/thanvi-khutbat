@@ -101,3 +101,4 @@
 | 211 (pr. 210) | ayah | closing «ربنا تفبل منا انک انت السمیع العلیم» («تفبل» misprint) | marked 2:127 with the Qur'an text | |
 | 211 (pr. 210) | punctuation | «انتہی بلفظ حضرت مولانا مدظلہ العالی)» has a closing bracket with no opening one | kept as printed | |
 | 212 (pr. 211) | person | «مولانا محمد عبد اللہ صاحب» (scribe) | indexed under the series head مولانا محمد عبد اللہ گنگوہیؒ (the usual scribe of 1331ھ) | owner to confirm |
+| 213 (pr. 212) | citation | «(الزمر: ۱۷، ۱۸)» after the khutba ayat | written «(الزمر آیت نمبر ۱۷، ۱۸)» as elsewhere in the volume (the colon form was read as Arabic by the checker) | |
