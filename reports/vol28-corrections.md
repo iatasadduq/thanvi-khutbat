@@ -113,3 +113,5 @@
 | 0418 | pdf 422–423 | «…انہوں نے مجھ کو بھی دی مگر میں نے نہیں لی» spans the page break | written whole on pdf 422 |
 | 0418 | pdf 423–424 | «…ہمارا ذہن ہی نہیں جاتا… الا ماشاء اللہ» spans the page break | written whole on pdf 423 |
 | 0418 | pdf 423 | «اس غلام پر حد جاری نہ کی» — the غلام is not introduced earlier in the text | kept as printed |
+| 0418 | pdf 424 | «اتباع ہونے سے بچنا» («اتباع ہوی» likely intended); «اتباع نفس دھوکا» | kept as printed |
+| 0418 | pdf 424–425 | «…ورنہ حدیث پر قول مجتہد کی ترجیح لازم آتی ہے» spans the page break | written whole on pdf 424 |
