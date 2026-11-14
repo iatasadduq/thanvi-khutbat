@@ -132,3 +132,9 @@
 | 0418 | pdf 432 | «فرمایا میرا شریک حجرہ ایک لڑکا بیان کرتا تھا» (speaker unclear) | kept as printed |
 | 0418 | pdf 432–433 | «…انصاف کرنا چاہئے کہ یہ کس درجہ عمل بالحدیث ہے» spans the page break | written whole on pdf 432 |
 | 0418 | pdf 433 | ادب الاعلام ends on pdf 433 (printed 432); ادب العشیر title page is pdf 434 | sermon file 0418 covers pdf 418–433 |
+| 0434 | pdf 434 | title-page place «اسٹیشن انڈرارا جنکشن» | new head «مقام: انڈرارا جنکشن» |
+| 0434 | pdf 435 | «حامداً ومصلیاً» opening formula | marked Arabic |
+| 0434 | pdf 435 | heading «رسومات کی خرابیاں» over text about donations and نذرانہ | kept as printed |
+| 0434 | pdf 435–436 | «…وہ بیعت نہ ہو سکیں گے… روپے ہی سے مل سکتا ہے» spans the page break | written whole on pdf 435 |
+| 0434 | pdf 436 | «یصدون عن سبیل اللہ» (also 9:34, 11:19, 14:3) | marked 7:45, as elsewhere in the corpus |
+| 0434 | pdf 436–437 | «…اور ہم نے تو ایسے لوگوں کی صحبت پائی ہے جن میں رسمیں بالکل نہ تھیں» spans the page break | written whole on pdf 436 |
