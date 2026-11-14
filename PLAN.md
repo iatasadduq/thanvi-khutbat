@@ -6,8 +6,9 @@ Update the **Status** and **Next steps** sections at the end of every working se
 
 ---
 
-## 1. Status (2026-11-13)
+## 1. Status (2026-11-14)
 
+- **Volume 27 (فضائل علم) — done 2026-11-14, awaiting the owner's review.** Details under §4 Next steps (Vol 27 entry).
 - **Volume 26 (اصلاح اعمال) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 26 entry).
 - **Volume 25 (حدود و قیود) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 25 entry).
 - **Volume 24 (موت و حیات) — done 2026-11-13, awaiting the owner's review.** Details under §4 Next steps (Vol 24 entry).
@@ -384,13 +385,18 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   passage, p. 442 «لبا من», p. 454 «صبر یا» probably «کبریا»). Index built (1759 entries). Added to `VOLUMES` in
   `tools/build_site.py`; site rebuilt (`site/v26.html`). Preview (private artifact, republish to the same URL):
   https://claude.ai/artifact/9MYc2frQfRvCdC2XiSvMcj (watched in this session, with the Vol 23–25 previews).
-- **Volume 27 (فضائل علم) — in progress (started 2026-11-13).** Folder `Vol 27 fazail e ilm/`; PDF
-  `Khutbaat-i-Hakeem-ul-Ummat-Vol-27.pdf` (441 pages), PDF page = printed page + 1. Sermons (اجمالی فہرست, printed pages):
-  تعظیم العلم 17, طلب العلم 86, الہدیٰ والمغفرۃ 104, ضرورۃ العمل فی الدین 149, تفاضل الاعمال 178, الفضل العظیم 204,
-  اشرف العلوم 234, شکر المثوی 285, مظاہر الاحوال 314, مفتاح الخیر 360, تقلیل الکلام 381; each file named after its title
-  pdf page (0018, 0087, …; check each title page). `toc.tsv` has the 11 sermon rows. Page images in the scratchpad `h27/`.
-  Corrections: `reports/vol27-corrections.md`. Transcribed so far: تعظیم العلم complete (0018, pdf 18–86); طلب العلم complete (0087, pdf 87–104); الہدیٰ والمغفرۃ complete (0105, pdf 105–149); ضرورۃ العمل فی الدین complete (0150, pdf 150–178); تفاضل الاعمال complete (0179, pdf 179–204); الفضل العظیم complete (0205, pdf 205–234, with تنبیہات وعظ); اشرف العلوم complete (0235, pdf 235–285); شکر المثوی complete (0286, pdf 286–314); مظاہر الاحوال complete (0315, pdf 315–360); مفتاح الخیر complete (0361, pdf 361–381); تقلیل الکلام complete (0382, pdf 382–441). All 11 sermons transcribed; next: the per-volume sequence (toc.py, mark_arabic report, check_hadith, build_index, VOLUMES in build_site.py, build_site, preview).
-
+- **Volume 27 (فضائل علم) — done 2026-11-14, awaiting the owner's review.** Folder `Vol 27 fazail e ilm/`; PDF
+  `Khutbaat-i-Hakeem-ul-Ummat-Vol-27.pdf` (441 pages), PDF page = printed page + 1. Sermons (printed pages): تعظیم العلم 17,
+  طلب العلم 86, الہدیٰ والمغفرۃ 104, ضرورۃ العمل فی الدین 149, تفاضل الاعمال 178, الفضل العظیم 204, اشرف العلوم 234,
+  شکر المثوی 285, مظاہر الاحوال 314, مفتاح الخیر 360, تقلیل الکلام 381; files 0018, 0087, 0105, 0150, 0179, 0205, 0235,
+  0286, 0315, 0361, 0382, all transcribed (text ends pdf 441). `toc.tsv` regenerated from the page headings (484 rows).
+  mark_arabic: DIFFERS 0, CITE 0 (`reports/vol27-quran-check.md`). Hadith check: `reports/vol27-hadith-check.md` (25
+  differs, all the book's wording or normalisation noise). Corrections: `reports/vol27-corrections.md` (owner rows e.g.
+  p. 383 bottom of the scan cut off, words marked «[…]»; p. 344 «عرش اللعن» read «عرش الرحمٰن»; p. 370 list of eight
+  cases misprinted; several Arabic takhrij notes of the جامع kept as printed). Index built (1830 entries). Added to
+  `VOLUMES` in `tools/build_site.py`; site rebuilt (`site/v27.html`). Preview (private artifact, republish to the same
+  URL): https://claude.ai/artifact/Ey7JDyz9zi8ZU1ENQ57XfA
+- **Volume 28 — next.** PDF `Khutbaat-i-Hakeem-ul-Ummat-Vol-28.pdf`; start with step 1 of §3.
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
   branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
