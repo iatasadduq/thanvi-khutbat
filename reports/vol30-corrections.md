@@ -86,3 +86,7 @@
 | 374 (pr. 373) | translation | the gloss under «مصلحت دید من آنست…» («مصلحت نہیں کہ راز ظاہر ہو ورنہ رندوں کی مجلس کوئی خبر ایسی نہیں کہ نہ ہو») translates the other Hafiz couplet «مصلحت نیست کہ از پردہ بروں افتد راز…»; kept as printed | kept as printed | |
 | 375 (pr. 374) | wording | «ہر بن موئے تو شیطانے بود» is printed for «سلطانے بود» (the gloss «تیرا بال بال بادشاہ ہے» confirms سلطانے); and the hemistich «شہان بے کمر و خسروان بے» drops «کلہ اند»; both kept as printed | kept as printed | |
 | 377 (pr. 376) | identification | the scribe of الذکر is named only «مولانا عبد اللہ صاحب»; indexed under مولانا محمد عبد اللہ گنگوہیؒ (the scribe of the other Thana Bhawan Jami Masjid sermons of this volume) — reversible | identified | |
+| 388 (pr. 387) | wording | «اللهم اغفر له والحقه بصاحبه» printed without spaces after «اغفر»; written «اللہم اغفر لہ والحقہ بصاحبہ» | normalised | |
+| 388 (pr. 387) | punctuation | an opening bracket before «دنیا کی لذت اور مناصب…» has no closing bracket (the paragraph is the author's text, not a gloss); dropped | dropped | |
+| 388 (pr. 387) | punctuation | the gloss of «مستریح او مستراح منہ» opens «(یعنی…» with no closing bracket; closed after «راحت ہو گئی» | closed | |
+| 388 (pr. 387) | wording | the hadith is printed «هل ترزقون تنصرون الا بضعفاكم» (no واو, «بضعفاكم» for «بضعفائكم»); written «ہل ترزقون وتنصرون الا بضعفائکم» — reversible | corrected | |
