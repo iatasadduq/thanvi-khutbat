@@ -13,3 +13,5 @@
 | 33 (pr. 32) | page break | «تو اس کا کچھ جواب نہیں… اس میں بھی راضی ہیں» opens pdf 33, continuing pdf 32 | joined to pdf 32 (sentence written whole there) | |
 | 33–34 (pr. 32–33) | page break | «…محبوب کے لیے ملامت اور دھول دھپہ میں بھی / لذت ہوتی ہے» | page split kept at the break | |
 | 34 (pr. 33) | ayah | translation bracket «(نہ اس کو اونگھ… لذت آنا چاہیے۔)» runs on into the author's text | kept as printed | |
+| 36 (pr. 35) | ayah | «تاج کرمنا… طوق فضلنا» single words from بنی اسرائیل ۷۰ | «کرمنا» marked 17:70; «فضلنا» (Qur'an: وفضلناہم) marked as Arabic «…» | |
+| 34–35 (pr. 33–34) | page break | «…ایک بزرگ فرماتے ہیں: جملہ اوراق…» then pdf 35 opens «اس کا یہ مطلب نہیں…» | kept at the break | |
