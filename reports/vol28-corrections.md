@@ -12,3 +12,4 @@
 | 90 (pr. 89) | stray mark | «کسب الحلال فریضة بعد الفریضة ۱۲)» — closing parenthesis with «۱۲» but no opening one | kept as printed | |
 | 96 (pr. 95) | parentheses | «… سلطنت دی تھی پارہ نمبر ۳ رکوع ۳)» (no opening bracket) and «(مراد نمرود ہے کہا (قاله المفسرون ۱۲)» (one bracket left open) | kept as printed | |
 | 105 (pr. 104) | garbled sentence | «باقی سب مخلوق اس کی نظر سے غایت ہیں» (غائب?) and «کسی نے مسجد کی دیوار سے بھی اخفاء کا اہتمام ہے دوسرے عارف کو بجز مظہر حق او مرآۃ جمال حق نظر آتی ہے» (probably «کسی کو… اہتمام کیا ہے؟ دوسرے عارف کو [ہر شے] بجز مظہر حق اور مرآۃ…») | kept as printed | owner to check |
+| 106 (pr. 105) | misprints in couplets | «حملہ شاں از باز باشد» for «از باد»; «حملہ شاں و ناپیداست باد» drops «پیدا» (the usual «حملہ شاں پیدا و ناپیداست باد») | kept as printed; index heads are the existing ones with «بصورت» | |
