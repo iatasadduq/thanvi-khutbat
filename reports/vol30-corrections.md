@@ -56,3 +56,4 @@
 | 175 (pr. 174) | wording | «حقیقت میں یہ محض ہیبت ہے اختیاری چیز نہیں» (the sense needs «وہبت/موہبت», gift) | kept as printed | |
 | 175 (pr. 174) | wording | «حکمت ان کاموں کے اختیار کرنے میں» (for «ناموں») | kept as printed | |
 | 178 (pr. 177) | heading | the heading «بلا وجہ رخصت شرعیہ پر عمل کرنا مذموم ہے» introduces a passage that blames needless «عزیمت» (avoiding the رخصت) | kept as printed | the heading probably means «ترک رخصت» |
+| 187 (pr. 186) | wording | «ایسے انفاق کو تو اسلام ہے» (sense unclear; perhaps «سلام ہے»); «میرا دل تو ایسا ذہین ہے» (for «رقیق»?) | kept as printed | |
