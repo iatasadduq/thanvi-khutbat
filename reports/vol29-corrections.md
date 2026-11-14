@@ -17,3 +17,4 @@
 | 34–35 (pr. 33–34) | page break | «…ایک بزرگ فرماتے ہیں: جملہ اوراق…» then pdf 35 opens «اس کا یہ مطلب نہیں…» | kept at the break | |
 | 37 (pr. 36) | couplet | «اسیر دام عزت شو» (other volumes «عزلت», which the gloss «گوشہ تنہائی» supports); «بنائے رخ کہ خلقے والہ شوند» | «عزت» kept as printed; «بنائے» written «بنمائے» (misprint; standard reading); «والہ» kept | head records «بصورت» |
 | 37 (pr. 36) | wording | «افسوس بعض شعراء نے اس کو سمجھ لیا اور آج کل علماء نے بھی اس کو نہ سمجھا» | kept as printed | |
+| 38–39 (pr. 37–38) | page break | «…اسی کے ضمن میں» continues on pdf 39 | kept at the break | |
