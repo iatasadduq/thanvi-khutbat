@@ -19,3 +19,4 @@
 | 58 (pr. 57) | ayah | «لا اسئلکم علیہ اجرا» marked as ہود ۵۱ (the words without «قل»; the same words are in الانعام ۹۰ after «قل») | ہود ۵۱ | |
 | 59 (pr. 58) | wording | «جب مجھ سے مولوی صاحب موصوف نے اس بات میں کچھ لکھنے واقعی میں خالی الذہن تھا کو فرمایا» (the clause order is broken in print) | kept as printed | |
 | 59 (pr. 58) | heading | «حضرت مولانا عبید اللہ صاحب سندھیؒ» | kept as the heading; index head «حضرت مولانا عبید اللہ سندھیؒ» | |
+| 60 (pr. 59) | title | title page prints «بصورة الصیام» (Arabic ة) | «بصورۃ», as in the table of contents | |
