@@ -41,3 +41,5 @@
 | 0218 | pdf 220 | partial ayah «تقولون بافواہکم ما لیس لکم بہ علم» (print omits the leading «و») | slice 24:15 words 3–9 with «وَ» dropped |
 | 0218 | pdf 222 | print «مقصود کو اللہ کے تابع کیا جائے» (after «الفاظ تو آلہ محضہ ہیں») | misprint for «آلہ»; written «مقصود کو آلہ کے تابع» |
 | 0218 | pdf 222 | print «گویدم میندیش» | written «مندیش» to match the couplet's existing head; spelling variant only |
+| 0218 | pdf 228 | print «ملازم نے … ایک کاملہ آقا کے سامنے» («کاملہ» unclear: perhaps «کاسہ/تھیلا») | kept as printed |
+| 0218 | pdf 228 | gloss «اور ہم اس کو معمولی … سمجھتے تھے» (ayah addresses «تم») | kept as printed |
