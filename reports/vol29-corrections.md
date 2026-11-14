@@ -139,3 +139,4 @@
 | 298 | 297 | العفۃ | Title and date are on pdf 298 (title page plus the date paragraph); the khutba and ayat are on pdf 299. The place «بر مکان حضرت مولانا صاحب» is taken as the author's house. Scribe «مولانا عبد اللہ صاحب» is taken as مولانا محمد عبد اللہ گنگوہیؒ (as for التوجہ). Owner to confirm. |
 | 299 | 298 | العفۃ | Two ayat are quoted (الفجر ۱۹–۲۰), but the citation is printed «(الفجر آیت نمبر ۱۹)»; kept as printed. |
 | 302 | 301 | العفۃ | «افضل الصدقۃ عن ظہر غنی» is glossed in print as «(بہترین صدقہ چھپا کر دینا ہے)», which does not match the hadith (عن ظہر غنی = after one's needs are met); kept as printed. Owner to confirm. Two printed footnotes placed as [حاشیہ]. |
+| 304 | 303 | العفۃ | Hadith printed «ان سعدا لغیورو انا اغیر منہ» — the joined «لغیورو» is read as «لغیور وانا». «غیر پر نظریوں تو» kept as printed (probably «نظر، یوں تو»). Printed footnote placed as [حاشیہ]. |
