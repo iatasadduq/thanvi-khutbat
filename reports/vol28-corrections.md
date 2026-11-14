@@ -55,3 +55,5 @@
 | 0218 | pdf 262 | gloss «جیسے جلندھر والا پیاسا» («جلندھر» = استسقاء/dropsy) | kept as printed |
 | 0218 | pdf 262 | couplet print «اے خوشا سرو کہ ناز بند غم» (head «از بند غم») | kept as printed, «بصورت» on head |
 | 0218 | pdf 264 | heading printed «لقاء مدارس دینیہ کی ہمہ وقت ضرورت» | misprint for «بقاء» (text: مدارس کی آمدنی میں کمی …); written «بقاء» |
+| 0266 | pdf 267 | citation printed «(النور آیت نمبر ۱ تا نمبر ۱۰)» | the ayat are سورۃ البلد 1–10; written «(البلد آیت نمبر ۱ تا نمبر ۱۰)» |
+| 0266 | pdf 266 | date «۲۲ ربیع الاول ۴۵ ہجری» (century omitted) | kept as printed; head gives «(۱۳)۴۵ھ» |
