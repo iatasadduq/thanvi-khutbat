@@ -99,3 +99,4 @@
 | 439 (pr. 438) | wording | «جو لوگ مددگار رہوں گے» and «معاونین بھی اس وقت بے یار و مددگار رہوں گے» (for «رہیں گے») kept as printed | kept as printed | |
 | 441 (pr. 440) | citation | the reference to the احسان hadith is printed «الصحیح البخاری ۶: ۱۴۴»; written «الصحیح للبخاری» as elsewhere | normalised | |
 | 442 (pr. 441) | wording | «رکوع میں نظر پیروں رہنی چاہئے» (no «پر») kept as printed | kept as printed | |
+| 449 (pr. 448) | toc | the اجمالی فہرست gives printed p. 438 for الاکرمیۃ بالاعملیۃ والاعلمیۃ; its title page is printed p. 448 (pdf 449), and درجات الاسلام runs to p. 447; the title page spells «الاکرامیہ» | toc misprint noted; title written الاکرمیۃ as in the toc | |
