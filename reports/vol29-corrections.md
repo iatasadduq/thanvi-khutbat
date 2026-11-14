@@ -89,3 +89,4 @@
 | 150 (pr. 149) | wording | «یہ اجزاء بدون پانی کے دقیق ہو جائیں گے» («رقیق» intended?) | kept as printed | owner to confirm |
 | 153 (pr. 152) | gap | «جو سب سے زیادہ ضروری...... اور سب سے زیادہ مفید ہے» (dots in the print) | kept as printed | |
 | 156 (pr. 155) | ayah | «فاعرض عنہم» (4:63, 4:81, 32:30) | marked 32:30, as elsewhere in the series | |
+| 162 (pr. 161) | wording | «اس سے ہمارے من سمجھوتہ کرنے کے لیے گھڑلی ہیں» (words missing?) | kept as printed | owner to confirm |
