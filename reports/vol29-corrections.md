@@ -119,3 +119,5 @@
 | 261–262 (pr. 260–261) | page break | «انا للہ وانا الیہ راجعون» split over the page break | ayah completed on pdf 261 | |
 | 263 (pr. 262) | ayah | «ان الحسنات یذہبن السیئات» printed «یلہبن» | marked 11:114 with the Qur'an text | |
 | 270 (pr. 269) | structure | title page lists three talks: ادب الطریق (1335ھ), ادب الاعتدال (1330ھ, train at Meerut), ادب الترک (1335ھ, train Meerut–Deoband) | kept in one file 0270 under the volume heading ادب الطریق; the two sub-titles written into their date lines «(ادب الاعتدال: …)»; `##` headings where the talks begin | owner to confirm |
+| 271 (pr. 270) | context | the talk opens on a bullock-cart journey from زبر پور ضلع گورکھپور to شاہ پور, while the title page gives «میرٹھ محلہ کرم علی» | kept as printed | owner to confirm |
+| 271 (pr. 270) | person | «حضرت قدس سرہ» who died «۱۳۲۳ھ» and taught at «گیا» («گنگوہ گیا»?) | read as Maulana Rashid Ahmad Gangohi (d. 1323ھ) | owner to confirm |
