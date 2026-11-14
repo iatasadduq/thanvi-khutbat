@@ -70,3 +70,5 @@
 | 233 (pr. 232) | reference | the editorial reference for «الحمد للہ الذی رد کیدہ الی الوسوسۃ» reads «سنن ابی داؤد ۱۲۵۱»; the hadith is Abu Dawud no. 5112 (کتاب الادب) — the printed number looks garbled | kept as printed | |
 | 239 (pr. 238) | wording | «اس میں مشغول ہونے سے اس طرف توجہ نہ ہوتی غرض ایسا تزین جس میں شب و روز» is printed twice in succession (a dittography) | kept as printed | |
 | 246 (pr. 245) | wording | «ہم نے احسان کیا تھا» is printed twice in succession in the ilham sentence (a dittography) | kept as printed | |
+| 248 (pr. 247) | ayah | «اذبحوا بقرہ» (and the hypothetical «لا تذبحوا بقرہ») is a paraphrase of البقرة ۶۷ «اَنۡ تَذۡبَحُوۡا بَقَرَةً», not its wording; marked «…» and indexed under البقرة ۶۷ | «…» | |
+| 248 (pr. 247) | attribution | the couplet «نقض امر از کسر…» is introduced «مولانا الٰہی بخش فرماتے ہیں» (Mawlana Ilahi Bakhsh Kandhlawi's completion of the Masnavi) while the Ayaz story is credited to «مولانا» (Rumi) | kept as printed | |
