@@ -32,3 +32,4 @@
 | 84 (pr. 83) | wording | «حرارت غریزیہ منطفی ہو جاتی ہے» | kept as printed | for «منطفی» (extinguished) |
 | 86–87 (pr. 85–86) | wording | the hadith runs across the page break; pdf 87 prints «فی ای وادھلک» | «فی ای اودیۃ ہلک» (as in the sources cited) | |
 | 88 (pr. 87) | wording | «نیند آئی تو وقت کے بہت آنکھ کھلی» (a word such as «بعد» seems missing) | kept as printed | |
+| 91 (pr. 90) | punctuation | «(مجاہدہ حقیقیہ یعنی…» — the bracket opened before item (1) is closed only after «…۱۲ جامع)», and the number «(۱)» is not printed | kept as printed | |
