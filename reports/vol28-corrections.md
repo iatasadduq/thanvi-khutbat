@@ -49,3 +49,5 @@
 | 0218 | pdf 236 | print «ورنہ ہم تو بہ کے مستحق نہ تھے» | kept as printed («تو بہ» = «تو اس کے»?) |
 | 0218 | pdf 244 | hadith printed «من سکت سلم ومن سلم نجی» (footnote cites «من صمت نجا») | written «نجا» (standard spelling); wording otherwise as printed |
 | 0218 | pdf 247 | print «تفردی» ends «فقردی بالسودد»? (scan: «تفردی») | written «تفردی بالسودد» |
+| 0218 | pdf 249 | couplet print «گر خطا گوئی ورا خاطی مگو / در شود…» | written «گر خطا گوید … ور شود» to match the existing head (Masnavi wording) |
+| 0218 | pdf 249 | print «ایں خطا از صد صواب» vs existing head «صد ثواب» | kept «صواب» (as printed and as in the Masnavi), noted «بصورت» on the head |
