@@ -14,3 +14,6 @@
 | 49 (pr. 48) | missing ayah | the translation «(تم بہترین امت ہو جسے لوگوں سے منتخب کیا گیا ہے)» is printed with no ayah before it (آل عمران ۱۱۰ «کنتم خیر امۃ اخرجت للناس» appears to have dropped out) | kept as printed; ayah not inserted | owner to confirm |
 | 50 (pr. 49) | word | «استبداد وانفراد» | kept as printed | |
 | 54 (pr. 53) | word | «کوئی نہ کوئی علم بھی نہ ہو… اس کا کوئی علم بھی ہوا ہی نہیں» | kept as printed | «علم» is probably «عَلَم» (title/flag-name), i.e. no grand name, just «مدرسہ دیوبند»; owner to confirm |
+| 58 (pr. 57) | numbering | «حکم پنجم» is followed directly by «حکم ہفتم»; no «حکم ششم» is printed, and «حکم پنجم اخیر» refers to an «اختلاف اجتہادی» passage that is not in the text | kept as printed | the address may have been printed with a section missing |
+| 58 (pr. 57) | gloss | the gloss «(میری امت میں ہمیشہ ایک جماعت موجود رہے گی)» translates the whole hadith, not the quoted words «لا یضرہم من خذلہم» | kept | |
+| 58 (pr. 57) | ayah | «لا اسئلکم علیہ اجرا» marked as ہود ۵۱ (the words without «قل»; the same words are in الانعام ۹۰ after «قل») | ہود ۵۱ | |
