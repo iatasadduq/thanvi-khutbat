@@ -72,3 +72,4 @@
 | 423 (pr. 422) | misprint | «ایک پورانے مولوی صاحب» | kept as printed | probably «پرانے» |
 | 424 (pr. 423) | misprints | «جماعت سے بھی روک دیا گیا»; «یہ حاصل ہے دوسری تفسیر کا واللہ علم»; «تنزیہ کا حال استغناء ہے» | kept as printed | sense needs «جماع سے», «واللہ اعلم», «حاصل» |
 | 437 (pr. 436) | misprint | «تو اس آیت کو تخلیہ کو تحلیہ پر مقدم کیا گیا ہے» | kept as printed | sense needs «اس آیت میں» |
+| 441 (pr. 440) | ornament | the calligraphic «بحمد اللہ» at the foot of the last page | left out | end-of-volume ornament, not text |
