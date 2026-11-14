@@ -60,3 +60,5 @@
 | 0266 | pdf 272 | couplet printed «اویم زمین سفرہ عام اوست / چہ دشمن بریں خواہ بغما چہ دوست» | misprints for «ادیم» and «خوان یغما»; written «ادیم … چہ دشمن بریں خوان یغما چہ دوست» (existing head order kept) |
 | 0266 | pdf 274 | «مولانا فضل الرحمٰن صاحب» at Deoband beside مولانا ذو الفقار علی | taken as مولانا فضل الرحمٰن عثمانی دیوبندیؒ (new head), not گنج مراد آبادیؒ; reversible |
 | 0266 | pdf 279 | «ذوق صحیح پیدا ہوتا ہے اخلاق کے ساتھ عمل کرنے سے» (next words «اخلاص اور عمل صالحہ») | kept as printed (possibly «اخلاص») |
+| 0266 | pdf 283 | heading printed «لین دین کے دو درجے» (text: «لین کے دو درجے») | kept as printed (heading wording) |
+| 0266 | pdf 283 | «اس کے دل میں مصیبت کر کے» (sense «مصیبت دیکھ کر»?) | kept as printed |
