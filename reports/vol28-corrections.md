@@ -16,3 +16,4 @@
 | 107 (pr. 106) | misprint in couplet | «یک دہاں پنہاں ست در رب ہائے وے» for «در لبہائے وے» (the gloss has «لبوں میں») | kept as printed | |
 | 107–108 (pr. 106–107) | 28:30 | the ayah fragment «اِنِّیْۤ اَنَا اللّٰہُ رَبُّ الْعٰلَمِیْنَ» runs across the page break | written whole on pdf 107 (as in Vol 27) | |
 | 118 (pr. 117) | misprint? | «تو اگر وان علی الافتراض نہ ہوتا ہم» — probably «تو اگر دال علی الافتراض نہ ہو تاہم» | kept as printed | |
+| 123 (pr. 122) | spelling | «درمختار و ردالمختار» for «رد المحتار» | kept as printed; index head «رد المحتار» | |
