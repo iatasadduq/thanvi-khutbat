@@ -136,3 +136,5 @@
 | 291 | 290 | ادب الطریق | «جاہل غسالی مقلدین» kept as printed (probably «غالی»; the head uses غالی). Owner to confirm. |
 | 292 | 291 | ادب الطریق | First quotation printed «ما اسکر کثیر فقلیلہ» حرام (کثیر without ہ, حرام outside the quotes); kept as printed; the second quotation on the same page has «ما اسکر کثیرہ فقلیلہ حرام». Printed footnote (ابو داؤد ۳۶۸۱، ترمذی ۱۸۶۵) placed as [حاشیہ]. |
 | 295 | 294 | ادب الترک | «بالکلیہ ترک مباحات کیجئے، تقلیل کر دیجئے» kept as printed; the sense requires «بالکلیہ ترک مباحات نہ کیجئے» (compare pdf 294 «مباحات بالکلیہ نہ چھوڑے»). Owner to confirm. Hadith wording «ملوک علی الاسرۃ» kept as printed (the sources have «ملوکا علی الاسرۃ»). |
+| 298 | 297 | العفۃ | Title and date are on pdf 298 (title page plus the date paragraph); the khutba and ayat are on pdf 299. The place «بر مکان حضرت مولانا صاحب» is taken as the author's house. Scribe «مولانا عبد اللہ صاحب» is taken as مولانا محمد عبد اللہ گنگوہیؒ (as for التوجہ). Owner to confirm. |
+| 299 | 298 | العفۃ | Two ayat are quoted (الفجر ۱۹–۲۰), but the citation is printed «(الفجر آیت نمبر ۱۹)»; kept as printed. |
