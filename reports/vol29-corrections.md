@@ -18,3 +18,5 @@
 | 37 (pr. 36) | couplet | «اسیر دام عزت شو» (other volumes «عزلت», which the gloss «گوشہ تنہائی» supports); «بنائے رخ کہ خلقے والہ شوند» | «عزت» kept as printed; «بنائے» written «بنمائے» (misprint; standard reading); «والہ» kept | head records «بصورت» |
 | 37 (pr. 36) | wording | «افسوس بعض شعراء نے اس کو سمجھ لیا اور آج کل علماء نے بھی اس کو نہ سمجھا» | kept as printed | |
 | 38–39 (pr. 37–38) | page break | «…اسی کے ضمن میں» continues on pdf 39 | kept at the break | |
+| 39–40 (pr. 38–39) | page break | «…پوچھا کہ آدھا چوہا کٹ کر… خود مجھے پیش آیا ہے» spans the break | written whole on pdf 39 | |
+| 40–41 (pr. 39–40) | page break | «…معقولی صاحب بولے کہ اس سے دخول جنت کی نفی تو» continues on pdf 41 | kept at the break | |
