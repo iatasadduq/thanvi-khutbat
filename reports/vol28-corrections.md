@@ -138,3 +138,5 @@
 | 0434 | pdf 435–436 | «…وہ بیعت نہ ہو سکیں گے… روپے ہی سے مل سکتا ہے» spans the page break | written whole on pdf 435 |
 | 0434 | pdf 436 | «یصدون عن سبیل اللہ» (also 9:34, 11:19, 14:3) | marked 7:45, as elsewhere in the corpus |
 | 0434 | pdf 436–437 | «…اور ہم نے تو ایسے لوگوں کی صحبت پائی ہے جن میں رسمیں بالکل نہ تھیں» spans the page break | written whole on pdf 436 |
+| 0434 | pdf 437 | «مولوی ظفر حسین صاحب سے ملنے» («مظفر» intended, as in the rest of the passage) | kept as printed |
+| 0434 | pdf 437–438 | «آپ نے دال روٹی پر الٹ کر پلے میں باندھ لی اور رخصت ہو گئے» spans the page break | written whole on pdf 437 |
