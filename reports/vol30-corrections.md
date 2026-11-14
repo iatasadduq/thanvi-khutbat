@@ -94,4 +94,4 @@
 | 403 (pr. 402) | wording | the khutba hadith ends «وفیہم عود» (for «تعود»), and has «مساجد ہم» / «علماء ہم» split; written «وفیہم تعود», «مساجدہم», «علماؤہم» | corrected | |
 | 403 (pr. 402) | wording | «انفسی وروحی فداہ» (the first letter is unclear in the scan) written «نفسی وروحی فداہ» — reversible | corrected | |
 | 420 (pr. 419) | wording | «سلام کے ساتھ ہی فوراً بھاگ گا» (for «بھاگ گیا») kept as printed | kept as printed | |
-| 426 (pr. 425) | punctuation | the bracket opened at «(یہ مضمون غایت تفصیل کے ساتھ وعظ ترک مالایعنی میں…» is not closed; kept as printed | kept as printed | |
+| 426 (pr. 425) | punctuation | the bracket opened at «(یہ مضمون غایت تفصیل کے ساتھ وعظ ترک مالایعنی میں…» is not closed; closed after «قابل مطالعہ ہے» | closed | |
