@@ -11,3 +11,4 @@
 | 43 (pr. 42) | title/date | title on the top half, date «۱۷ ربیع الثانی» (no year) on the bottom half | written as one page; year not supplied | owner to confirm the year |
 | 44 (pr. 43) | khutba | no خطبہ ماثورہ: the text opens «بعد الحمد والصلوٰۃ احقر اشرف علی…» (a written address read out by the author) | no `# خطبہ ماثورہ` heading; the ayah and hadith are written as printed | |
 | 45 (pr. 44) | Arabic | Shah Waliullah's passage «المعتنین تعلیم الشرائع… الخلفاء الباطنین» | written as printed in «…»; «ولتزہد» read as «والتزہد» | owner to confirm the source (probably ازالۃ الخفاء) |
+| 49 (pr. 48) | missing ayah | the translation «(تم بہترین امت ہو جسے لوگوں سے منتخب کیا گیا ہے)» is printed with no ayah before it (آل عمران ۱۱۰ «کنتم خیر امۃ اخرجت للناس» appears to have dropped out) | kept as printed; ayah not inserted | owner to confirm |
