@@ -81,3 +81,4 @@
 | 126 (pr. 125) | wording | gloss «جس عاشق کو دیکھو اس کو معشوق مت سمجھو» (the couplet says «سمجھو»; «مت» a misprint?) | kept as printed | owner to confirm |
 | 126 (pr. 125) | spelling | couplet «ہر کہ عاشق دید بس معشوق داں» (elsewhere «دیدیش») | kept as printed; head unchanged | |
 | 127 (pr. 126) | wording | «یہ راہ عشق تقرب سے قطع نہیں ہوتا بلکہ تقربت سے ہوتا ہے» | kept as printed | |
+| 129 (pr. 128) | wording | couplet «کہ بیک گل می خرد انبار را» (elsewhere «می خری گلزار را») | kept as printed; head unchanged | |
