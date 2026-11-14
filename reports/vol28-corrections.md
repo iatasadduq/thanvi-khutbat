@@ -43,3 +43,4 @@
 | 0218 | pdf 222 | print «گویدم میندیش» | written «مندیش» to match the couplet's existing head; spelling variant only |
 | 0218 | pdf 228 | print «ملازم نے … ایک کاملہ آقا کے سامنے» («کاملہ» unclear: perhaps «کاسہ/تھیلا») | kept as printed |
 | 0218 | pdf 228 | gloss «اور ہم اس کو معمولی … سمجھتے تھے» (ayah addresses «تم») | kept as printed |
+| 0218 | pdf 231 | «اگر حیادار ہے تو ان سے ہر گناہ کا انکار کرے گا» (sense needs «انکار نہ کرے گا», contrasted with «بے حیا … انکار کرتے ہوئے») | kept as printed |
