@@ -90,3 +90,4 @@
 | 0328 | pdf 402–403 | «…مگر ایسا واقعہ ایک بھی نکلنا مشکل ہے… اہل دنیا کی طرف آیا ہو» spans the page break | written whole on pdf 402 |
 | 0328 | pdf 403–404 | «…اور ان کے الفاظ سے سراسر صدق ٹپکتا ہے… قبضہ کئے لیتے ہیں» spans the page break | written whole on pdf 403 |
 | 0328 | pdf 404 | «ہر کہ! جامہ زعشقے چاک شد» (stray «!»), «اوز حرص» | written «ہر کہ جامہ ز عشقے… او ز حرص» |
+| 0328 | pdf 406–407 | «…استاد سے اصلاح لینے سے بھی غصہ قابو میں آ جاوے تو غنیمت سمجھئے» spans the page break | written whole on pdf 406 |
