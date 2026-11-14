@@ -396,7 +396,12 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   cases misprinted; several Arabic takhrij notes of the جامع kept as printed). Index built (1830 entries). Added to
   `VOLUMES` in `tools/build_site.py`; site rebuilt (`site/v27.html`). Preview (private artifact, republish to the same
   URL): https://claude.ai/artifact/Ey7JDyz9zi8ZU1ENQ57XfA
-- **Volume 28 — next.** PDF `Khutbaat-i-Hakeem-ul-Ummat-Vol-28.pdf`; start with step 1 of §3.
+- **Volume 28 (اصلاح ظاہر) — in progress (started 2026-11-14).** Folder `Vol 28 islah e zahir/`; PDF
+  `Khutbaat-i-Hakeem-ul-Ummat-Vol-28.pdf` (449 pages), PDF page = printed page + 1. Sermons (اجمالی فہرست, printed pages):
+  اسباب الفتنہ 17, الحج 93, النعم المرغوبۃ فی النعم المرکوبۃ 135, ترجیح المفسدہ علی المصلحہ 170, غض البصر 187,
+  مظاہر الاقوال 217, ازالۃ الغین عن آلۃ العین 266, الظاہر 327, ادب الاعلام 417, ادب العشیر 433; each file named after its
+  title pdf page (check each title page). `toc.tsv` has the 10 sermon rows. Page images in the scratchpad `h28/`.
+  Corrections: `reports/vol28-corrections.md`. Transcribed so far: none. Next: اسباب الفتنہ, pdf 18.
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
   branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
