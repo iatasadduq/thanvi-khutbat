@@ -66,3 +66,4 @@
 | 0266 | pdf 285 | 29:65 printed «وَاِذَا رَکِبُوْا» (mushaf «فَاِذَا») | marked with the mushaf slice «فَاِذَا»; misquote of the conjunction |
 | 0266 | pdf 285 | heading printed «کفر دوں» | written «کفر دون کفر» (the known phrase; context «محاورہ») |
 | 0266 | pdf 288 | gloss «کچھ دن حکمت یونانی یعنی معرفت کی کتاب تو پڑھو» (couplet says «حکمت ایمانیاں») | kept as printed |
+| 0266 | pdf 291 | print «لولا الاعتبارات لبطل الحکمۃ» | written «لبطلت» (feminine agreement; matches the existing head) |
