@@ -47,3 +47,4 @@
 | 0218 | pdf 235 | «کسی اجزاء کے استحقاق» / «اس اجزاء کے سامنے» (sense «جزاء») | kept as printed |
 | 0218 | pdf 236 | «جزاء بما کانوا یعملون» («جا بجا فرمایا»: 32:17, 46:14, 56:24) | marked 56:24, where the phrase is the whole ayah |
 | 0218 | pdf 236 | print «ورنہ ہم تو بہ کے مستحق نہ تھے» | kept as printed («تو بہ» = «تو اس کے»?) |
+| 0218 | pdf 244 | hadith printed «من سکت سلم ومن سلم نجی» (footnote cites «من صمت نجا») | written «نجا» (standard spelling); wording otherwise as printed |
