@@ -156,3 +156,6 @@
 | 0434 | pdf 447 | «ہذا لابیض المتکئ» | written «ہذا الابیض المتکئ» as in the existing head |
 | 0434 | pdf 448 | «حسب ایمان حضرت والا» («ایماء» intended) | kept as printed |
 | 0434 | pdf 448 | «خواجہ صاحب» identified as خواجہ عزیز الحسن مجذوبؒ (companion on the journey) | attribution call |
+| 0434 | pdf 449 | «جس وقت وہ میاں کرے گی»، «دو میاں ہو جاویں» («میاؤں» intended) | kept as printed |
+| 0434 | pdf 449 | ادب العشیر ends on pdf 449 (printed 448), the last page of the volume | sermon file 0434 covers pdf 434–449 |
+| 0434 | pdf 443 | the bادشاہ’s cat story reuses the existing head «مثال: بادشاہ کی سدھائی بلی کا چوہا دیکھ کر شمعدان پھینکنا» | head normalized |
