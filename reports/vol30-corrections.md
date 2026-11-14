@@ -22,3 +22,5 @@
 | 60 (pr. 59) | title | title page prints «بصورة الصیام» (Arabic ة) | «بصورۃ», as in the table of contents | |
 | 65 (pr. 64) | wording | «یہ تقلید ہزاروں لذتوں کا سبب ہے» (the argument is about «تقیید», restriction) | kept as printed | probably a misprint for «تقیید» |
 | 70 (pr. 69) | scan | the page was scanned at a slant and the beginnings of the last lines (right edge) are cut off | text read from a straightened copy; lost letters filled in square brackets where the sense is certain («[سے]», «[یاد ر]کھو», «[معاصی]», «[حاصل ہو]تی», «[المعاصی می]ں»); «[—]ت ہو جاتی ہے» and «جس پر کیفیات [—] ہوتی ہوں» left unfilled (probably «سہولت/اعانت» and «وارد») | not guessed where uncertain |
+| 71 (pr. 70) | scan | slanted scan; the left edge (line ends) is cut on two lines: the couplet ends «از بر…» and the last line ends «اور ا…» | filled «از بر[یدنہا]» (the known verse) and «ا[س]» in brackets | |
+| 71 (pr. 70) | gloss | «مثل درخت انگور کاٹنے بڑھتا ہے» (a word such as «سے» seems missing after «کاٹنے») | kept as printed | |
