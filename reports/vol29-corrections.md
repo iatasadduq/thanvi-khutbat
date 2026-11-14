@@ -64,3 +64,4 @@
 | 83–84 (pr. 82–83) | page break | «…عارضی گرانی اور مشقت آ جاتی ہے… کیسی محبت ہوتی ہے» spans the break | written whole on pdf 83 | |
 | 84 (pr. 83) | repeat | the رام پور قبض/خودکشی story is told again (also pdf 71 of الرحیل الی الخلیل) | transcribed as printed; same index head | |
 | 87 (pr. 86) | ayah | «ان اللہ لا یضیع اجر المحسنین» (also 11:115 with «فان», 12:90 «فان») | marked 9:120 (exact form) | |
+| 90–91 (pr. 89–90) | page break | «…اور بیان فرمایا ہے کہ ولد» continues on pdf 91 | kept at the break | |
