@@ -51,3 +51,4 @@
 | 0218 | pdf 247 | print «تفردی» ends «فقردی بالسودد»? (scan: «تفردی») | written «تفردی بالسودد» |
 | 0218 | pdf 249 | couplet print «گر خطا گوئی ورا خاطی مگو / در شود…» | written «گر خطا گوید … ور شود» to match the existing head (Masnavi wording) |
 | 0218 | pdf 249 | print «ایں خطا از صد صواب» vs existing head «صد ثواب» | kept «صواب» (as printed and as in the Masnavi), noted «بصورت» on the head |
+| 0218 | pdf 253 | print «ہمارے اجابی جلسے» | misprint for «احبابی»; written «احبابی» |
