@@ -74,3 +74,4 @@
 | 0266 | pdf 313 | «خَتَمَ اللّٰہُ عَلٰی سَمْعِہِمْ الآیۃ» (print skips «علی قلوبہم») | marked with the mushaf words 2:7 «ختم اللہ علی قلوبہم وعلی سمعہم» |
 | 0266 | pdf 326 | «لَا تَمُدَّنَّ عَیْنَیْکَ اِلٰی مَا مَتَّعْنَا بِہٖ» (15:88 and 20:131 «وَلَا») | marked 15:88 (no «و» as printed) |
 | 0328 | pdf 334 | «بر آب روی خسے باشی…» attributed in print to خواجہ عبد اللہ انصاری (existing head says خواجہ احرار) | kept print's attribution; noted «بصورت» on the head |
+| 0328 | pdf 353 | «ہمارے حضرت طالبین سے اتنے حالات معلوم کرتے تھے» | taken as حاجی امداد اللہؒ (the usual «ہمارے حضرت»); reversible |
