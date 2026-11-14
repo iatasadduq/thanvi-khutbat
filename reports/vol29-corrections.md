@@ -110,3 +110,4 @@
 | 227 (pr. 226) | wording | «ترک تعلقات پر بلکہ اس کی تحصیل اس شرط کے ساتھ بھی مشروط ہے» (sentence garbled at the heading break?) | kept as printed | |
 | 227 (pr. 226) | wording | «کیونکہ عادۃً موقوف ہے» (object missing, e.g. «ترک تعلقات پر») | kept as printed | |
 | 235 (pr. 234) | wording | «ہذا ان الرجلان یقولان ادخلی الجنۃ» («ہذان الرجلان» intended) | kept as printed | |
+| 238 (pr. 237) | spelling | «کوئے نا امیدی مرد کامید ہاست» («مرو» intended) | kept as printed; head unchanged | |
