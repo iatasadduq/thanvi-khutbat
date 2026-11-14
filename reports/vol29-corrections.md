@@ -122,3 +122,4 @@
 | 271 (pr. 270) | context | the talk opens on a bullock-cart journey from زبر پور ضلع گورکھپور to شاہ پور, while the title page gives «میرٹھ محلہ کرم علی» | kept as printed | owner to confirm |
 | 271 (pr. 270) | person | «حضرت قدس سرہ» who died «۱۳۲۳ھ» and taught at «گیا» («گنگوہ گیا»?) | read as Maulana Rashid Ahmad Gangohi (d. 1323ھ) | owner to confirm |
 | 274 (pr. 273) | wording | «دماغ میں ییس آ گیا ہے» («یبس» intended) | kept as printed | |
+| 275 (pr. 274) | wording | gloss «مگر ہم سوائے ننگ و نام کے اور کچھ نہیں چاہتے» (the couplet means «ہم ننگ و نام نہیں چاہتے») | kept as printed | owner to confirm |
