@@ -26,3 +26,7 @@
 | 45–46 (pr. 44–45) | page break | «…یہاں معنی امر مراد نہیں بلکہ امر بمعنی خبر ہے… سیاق و سباق ہے» spans the break | written whole on pdf 45 | |
 | 46 (pr. 45) | ayah | print «جزاء بما کانوا یعملون» (9:82 «یکسبون») | marked 9:82 with the Qur'an wording | owner to check |
 | 46–47 (pr. 45–46) | page break | «…جب حضور صلی اللہ علیہ وسلم ہر وقت غمگین رہتے ہیں… تبسم فرما لیا کرتے» spans the break | written whole on pdf 46 | |
+| 48 (pr. 47) | ayah | «والی اللہ ترجع الامور» (also 3:109, 8:44, 22:76, 35:4, 57:5) | marked 2:210 (first occurrence) | |
+| 48 (pr. 47) | ayah | print «والی ربک الرجعیٰ» (Qur'an 96:8 «ان الی ربک الرجعیٰ») | marked 96:8 from «الی» | |
+| 48 (pr. 47) | ayah | «والی اللہ المصیر» (also 3:28, 35:18) | marked 24:42 | |
+| 48–49 (pr. 47–48) | page break | «…مگر اس میں مضاف کا حذف ہے جو بلا ضرورت خلاف اصل» continues on pdf 49 | kept at the break | |
