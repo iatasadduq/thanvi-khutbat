@@ -68,3 +68,5 @@
 | 91 (pr. 90) | wording | «تو جو اس راستہ پر چلنا شروع کرتا ہے۔ / اتباع علماء کی ضرورت / اس سے بھی…» — the sentence is split by the heading | kept as printed | |
 | 94 (pr. 93) | hadith | «لاصلوٰۃ لمن لم یقر ابام الکتاب» (spacing) | written «لا صلوۃ لمن لم یقرأ بام الکتاب» | |
 | 99 (pr. 98) | sermon end | سبیل السعید ends on pdf 99 (printed 98); اسباب الفضائل title page is pdf 100 | file 0076 covers pdf 76–99 | |
+| 100 (pr. 99) | title page | اسباب الفضائل title page has the title only | no date line written | |
+| 101 (pr. 100) | wording | «طالبات فضائل کے ساتھ تمسخر» («طالبان» intended?) | kept as printed | |
