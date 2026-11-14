@@ -29,4 +29,5 @@
 | 48 (pr. 47) | ayah | «والی اللہ ترجع الامور» (also 3:109, 8:44, 22:76, 35:4, 57:5) | marked 2:210 (first occurrence) | |
 | 48 (pr. 47) | ayah | print «والی ربک الرجعیٰ» (Qur'an 96:8 «ان الی ربک الرجعیٰ») | marked 96:8 from «الی» | |
 | 48 (pr. 47) | ayah | «والی اللہ المصیر» (also 3:28, 35:18) | marked 24:42 | |
-| 48–49 (pr. 47–48) | page break | «…مگر اس میں مضاف کا حذف ہے جو بلا ضرورت خلاف اصل» continues on pdf 49 | kept at the break | |
+| 48–49 (pr. 47–48) | page break | «…خلاف اصل ہے اس لیے میرے نزدیک یہاں علیٰ بمعنی الی ہے…» spans the break | written whole on pdf 48 | |
+| 49 (pr. 48) | ayah | «ہذا بصائر من ربکم وہدی ورحمۃ لقوم یؤمنون» (7:203; 45:20 has «للناس… یوقنون», which the translation «عام لوگوں… یقین لانے والوں» follows) | marked 7:203, matching the Arabic printed | |
