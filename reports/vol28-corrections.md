@@ -96,3 +96,4 @@
 | 0328 | pdf 412 | gloss «(کل سے جز بڑا ہوتا ہے)» for «الکل اعظم من الجزو» (reversed) | kept as printed |
 | 0328 | pdf 412 | «اس قعد کا اثر» («قصد» likely intended) | kept as printed |
 | 0328 | pdf 412–413 | «…چہ جائیکہ اللہ و رسول صلی اللہ علیہ وسلم جنہوں نے یہ سب احکام مقرر فرمائے» spans the page break | written whole on pdf 412 |
+| 0328 | pdf 413–414 | «…حضرات یہ بڑا فتنہ ہے بعض وقت ایمان تک اس سے کھویا جاتا ہے» spans the page break | written whole on pdf 413 |
