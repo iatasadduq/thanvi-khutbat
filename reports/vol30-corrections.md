@@ -21,3 +21,4 @@
 | 59 (pr. 58) | heading | «حضرت مولانا عبید اللہ صاحب سندھیؒ» | kept as the heading; index head «حضرت مولانا عبید اللہ سندھیؒ» | |
 | 60 (pr. 59) | title | title page prints «بصورة الصیام» (Arabic ة) | «بصورۃ», as in the table of contents | |
 | 65 (pr. 64) | wording | «یہ تقلید ہزاروں لذتوں کا سبب ہے» (the argument is about «تقیید», restriction) | kept as printed | probably a misprint for «تقیید» |
+| 70 (pr. 69) | scan | the page was scanned at a slant and the beginnings of the last lines (right edge) are cut off | text read from a straightened copy; lost letters filled in square brackets where the sense is certain («[سے]», «[یاد ر]کھو», «[معاصی]», «[حاصل ہو]تی», «[المعاصی می]ں»); «[—]ت ہو جاتی ہے» and «جس پر کیفیات [—] ہوتی ہوں» left unfilled (probably «سہولت/اعانت» and «وارد») | not guessed where uncertain |
