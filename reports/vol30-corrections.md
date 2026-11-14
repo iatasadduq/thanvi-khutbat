@@ -30,3 +30,4 @@
 | 79 (pr. 78) | punctuation | the compiler's note ends «…نہ عملاً نہ ترکاً ۱۲ جامع)» but no opening bracket is printed | kept as printed | the note probably begins at «اور یہی وجہ ہے» |
 | 84 (pr. 83) | wording | the compiler's Arabic note prints «قال ورد فی روایۃ», «ولم نشیع منہ» | «قال ورد» kept; «نشبع» (the dots of the print are unclear) | |
 | 84 (pr. 83) | wording | «حرارت غریزیہ منطفی ہو جاتی ہے» | kept as printed | for «منطفی» (extinguished) |
+| 86–87 (pr. 85–86) | wording | the hadith runs across the page break; pdf 87 prints «فی ای وادھلک» | «فی ای اودیۃ ہلک» (as in the sources cited) | |
