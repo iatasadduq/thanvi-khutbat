@@ -44,3 +44,4 @@
 | 61 (pr. 60) | wording | «بعض دفعہ سلوک بصورت جذب نہیں ہوتا ہے» («بصورت جذب ہوتا ہے» intended?) | kept as printed | |
 | 61–62 (pr. 60–61) | page break | «…ناواقف اس کے جذب کو نہیں پہچانتا… وطن ان کا معمولی ہے» spans the break | written whole on pdf 61 | «وطن» perhaps «باطن» |
 | 63 (pr. 62) | wording | «حافظ کی مراد ساحلہا سے ادھر کا ساحل ہے یعنی خوض دریا سے قبل کا ادھر کا ساحل نہیں یعنی عبور دریا کے بعد کا» (the two «ادھر» clauses seem to contrast «ادھر/اُدھر») | kept as printed | |
+| 64–65 (pr. 63–64) | page break | «…مولانا نے اس کی مثال یوں دی ہے کہ جیسے بالغ» continues on pdf 65 | kept at the break | |
