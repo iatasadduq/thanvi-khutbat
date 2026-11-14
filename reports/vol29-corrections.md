@@ -9,4 +9,7 @@
 | 21–22 (pr. 20–21) | page break | translation of البقرة ۱۶۳ «…بہت مہربان نہایت رحم والا ہے» spans the break | written whole on pdf 21 | |
 | 23–24 (pr. 22–23) | page break | «…اس کے پڑھنے کو جی نہیں چاہتا… جلدی سمجھ جائیں گے» spans the break | written whole on pdf 23 | |
 | 30 (pr. 29) | wording | «خرو قود» (perhaps «خر و وقود») | kept as printed | |
-| 31–32 (pr. 30–31) | page break | «…اس کا جواب یہ ہے کہ ہم اور جگہ کے مسلمانوں سے بھی اگر انہوں نے» continues on pdf 32 | written to page end | |
+| 31–32 (pr. 30–31) | page break | «…اگر انہوں نے ہمارے لباس کو حقیر سمجھا… مگر صدائے برنخاست» spans the break | written whole on pdf 31 | |
+| 33 (pr. 32) | page break | «تو اس کا کچھ جواب نہیں… اس میں بھی راضی ہیں» opens pdf 33, continuing pdf 32 | joined to pdf 32 (sentence written whole there) | |
+| 33–34 (pr. 32–33) | page break | «…محبوب کے لیے ملامت اور دھول دھپہ میں بھی / لذت ہوتی ہے» | page split kept at the break | |
+| 34 (pr. 33) | ayah | translation bracket «(نہ اس کو اونگھ… لذت آنا چاہیے۔)» runs on into the author's text | kept as printed | |
