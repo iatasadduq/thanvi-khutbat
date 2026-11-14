@@ -46,3 +46,4 @@
 | 120 (pr. 119) | title | the title page prints «العزة» (Arabic ة) and the scribe as «مو۔ عبد اللہ صاحب» | «العزۃ» as in the table of contents; «مولوی عبد اللہ صاحب» | |
 | 127 (pr. 126) | heading/index | «حضرت سید آدم» is not further identified in the text | index head «حضرت سید آدم بنوریؒ» (the well-known Naqshbandi shaykh exiled to the Hijaz under Shah Jahan) | reversible; only the index head |
 | 149 (pr. 148) | toc | the sermon «دعاء» (title page pr. 148, before انفاق المحبوب pr. 169) was missing from the first `toc.tsv` | row added; 15 sermons | the vol. TOC will be regenerated at the end |
+| 149 (pr. 148) | title page | the title page prints only «دعاء»; no date, place, scribe or audience line | nothing added | the sermon is the closing address of a جلسہ («نظام الاوقات», «ناظم صاحب») |
