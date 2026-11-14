@@ -22,3 +22,4 @@
 | 131 (pr. 130) | misprint | «اور اگر فطرۃً طالع ہے» — probably «طالح» (opposite of «صالحہ») | kept as printed | |
 | 136 (pr. 135) | date | «۵ رجمادی الثانی ۱۳۴۷» — «ر» is the date separator («۵/جمادی الثانی») | written «۵ رجمادی الثانی» as printed; index «۵ جمادی الثانی» | |
 | 138 (pr. 137) | misprint? | «اس کے عیوب سے تطلیف بھی زیادہ ہوتی ہے» — «تکلیف» | kept as printed | |
+| 139 (pr. 138) | Arabic note | editor's note ends «لیز لن الغبار … عندهم ۵۱)» — «لیزلن» split, and «۵۱» is «اه» printed in reverse | written «لیز لن» as printed, «اه» for the reversed digits | |
