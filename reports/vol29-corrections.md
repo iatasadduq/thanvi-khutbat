@@ -105,3 +105,4 @@
 | 215 (pr. 214) | ayah | «لہم البشرے» (twice) | marked 39:17 «لَهُمُ الۡبُشۡرٰي» | |
 | 216 (pr. 215) | wording | «قرآن مجید باوجود مجمز ہونے کے» («موجز» intended) | kept as printed | |
 | 222 (pr. 221) | ayah | 21:99 printed «لوکان ہؤلاء الٰہۃ ماوردوہا» (some prints «آلہۃ») | marked with the Qur'an text | |
+| 225 (pr. 224) | scan | left margin faint («تو وہ بھی اسی واسطے»، «کسی وقت خالی نہیں»، «کہ وہ راضی ہو جائے»، «حضرت نہیں بھولتا»؟، «ضروری ہے حاصل یہ ہے») | read from context; «کسی وقت نہیں بھولتا» chosen | owner to confirm |
