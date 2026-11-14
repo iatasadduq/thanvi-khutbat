@@ -120,3 +120,5 @@
 | 0418 | pdf 427 | «ذالک فضل اللہ یوتیہ من یشاء» (also 57:21, 5:54) | marked 62:4, where the phrase opens the ayah |
 | 0418 | pdf 427 | «فما ہو جوابکم فہو جوابنا» (print «فما ہو جوابکم فہو جوابنا»; the last word set in Urdu type) | marked as Arabic phrase |
 | 0418 | pdf 427–428 | «…خلاف اولیٰ کرنے والا ماثاب ہو گا» spans the page break; «الویت»، «ماثاب» as printed | written whole on pdf 427; kept as printed |
+| 0418 | pdf 428 | «اتباع ہوئی» («ہوی»), «بعض نفس کے نزدیک» as printed | kept as printed |
+| 0418 | pdf 428–429 | «…جیسے کہ مجتہدین دوسروں کو پابند بناتے ہیں… نام اس کا چاہے کچھ رکھ لو» spans the page break | written whole on pdf 428 |
