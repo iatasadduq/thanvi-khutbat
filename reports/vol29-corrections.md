@@ -127,3 +127,4 @@
 | 277 (pr. 276) | gap | «وہ …… میں تھے» (place name left blank in the print) | kept as printed | |
 | 278 (pr. 277) | gap | «پھر …… وہ صاحب تھانہ بھون آئے» (dots in the print) | kept as printed | |
 | 278 (pr. 277) | wording | «الدین نصح» (hadith «الدین النصیحۃ») | kept as printed; head الدین النصیحۃ | |
+| 281 (pr. 280) | wording | «اسی شعر میں مولانا کے شعر مذکور سے ادب از زید ہے» («ادب ازید» = more courteous?; elsewhere the series says Rumi is the more courteous) | kept as printed | owner to confirm |
