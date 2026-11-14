@@ -129,3 +129,6 @@
 | 0418 | pdf 431 | «میرے بھائی محمد مظہر» | head «شخصیت: منشی محمد مظہر علی» (برادر خورد) reused |
 | 0418 | pdf 431 | «سلطنت کے فقہ پر نہیں چل سکتی بوائے فقہ حنفی کے» («کسی فقہ پر … سوائے» intended?) | kept as printed |
 | 0418 | pdf 431–432 | «…خود سننے سے معلوم ہوتا ہے کہ جیسے کسی کو چھیڑتے ہوں» spans the page break | written whole on pdf 431 |
+| 0418 | pdf 432 | «فرمایا میرا شریک حجرہ ایک لڑکا بیان کرتا تھا» (speaker unclear) | kept as printed |
+| 0418 | pdf 432–433 | «…انصاف کرنا چاہئے کہ یہ کس درجہ عمل بالحدیث ہے» spans the page break | written whole on pdf 432 |
+| 0418 | pdf 433 | ادب الاعلام ends on pdf 433 (printed 432); ادب العشیر title page is pdf 434 | sermon file 0418 covers pdf 418–433 |
