@@ -85,3 +85,4 @@
 | 364 (pr. 363) | wording | «ہاں اہل شکر نے جو اس سے استغناء ظاہر کیا ہے» — context (the مجاذیب who seek only direct vision) suggests «اہل سکر»; indexed as اہل سکر, text kept as printed | kept as printed | |
 | 374 (pr. 373) | translation | the gloss under «مصلحت دید من آنست…» («مصلحت نہیں کہ راز ظاہر ہو ورنہ رندوں کی مجلس کوئی خبر ایسی نہیں کہ نہ ہو») translates the other Hafiz couplet «مصلحت نیست کہ از پردہ بروں افتد راز…»; kept as printed | kept as printed | |
 | 375 (pr. 374) | wording | «ہر بن موئے تو شیطانے بود» is printed for «سلطانے بود» (the gloss «تیرا بال بال بادشاہ ہے» confirms سلطانے); and the hemistich «شہان بے کمر و خسروان بے» drops «کلہ اند»; both kept as printed | kept as printed | |
+| 377 (pr. 376) | identification | the scribe of الذکر is named only «مولانا عبد اللہ صاحب»; indexed under مولانا محمد عبد اللہ گنگوہیؒ (the scribe of the other Thana Bhawan Jami Masjid sermons of this volume) — reversible | identified | |
