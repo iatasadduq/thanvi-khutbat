@@ -88,3 +88,5 @@
 | 0328 | pdf 402 | «بدوں طاقت کے دنیا تک بھی رسائی نہیں» (pdf 399 has «بدوں طاعت کے»; «طاعت» likely intended) | kept as printed |
 | 0328 | pdf 402 | heading «ایک اہل اللہ بے حس یا اہل تصنع ہیں» (perhaps «کیا» intended) | kept as printed |
 | 0328 | pdf 402–403 | «…مگر ایسا واقعہ ایک بھی نکلنا مشکل ہے… اہل دنیا کی طرف آیا ہو» spans the page break | written whole on pdf 402 |
+| 0328 | pdf 403–404 | «…اور ان کے الفاظ سے سراسر صدق ٹپکتا ہے… قبضہ کئے لیتے ہیں» spans the page break | written whole on pdf 403 |
+| 0328 | pdf 404 | «ہر کہ! جامہ زعشقے چاک شد» (stray «!»), «اوز حرص» | written «ہر کہ جامہ ز عشقے… او ز حرص» |
