@@ -45,3 +45,5 @@
 | 0218 | pdf 228 | gloss «اور ہم اس کو معمولی … سمجھتے تھے» (ayah addresses «تم») | kept as printed |
 | 0218 | pdf 231 | «اگر حیادار ہے تو ان سے ہر گناہ کا انکار کرے گا» (sense needs «انکار نہ کرے گا», contrasted with «بے حیا … انکار کرتے ہوئے») | kept as printed |
 | 0218 | pdf 235 | «کسی اجزاء کے استحقاق» / «اس اجزاء کے سامنے» (sense «جزاء») | kept as printed |
+| 0218 | pdf 236 | «جزاء بما کانوا یعملون» («جا بجا فرمایا»: 32:17, 46:14, 56:24) | marked 56:24, where the phrase is the whole ayah |
+| 0218 | pdf 236 | print «ورنہ ہم تو بہ کے مستحق نہ تھے» | kept as printed («تو بہ» = «تو اس کے»?) |
