@@ -93,3 +93,4 @@
 | 169 (pr. 168) | wording | «ایک میں مرغا بچہ نکلوا لیں گے» (likely «ایک میں مرغی ایک میں مرغا»; words dropped?) | kept as printed | |
 | 171 (pr. 170) | wording | couplet «گہ اسپہاؤ باغ و راغ / گہ خیال مغز دماغ و لیغ و لاغ» (garbled? the مثنوی has «گہ خیال نفع و گاہے خوف داغ»-type lines) | kept as printed | owner to confirm |
 | 171 (pr. 170) | placement | gloss «(اگر یہ کہا جائے کہ بلا خیال کے دنیا کا کام ہوتا ہی نہیں…)» follows the first couplet but is the objection, not its gloss | kept as printed | |
+| 182 (pr. 181) | scan | a few letters faint («کرایہ دار کو بسا دیا»، «اس کا الٹا ہو رہا ہے»، «اس لیے ضرورت ہے کہ غیر»، «تو ادب سے مہمان داخل آوے»، «میں نہ دنیا») | read from context | owner to confirm the last words of the paragraph |
