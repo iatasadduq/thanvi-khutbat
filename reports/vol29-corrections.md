@@ -135,3 +135,4 @@
 | 288 | 287 | ادب الطریق | «کیرٹری کے ایک آدمی» kept as printed (place name, reading uncertain — perhaps کیرٹری/کیرٹڑی). «ان کا عالم بھی بہت ہی ناتمام» kept as printed (likely «علم»). Owner to confirm. |
 | 291 | 290 | ادب الطریق | «جاہل غسالی مقلدین» kept as printed (probably «غالی»; the head uses غالی). Owner to confirm. |
 | 292 | 291 | ادب الطریق | First quotation printed «ما اسکر کثیر فقلیلہ» حرام (کثیر without ہ, حرام outside the quotes); kept as printed; the second quotation on the same page has «ما اسکر کثیرہ فقلیلہ حرام». Printed footnote (ابو داؤد ۳۶۸۱، ترمذی ۱۸۶۵) placed as [حاشیہ]. |
+| 295 | 294 | ادب الترک | «بالکلیہ ترک مباحات کیجئے، تقلیل کر دیجئے» kept as printed; the sense requires «بالکلیہ ترک مباحات نہ کیجئے» (compare pdf 294 «مباحات بالکلیہ نہ چھوڑے»). Owner to confirm. Hadith wording «ملوک علی الاسرۃ» kept as printed (the sources have «ملوکا علی الاسرۃ»). |
