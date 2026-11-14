@@ -85,3 +85,6 @@
 | 0328 | pdf 399–400 | «…اس وقت وہ روپیہ جس کو تمام عمر… مطلوب نہیں رہا» spans the page break | written whole on pdf 399 |
 | 0328 | pdf 400–401 | «…ان ذرائع سے حقیقی راحت کبھی نصیب نہیں ہوتی» spans the page break | written whole on pdf 400 |
 | 0328 | pdf 400 | heading «راحت کا نام ذریعہ صرف ذکر اللہ ہے» (perhaps «تام» intended) | kept as printed |
+| 0328 | pdf 402 | «بدوں طاقت کے دنیا تک بھی رسائی نہیں» (pdf 399 has «بدوں طاعت کے»; «طاعت» likely intended) | kept as printed |
+| 0328 | pdf 402 | heading «ایک اہل اللہ بے حس یا اہل تصنع ہیں» (perhaps «کیا» intended) | kept as printed |
+| 0328 | pdf 402–403 | «…مگر ایسا واقعہ ایک بھی نکلنا مشکل ہے… اہل دنیا کی طرف آیا ہو» spans the page break | written whole on pdf 402 |
