@@ -60,3 +60,5 @@
 | 77 (pr. 76) | khutba | khutba printed unvocalized | standard vocalized khutba lines used, as elsewhere | |
 | 80–81 (pr. 79–80) | page break | «…بندہ کو دانت گھسائی دیتے ہیں… اس کے ترک میں تکلف ہوتا ہے» spans the break | written whole on pdf 80 | |
 | 82 (pr. 81) | heading | heading «محبت کا اثر» printed twice in succession | both kept as printed | |
+| 83 (pr. 82) | couplet | «بجرم عشق تو ام می کشند و غو غائیست / تو نیز بر سر بام آ کہ خوشنما شائیست» (spacing misprints) | written in the standard form «توام… غوغائیست… خوش تماشائیست» | |
+| 83–84 (pr. 82–83) | page break | «…جو اس میں عارضی گرانی اور» continues on pdf 84 | kept at the break | |
