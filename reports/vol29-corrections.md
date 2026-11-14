@@ -58,3 +58,4 @@
 | 76 (pr. 75) | title page | سبیل السعید title page has the title only (no date, place or compiler) | no date line written | |
 | 77 (pr. 76) | citation | «(الانعام، آیت نمبر ۱۵)» for «وان ہذا صراطی مستقیما فاتبعوہ» (6:153) | written «۱۵۳» | |
 | 77 (pr. 76) | khutba | khutba printed unvocalized | standard vocalized khutba lines used, as elsewhere | |
+| 80–81 (pr. 79–80) | page break | «…حق تعالیٰ نے یہ کر کے دکھلا دیا کہ وہ بندہ کو دانت گھسائی» continues on pdf 81 | kept at the break | |
