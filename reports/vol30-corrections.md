@@ -77,3 +77,4 @@
 | 253 (pr. 252) | date | the title page of الاخلاص (حصہ دوم) dates it «۲۵ جمادی الاخریٰ ۱۳۲۹ھ», while حصہ اول (pdf 224) is dated «جمادی الاخریٰ ۱۳۳۹ھ»; part 1 closes promising the rest «پھر کسی وقت», so one of the two years is probably a misprint | both kept as printed | |
 | 283 (pr. 282) | ayah | «والذین امنوا اشد حبا للہ» is printed here in plain (unvocalised) script, quoting البقرة ۱۶۵ already marked on pdf 282; kept as «…» to follow the print | «…» | |
 | 286 (pr. 285) | wording | «پس محقق باوجود تجلیات وجود حقیقی کے مشاہدہ کے وجود اشیاء کو بھی دیکھتا ہے» is printed twice in succession (a dittography); the «ماہمہ شیراں» couplets are also repeated from pdf 284 | kept as printed | |
+| 298 (pr. 297) | wording | the Rumi couplet's second hemistich is printed «درمیاں فرقے بودے منتہا» (the usual text «بود بے منتہا»); kept as printed and indexed under the existing head with بصورت | kept as printed | |
