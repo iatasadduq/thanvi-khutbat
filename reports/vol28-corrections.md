@@ -158,4 +158,7 @@
 | 0434 | pdf 448 | «خواجہ صاحب» identified as خواجہ عزیز الحسن مجذوبؒ (companion on the journey) | attribution call |
 | 0434 | pdf 449 | «جس وقت وہ میاں کرے گی»، «دو میاں ہو جاویں» («میاؤں» intended) | kept as printed |
 | 0434 | pdf 449 | ادب العشیر ends on pdf 449 (printed 448), the last page of the volume | sermon file 0434 covers pdf 434–449 |
-| 0434 | pdf 443 | the bادشاہ’s cat story reuses the existing head «مثال: بادشاہ کی سدھائی بلی کا چوہا دیکھ کر شمعدان پھینکنا» | head normalized |
+| 0434 | pdf 443 | the بادشاہ cat story reuses the existing head «مثال: بادشاہ کی سدھائی بلی کا چوہا دیکھ کر شمعدان پھینکنا» | head normalized |
+| all | toc | `toc.tsv` regenerated from the page headings (484 rows); title-page printed numbers ترجیح المفسدہ 169 and ازالۃ الغین 265 (the اجمالی فہرست has 170, 266) | headings-derived numbers used |
+| all | mark_arabic | `reports/vol28-quran-check.md`: DIFFERS 0, CITE 0, ARABIC 0; `--write` added the waqf marks to the marked spans | written |
+| all | check_hadith | `reports/vol28-hadith-check.md`: 14 differs, all the book's wording (recorded with «بصورت» at transcription, e.g. p. 122 «فلیعجل», p. 167 «من لم شکر الناس», p. 377 «محمد الرسول») or normalisation noise | kept as printed |
