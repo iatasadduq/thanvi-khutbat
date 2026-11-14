@@ -117,3 +117,6 @@
 | 0418 | pdf 424–425 | «…ورنہ حدیث پر قول مجتہد کی ترجیح لازم آتی ہے» spans the page break | written whole on pdf 424 |
 | 0418 | pdf 425 | «بعض وقت برائے کا اختلاف» («رائے» intended?) | kept as printed |
 | 0418 | pdf 425–426 | «…بلکہ محض غیر اہل زبان کے واسطے… مکالمت کرنے کا آلہ ہے» spans the page break | written whole on pdf 425 |
+| 0418 | pdf 427 | «ذالک فضل اللہ یوتیہ من یشاء» (also 57:21, 5:54) | marked 62:4, where the phrase opens the ayah |
+| 0418 | pdf 427 | «فما ہو جوابکم فہو جوابنا» (print «فما ہو جوابکم فہو جوابنا»; the last word set in Urdu type) | marked as Arabic phrase |
+| 0418 | pdf 427–428 | «…خلاف اولیٰ کرنے والا ماثاب ہو گا» spans the page break; «الویت»، «ماثاب» as printed | written whole on pdf 427; kept as printed |
