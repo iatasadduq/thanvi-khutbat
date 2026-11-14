@@ -103,3 +103,4 @@
 | 212 (pr. 211) | person | «مولانا محمد عبد اللہ صاحب» (scribe) | indexed under the series head مولانا محمد عبد اللہ گنگوہیؒ (the usual scribe of 1331ھ) | owner to confirm |
 | 213 (pr. 212) | citation | «(الزمر: ۱۷، ۱۸)» after the khutba ayat | written «(الزمر آیت نمبر ۱۷، ۱۸)» as elsewhere in the volume (the colon form was read as Arabic by the checker) | |
 | 215 (pr. 214) | ayah | «لہم البشرے» (twice) | marked 39:17 «لَهُمُ الۡبُشۡرٰي» | |
+| 216 (pr. 215) | wording | «قرآن مجید باوجود مجمز ہونے کے» («موجز» intended) | kept as printed | |
