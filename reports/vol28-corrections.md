@@ -140,3 +140,7 @@
 | 0434 | pdf 436–437 | «…اور ہم نے تو ایسے لوگوں کی صحبت پائی ہے جن میں رسمیں بالکل نہ تھیں» spans the page break | written whole on pdf 436 |
 | 0434 | pdf 437 | «مولوی ظفر حسین صاحب سے ملنے» («مظفر» intended, as in the rest of the passage) | kept as printed |
 | 0434 | pdf 437–438 | «آپ نے دال روٹی پر الٹ کر پلے میں باندھ لی اور رخصت ہو گئے» spans the page break | written whole on pdf 437 |
+| 0434 | pdf 439–440 | «…میں نے کہا اچھا ایک ہفتہ تک اجازت نہیں بس فوراً بیٹھ گئے» spans the page break | written whole on pdf 439 |
+| 0434 | pdf 440–441 | «…بعض بزرگوں کا برتاؤ مہمان کے ساتھ میں سناتا ہوں… کریمانہ برتاؤ ہے» spans the page break | written to the clause end on pdf 440 |
+| 0434 | pdf 441–442 | «…اور بعض مواقع میں یہ بات بے اصل بھی نہ ہو گی» ends pdf 441 with the sentence continuing «آج کل ہم لوگوں میں تکبر ہے ہی» | page split kept at the clause end |
+| 0434 | pdf 441 | heading «حکایت میزبانی حضرت امیر معاویہؓ» | new head for the اعرابی story |
