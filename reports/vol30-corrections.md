@@ -52,3 +52,4 @@
 | 158 (pr. 157) | index | «ناظم صاحب مولف نظام الاوقات» / «مولوی عبید اللہ صاحب» | indexed under «حضرت مولانا عبید اللہ سندھیؒ» (ناظم جمعیۃ الانصار in the previous address) | identification, reversible |
 | 158 (pr. 157) | verse | the متنبی line is printed «ولا فضل فینا للسماحۃ والندی وفضل الفنی لولا لقاء الشعوب» | «الفتی» for «الفنی» | as the known verse |
 | 167 (pr. 166) | wording | «جو لوگ خلاف شریعت کام کرتے ہیں ان کو چاہئے کہ اصرار کریں اور اس کے جواز کا فتویٰ بھی دے دیں» (the sense, and the next point, require «نہ کریں … نہ دیں») | kept as printed | probably «نہ» dropped in print |
+| 170 (pr. 169) | title page | the title (pr. 169) and the description line are on two halves of one PDF page | written together on `=== 170 | 169` | |
