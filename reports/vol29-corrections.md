@@ -47,3 +47,5 @@
 | 64–65 (pr. 63–64) | page break | «…جیسے بالغ نابالغ نہیں ہو سکتا… کچا کبھی نہیں ہو گا» spans the break | written whole on pdf 64 | |
 | 65–66 (pr. 64–65) | ayah | «سلطانا نصیرا ومقاما محمودا» (a جاہل's citation, joining 17:80 «سلطانا نصیرا» and 17:79 «مقاما محمودا») | kept as Arabic «…», not marked as one ayah | |
 | 65–66 (pr. 64–65) | page break | «(ایک قوت / مدد دینے والی محمود)… صوفیاء نے اپنی اصطلاح کو قرآن کے ان الفاظ سے لیا ہے» spans the break | written whole on pdf 65 | |
+| 66–67 (pr. 65–66) | page break | «…تم نے خود ملنا چاہا تو خود ہی کھینچ لیا» spans the break | written whole on pdf 66 | |
+| 67 (pr. 66) | wording | «محمد شیر شاہ ان کا نام تھا ملا ہوں» (sense: «ان سے ملا ہوں») | kept as printed | |
