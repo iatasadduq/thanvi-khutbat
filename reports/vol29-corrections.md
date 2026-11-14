@@ -23,4 +23,6 @@
 | 42 (pr. 41) | ayah | print «کلا انہ تذکرۃ» (80:11 «انہا») and «انہ تذکرۃ» repeated | marked 80:11 with the Qur'an text «انہا» per the ayah slice; mismatch noted here | |
 | 42–43 (pr. 41–42) | page break | «…عید بقر کے نمازی ہوں ورنہ… راستہ کو طے کرتے ہیں» spans the break | written whole on pdf 42 | |
 | 45 (pr. 44) | ayah | «فقلیلا ما یؤمنون (سورہ…)» | marked 2:88 (exact words) | also 4:46 «فلا یؤمنون الا قلیلا» |
-| 45–46 (pr. 44–45) | page break | «…یہاں معنی امر مراد نہیں» continues on pdf 46 | kept at the break | |
+| 45–46 (pr. 44–45) | page break | «…یہاں معنی امر مراد نہیں بلکہ امر بمعنی خبر ہے… سیاق و سباق ہے» spans the break | written whole on pdf 45 | |
+| 46 (pr. 45) | ayah | print «جزاء بما کانوا یعملون» (9:82 «یکسبون») | marked 9:82 with the Qur'an wording | owner to check |
+| 46–47 (pr. 45–46) | page break | «…جب حضور صلی اللہ علیہ وسلم ہر وقت غمگین رہتے ہیں… تبسم فرما لیا کرتے» spans the break | written whole on pdf 46 | |
