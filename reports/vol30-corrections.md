@@ -67,3 +67,4 @@
 | 230 (pr. 229) | wording | the Hafiz couplet is printed «حدیث از مطرب و مے گو از دہر کمتر جو» (the usual text has «و راز دہر»; the gloss «زمانہ کے بھید» supports «راز») | kept as printed; indexed under the existing head with بصورت | |
 | 231 (pr. 230) | wording | «محققین من الحقہ» — probably for «من الحمقہ» (a pun: researchers from among the fools); the print is unclear | kept as printed | |
 | 231 (pr. 230) | ayah | «سُبۡحٰنَكَ لَا عِلۡمَ» runs over the page break; the two parts are marked separately on each page as البقرة ۳۲ | split marking | |
+| 233 (pr. 232) | reference | the editorial reference for «الحمد للہ الذی رد کیدہ الی الوسوسۃ» reads «سنن ابی داؤد ۱۲۵۱»; the hadith is Abu Dawud no. 5112 (کتاب الادب) — the printed number looks garbled | kept as printed | |
