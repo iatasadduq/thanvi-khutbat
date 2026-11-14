@@ -7,3 +7,4 @@
 | 23 (pr. 22) | citation | «آل عمران آیت: ۱۹۵ … ۱۶۰» | written «آل عمران آیت: ۱۵۹» (the ayah quoted is 3:159) | |
 | 27 (pr. 26) | wording | «مگر جہلاء کی تصنیف سے اہل کمال کی تصنیف کا مقابلہ کرنا چاہیے» — the sense needs «نہ چاہیے»; kept as printed | kept as printed | |
 | 31 (pr. 30) | wording | the couplet is printed «گرچہ تفسیر زباں روشن تر است / لیک عشق بے زباں روشن است» (comparatives swapped against the usual text and its own gloss); kept as printed | kept as printed | |
+| 35 (pr. 34) | punctuation | the جامع note opened at «(جامع کہتا ہے…» is not closed; kept as printed | kept as printed | |
