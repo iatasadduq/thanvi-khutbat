@@ -67,3 +67,4 @@
 | 0266 | pdf 285 | heading printed «کفر دوں» | written «کفر دون کفر» (the known phrase; context «محاورہ») |
 | 0266 | pdf 288 | gloss «کچھ دن حکمت یونانی یعنی معرفت کی کتاب تو پڑھو» (couplet says «حکمت ایمانیاں») | kept as printed |
 | 0266 | pdf 291 | print «لولا الاعتبارات لبطل الحکمۃ» | written «لبطلت» (feminine agreement; matches the existing head) |
+| 0266 | pdf 303 | 3:191 quoted «یَتَفَکَّرُوْنَ فِیْ خَلْقِ …» (mushaf «وَيَتَفَكَّرُوۡنَ») | slice keeps the mushaf «وَ» |
