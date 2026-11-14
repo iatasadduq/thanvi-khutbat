@@ -11,3 +11,4 @@
 | 36 (pr. 35) | Arabic | «رحماء علی الکفار اشداء بینہم» is 48:29 deliberately inverted (to describe the modern boycott); marked as «…», not as an ayah | marked as «…» | |
 | 42 (pr. 41) | wording | «گو داروغہ جی نے…… اسے دھمکا دیا» — a row of dots is printed in the line; kept | kept as printed | |
 | 48 (pr. 47) | wording | «اگر اس وقت بھی کہنے کی ہمت ہو تو جائز ہے ورنہ ناجائز نہیں» — the sense needs «ورنہ ناجائز»; kept as printed | kept as printed | |
+| 67 (pr. 66) | wording | «الا سیر یوثق ثم یوثق یسلم» (dittography of «یوثق», «الا سیر» split); written «الاسیر یوثق ثم یسلم» — reversible | corrected | |
