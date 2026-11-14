@@ -8,3 +8,4 @@
 | 67–68 (pr. 66–67) | parenthesis | pdf 68 begins «ہیں ۱۲) پھر ان کی وجہ…» — a closing parenthesis with the editor's «۱۲» whose opening is not printed on pdf 67 (the editor's note probably began at «اور اتنے طویل کلام میں…» or «ہاں کہیں کہیں تسامحات…») | kept as printed | owner to check |
 | 75 (pr. 74) | misprint? | «پھر یہ لفظ ربا مفرداً بو فارسی میں بھی مہمل ہے» — «بو» probably for «تو» | kept as printed | |
 | 75 (pr. 74) | spelling | gloss «ارکین سلطنت» for «ارکان» | kept as printed | |
+| 79 (pr. 78) | Quran wording | printed «وَلَا تُعْجِبْكَ اَمْوَالُهُمْ وَلَا اَوْلَادُهُمْ اِنَّمَا يُرِيْدُ اللّٰهُ اَنْ يُّعَذِّبَهُمْ بِهَا فِي الْحَيٰوةِ الدُّنْيَا» mixes 9:55 («فَلَا… وَلَاۤ اَوْلَادُهُمْ… لِيُعَذِّبَهُمْ… فِى الْحَيٰوةِ الدُّنْيَا») and 9:85 («وَلَا… وَاَوْلَادُهُمْ… اَنْ يُّعَذِّبَهُمْ… فِى الدُّنْيَا») | marked as 9:55 from «تُعۡجِبۡكَ», reference text | owner may prefer a note |
