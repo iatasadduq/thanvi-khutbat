@@ -70,3 +70,4 @@
 | 99 (pr. 98) | sermon end | سبیل السعید ends on pdf 99 (printed 98); اسباب الفضائل title page is pdf 100 | file 0076 covers pdf 76–99 | |
 | 100 (pr. 99) | title page | اسباب الفضائل title page has the title only | no date line written | |
 | 101 (pr. 100) | wording | «طالبات فضائل کے ساتھ تمسخر» («طالبان» intended?) | kept as printed | |
+| 102 (pr. 101) | ayah | «لنا اعمالنا ولکم اعمالکم» (2:139, 28:55, 42:15) | marked 28:55 | |
