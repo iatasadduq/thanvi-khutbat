@@ -101,3 +101,4 @@
 | 442 (pr. 441) | wording | «رکوع میں نظر پیروں رہنی چاہئے» (no «پر») kept as printed | kept as printed | |
 | 449 (pr. 448) | toc | the اجمالی فہرست gives printed p. 438 for الاکرمیۃ بالاعملیۃ والاعلمیۃ; its title page is printed p. 448 (pdf 449), and درجات الاسلام runs to p. 447; the title page spells «الاکرامیہ» | toc misprint noted; title written الاکرمیۃ as in the toc | |
 | 454 (pr. 453) | wording | the second couplet is printed «علی الهدی من استهدی ادلاء»; written «لمن استہدیٰ» as the metre and the usual text have it — reversible | corrected | |
+| 457 (pr. 456) | punctuation | the bracket opened at «(یہ اور بات ہے کہ نجیب الطرفین…» is not closed; closed after «۱۲» | closed | |
