@@ -8,3 +8,5 @@
 | 29–30 (pr. 28–29) | page break | the ayat فصلت ۱–۳ begin at the foot of pdf 29 («حم… قرآنا عربیا») and end at the top of pdf 30 («لقوم یعلمون») | written whole on pdf 29; the translation is on pdf 30 | |
 | 30 (pr. 29) | word | «وجہ اس مسابلۃ کی» | kept as printed | probably «مساہلت»; owner to confirm |
 | 32 (pr. 31) | word | «کھانا ضروری… اور دنیا کے سب مسلمان ضروری» | kept as printed | «مسلمان» is probably «سامان»; owner to confirm |
+| 43 (pr. 42) | title/date | title on the top half, date «۱۷ ربیع الثانی» (no year) on the bottom half | written as one page; year not supplied | owner to confirm the year |
+| 44 (pr. 43) | khutba | no خطبہ ماثورہ: the text opens «بعد الحمد والصلوٰۃ احقر اشرف علی…» (a written address read out by the author) | no `# خطبہ ماثورہ` heading; the ayah and hadith are written as printed | |
