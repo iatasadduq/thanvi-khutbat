@@ -51,3 +51,4 @@
 | 67 (pr. 66) | wording | «محمد شیر شاہ ان کا نام تھا ملا ہوں» (sense: «ان سے ملا ہوں») | kept as printed | |
 | 68 (pr. 67) | couplet | «یار باید راہ را تنہا مرد / بے قلاوز اندریں صحرا مرد» («مرو» intended, as the gloss shows) | written «مرو» | |
 | 68 (pr. 67) | wording | «جب تک محقق مل سکے اس وقت تک کتاب سے سلوک طے نہ کرو» | kept as printed | |
+| 71–72 (pr. 70–71) | page break | «پھر جب ان / کی شرکت سے دو دل یک شود بشکند کوہ را ہمارے حاجی صاحب…» — sentence breaks off into the couplet | the couplet phrase written at the end of pdf 71 as printed; rest on pdf 72 | |
