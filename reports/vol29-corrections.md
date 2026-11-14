@@ -86,3 +86,4 @@
 | 141–142 (pr. 140–141) | page break | 26:3 runs over the page break | ayah completed on pdf 141; gloss starts pdf 142 | |
 | 141 (pr. 140) | ayah | 26:3 printed «ان لا یکونوا» | marked with the Qur'an text «الا» | |
 | 143 (pr. 142) | ayah | 26:3 printed «ان لا یکونوا» again | marked with the Qur'an text «الا» | |
+| 150 (pr. 149) | wording | «یہ اجزاء بدون پانی کے دقیق ہو جائیں گے» («رقیق» intended?) | kept as printed | owner to confirm |
