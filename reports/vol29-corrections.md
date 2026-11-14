@@ -117,3 +117,4 @@
 | 255 (pr. 254) | ayah | «فاما من خاف مقام ربہ» (79:40 has «واما») | marked 79:40 from «من» | |
 | 255 (pr. 254) | wording | «اور جب رنج پر ہوگا» (twice; «گھر پر»?) | kept as printed | owner to confirm |
 | 261–262 (pr. 260–261) | page break | «انا للہ وانا الیہ راجعون» split over the page break | ayah completed on pdf 261 | |
+| 263 (pr. 262) | ayah | «ان الحسنات یذہبن السیئات» printed «یلہبن» | marked 11:114 with the Qur'an text | |
