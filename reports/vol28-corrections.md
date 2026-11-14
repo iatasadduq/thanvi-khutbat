@@ -151,4 +151,8 @@
 | 0434 | pdf 445 | «بجائے اس کے کہ اس سے منع کریں اور اس کی کوشش کرتے ہیں» (sense: they encourage it) | kept as printed |
 | 0434 | pdf 445–446 | «…جو اپنے واسطے کرتے ہو تب مسلمان ہو گے» spans the page break | page split kept as printed |
 | 0434 | pdf 446 | «حدیث بقیع عرقد» («غرقد»); «قام رویدا او انطلق رویدا» | written «غرقد»; Arabic kept as printed |
-| 0434 | pdf 446–447 | «…حضور صلی اللہ علیہ وسلم اس طرح بیٹھتے کہ کوئی امتیاز نہ» continues on pdf 447 | continued on pdf 447 |
+| 0434 | pdf 446–447 | «…اس طرح بیٹھتے کہ کوئی امتیاز نہ ہوتا» spans the page break | written whole on pdf 446 |
+| 0434 | pdf 447–448 | «…حضور صلی اللہ علیہ وسلم کی تکلیف کا زیادہ پاس کیا آج کل کا مصافحہ نہ تھا» spans the page break | written whole on pdf 447 |
+| 0434 | pdf 447 | «ہذا لابیض المتکئ» | written «ہذا الابیض المتکئ» as in the existing head |
+| 0434 | pdf 448 | «حسب ایمان حضرت والا» («ایماء» intended) | kept as printed |
+| 0434 | pdf 448 | «خواجہ صاحب» identified as خواجہ عزیز الحسن مجذوبؒ (companion on the journey) | attribution call |
