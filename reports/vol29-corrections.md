@@ -97,3 +97,6 @@
 | 185 (pr. 184) | wording | «سائنس کی روح سے فلاسفی اس کی یہ ہے» («رو سے» intended?) | kept as printed | |
 | 199 (pr. 198) | ayah | «یدعون من دون اللہ» (16:20, 6:108, 46:5…) | marked 16:20 | |
 | 205 (pr. 204) | wording | «اور ذکر گو غیر اختیاری» («گویا» intended?) | kept as printed | |
+| 211 (pr. 210) | wording | «جنت ہی کا تصور کیا کرو اور بیوی کا اور حور کا قصور» («قصور» = palaces, pun on «قصور» fault) | kept as printed | |
+| 211 (pr. 210) | ayah | closing «ربنا تفبل منا انک انت السمیع العلیم» («تفبل» misprint) | marked 2:127 with the Qur'an text | |
+| 211 (pr. 210) | punctuation | «انتہی بلفظ حضرت مولانا مدظلہ العالی)» has a closing bracket with no opening one | kept as printed | |
