@@ -57,3 +57,4 @@
 | 175 (pr. 174) | wording | «حکمت ان کاموں کے اختیار کرنے میں» (for «ناموں») | kept as printed | |
 | 178 (pr. 177) | heading | the heading «بلا وجہ رخصت شرعیہ پر عمل کرنا مذموم ہے» introduces a passage that blames needless «عزیمت» (avoiding the رخصت) | kept as printed | the heading probably means «ترک رخصت» |
 | 187 (pr. 186) | wording | «ایسے انفاق کو تو اسلام ہے» (sense unclear; perhaps «سلام ہے»); «میرا دل تو ایسا ذہین ہے» (for «رقیق»?) | kept as printed | |
+| 188 (pr. 187) | ayah | «کلوا واشربوا» occurs in several ayat (البقرة ۶۰، ۱۸۷؛ الاعراف ۳۱؛ الطور ۱۹ …) | marked الاعراف ۳۱ (the best-known command; the speaker calls it «ایک آیت احکام میں سے») | reversible |
