@@ -45,3 +45,5 @@
 | 61–62 (pr. 60–61) | page break | «…ناواقف اس کے جذب کو نہیں پہچانتا… وطن ان کا معمولی ہے» spans the break | written whole on pdf 61 | «وطن» perhaps «باطن» |
 | 63 (pr. 62) | wording | «حافظ کی مراد ساحلہا سے ادھر کا ساحل ہے یعنی خوض دریا سے قبل کا ادھر کا ساحل نہیں یعنی عبور دریا کے بعد کا» (the two «ادھر» clauses seem to contrast «ادھر/اُدھر») | kept as printed | |
 | 64–65 (pr. 63–64) | page break | «…جیسے بالغ نابالغ نہیں ہو سکتا… کچا کبھی نہیں ہو گا» spans the break | written whole on pdf 64 | |
+| 65–66 (pr. 64–65) | ayah | «سلطانا نصیرا ومقاما محمودا» (a جاہل's citation, joining 17:80 «سلطانا نصیرا» and 17:79 «مقاما محمودا») | kept as Arabic «…», not marked as one ayah | |
+| 65–66 (pr. 64–65) | page break | «(ایک قوت / مدد دینے والی محمود)… صوفیاء نے اپنی اصطلاح کو قرآن کے ان الفاظ سے لیا ہے» spans the break | written whole on pdf 65 | |
