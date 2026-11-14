@@ -100,3 +100,4 @@
 | 211 (pr. 210) | wording | «جنت ہی کا تصور کیا کرو اور بیوی کا اور حور کا قصور» («قصور» = palaces, pun on «قصور» fault) | kept as printed | |
 | 211 (pr. 210) | ayah | closing «ربنا تفبل منا انک انت السمیع العلیم» («تفبل» misprint) | marked 2:127 with the Qur'an text | |
 | 211 (pr. 210) | punctuation | «انتہی بلفظ حضرت مولانا مدظلہ العالی)» has a closing bracket with no opening one | kept as printed | |
+| 212 (pr. 211) | person | «مولانا محمد عبد اللہ صاحب» (scribe) | indexed under the series head مولانا محمد عبد اللہ گنگوہیؒ (the usual scribe of 1331ھ) | owner to confirm |
