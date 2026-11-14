@@ -39,3 +39,5 @@
 | 57 (pr. 56) | parenthesis | «(اور نہ ان کا اثبات فرماتے ہیں…» opens a parenthesis never closed before the editor's «(مگر جاننے والا… ۱۲ جامع)» | kept as printed | |
 | 59 (pr. 58) | wording | «تکمیل حقیقی تو درسی ہو گی جس کے معنی تیس سال» (a pun on «درسی» = dar-sī «thirty»?) | kept as printed | |
 | 59 (pr. 58) | wording | «مطلع بالکل صاف کر دیا» | kept as printed | |
+| 60 (pr. 59) | wording | «چشتیہ… اول تخلیہ کرتے ہیں پھر تجلیہ اور نقشبندیہ… اول تحلیہ کرتے ہیں پھر تجلیہ» («تحلیہ»/«تخلیہ» probably intended for the second «تجلیہ» in each) | kept as printed | owner to check |
+| 60–61 (pr. 59–60) | page break | «…مشائخ اس» continues on pdf 61 | kept at the break | |
