@@ -55,3 +55,6 @@
 | 74–75 (pr. 73–74) | page break | «…اپنے ناز کا علاج کر لے کہ تمہاری مشیت… کچھ بھی نہ ہوتا» spans the break | written whole on pdf 74 | |
 | 75 (pr. 74) | wording | «سب کا مطابق ہونا» («مناسب»/«حکمت کے مطابق» intended?); «پس بعض کائنات مظہر ہیں۔ جمال کے بعض جلال کے» (punctuation as printed) | kept as printed | |
 | 75 (pr. 74) | sermon end | الرحیل الی الخلیل ends on pdf 75 (printed 74) with «آمین»; سبیل السعید title page is pdf 76 | file 0018 covers pdf 18–75 | |
+| 76 (pr. 75) | title page | سبیل السعید title page has the title only (no date, place or compiler) | no date line written | |
+| 77 (pr. 76) | citation | «(الانعام، آیت نمبر ۱۵)» for «وان ہذا صراطی مستقیما فاتبعوہ» (6:153) | written «۱۵۳» | |
+| 77 (pr. 76) | khutba | khutba printed unvocalized | standard vocalized khutba lines used, as elsewhere | |
