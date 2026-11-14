@@ -10,3 +10,4 @@
 | 32 (pr. 31) | word | «کھانا ضروری… اور دنیا کے سب مسلمان ضروری» | kept as printed | «مسلمان» is probably «سامان»; owner to confirm |
 | 43 (pr. 42) | title/date | title on the top half, date «۱۷ ربیع الثانی» (no year) on the bottom half | written as one page; year not supplied | owner to confirm the year |
 | 44 (pr. 43) | khutba | no خطبہ ماثورہ: the text opens «بعد الحمد والصلوٰۃ احقر اشرف علی…» (a written address read out by the author) | no `# خطبہ ماثورہ` heading; the ayah and hadith are written as printed | |
+| 45 (pr. 44) | Arabic | Shah Waliullah's passage «المعتنین تعلیم الشرائع… الخلفاء الباطنین» | written as printed in «…»; «ولتزہد» read as «والتزہد» | owner to confirm the source (probably ازالۃ الخفاء) |
