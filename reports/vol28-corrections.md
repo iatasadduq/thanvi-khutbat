@@ -147,3 +147,8 @@
 | 0434 | pdf 443 | date «شب ۲۸ صفر ۳۹ھ» (year as printed; the journey was in ۱۳۳۵ھ) — first digit hard to read | kept as read |
 | 0434 | pdf 443–444 | «…ان کے یہاں سے نکالنے کا انتظام کر دیا جائے» spans the page break | written whole on pdf 443 |
 | 0434 | pdf 444 | footnote figures «مشکوۃ المصابیح: ۴۶۷۰، ۲۵۷۰، کنز العمال: ۲۵۲۹۵» partly blurred | transcribed as read |
+| 0434 | pdf 445 | «واسکت کئی مالایکون جواب» (متنبی: «واسکت کیما لا یکون جواب») | written «واسکت کیما لا یکون جواب»; print reading noted |
+| 0434 | pdf 445 | «بجائے اس کے کہ اس سے منع کریں اور اس کی کوشش کرتے ہیں» (sense: they encourage it) | kept as printed |
+| 0434 | pdf 445–446 | «…جو اپنے واسطے کرتے ہو تب مسلمان ہو گے» spans the page break | page split kept as printed |
+| 0434 | pdf 446 | «حدیث بقیع عرقد» («غرقد»); «قام رویدا او انطلق رویدا» | written «غرقد»; Arabic kept as printed |
+| 0434 | pdf 446–447 | «…حضور صلی اللہ علیہ وسلم اس طرح بیٹھتے کہ کوئی امتیاز نہ» continues on pdf 447 | continued on pdf 447 |
