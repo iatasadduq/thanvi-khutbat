@@ -87,3 +87,4 @@
 | 141 (pr. 140) | ayah | 26:3 printed «ان لا یکونوا» | marked with the Qur'an text «الا» | |
 | 143 (pr. 142) | ayah | 26:3 printed «ان لا یکونوا» again | marked with the Qur'an text «الا» | |
 | 150 (pr. 149) | wording | «یہ اجزاء بدون پانی کے دقیق ہو جائیں گے» («رقیق» intended?) | kept as printed | owner to confirm |
+| 153 (pr. 152) | gap | «جو سب سے زیادہ ضروری...... اور سب سے زیادہ مفید ہے» (dots in the print) | kept as printed | |
