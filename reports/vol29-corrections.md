@@ -15,3 +15,5 @@
 | 34 (pr. 33) | ayah | translation bracket «(نہ اس کو اونگھ… لذت آنا چاہیے۔)» runs on into the author's text | kept as printed | |
 | 36 (pr. 35) | ayah | «تاج کرمنا… طوق فضلنا» single words from بنی اسرائیل ۷۰ | «کرمنا» marked 17:70; «فضلنا» (Qur'an: وفضلناہم) marked as Arabic «…» | |
 | 34–35 (pr. 33–34) | page break | «…ایک بزرگ فرماتے ہیں: جملہ اوراق…» then pdf 35 opens «اس کا یہ مطلب نہیں…» | kept at the break | |
+| 37 (pr. 36) | couplet | «اسیر دام عزت شو» (other volumes «عزلت», which the gloss «گوشہ تنہائی» supports); «بنائے رخ کہ خلقے والہ شوند» | «عزت» kept as printed; «بنائے» written «بنمائے» (misprint; standard reading); «والہ» kept | head records «بصورت» |
+| 37 (pr. 36) | wording | «افسوس بعض شعراء نے اس کو سمجھ لیا اور آج کل علماء نے بھی اس کو نہ سمجھا» | kept as printed | |
