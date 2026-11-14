@@ -47,3 +47,5 @@
 | 127 (pr. 126) | heading/index | «حضرت سید آدم» is not further identified in the text | index head «حضرت سید آدم بنوریؒ» (the well-known Naqshbandi shaykh exiled to the Hijaz under Shah Jahan) | reversible; only the index head |
 | 149 (pr. 148) | toc | the sermon «دعاء» (title page pr. 148, before انفاق المحبوب pr. 169) was missing from the first `toc.tsv` | row added; 15 sermons | the vol. TOC will be regenerated at the end |
 | 149 (pr. 148) | title page | the title page prints only «دعاء»; no date, place, scribe or audience line | nothing added | the sermon is the closing address of a جلسہ («نظام الاوقات», «ناظم صاحب») |
+| 156 (pr. 155) | quotation | the mulla's altered reading «…اس طرح پڑھنا شروع کیا کہ صحف ابراہیم وموسیٰ» is printed without the added «وعیسیٰ» that the story requires | printed words kept (marked as الاعلیٰ ۱۹) | a word is evidently dropped in print |
+| 156 (pr. 155) | ayah | «سبح اسم ربک الاعلیٰ الذی» runs into the first word of الاعلیٰ ۲ | marked as الاعلیٰ ۱ + ۲ (one word) | |
