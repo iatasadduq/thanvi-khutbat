@@ -13,3 +13,4 @@
 | 45 (pr. 44) | Arabic | Shah Waliullah's passage «المعتنین تعلیم الشرائع… الخلفاء الباطنین» | written as printed in «…»; «ولتزہد» read as «والتزہد» | owner to confirm the source (probably ازالۃ الخفاء) |
 | 49 (pr. 48) | missing ayah | the translation «(تم بہترین امت ہو جسے لوگوں سے منتخب کیا گیا ہے)» is printed with no ayah before it (آل عمران ۱۱۰ «کنتم خیر امۃ اخرجت للناس» appears to have dropped out) | kept as printed; ayah not inserted | owner to confirm |
 | 50 (pr. 49) | word | «استبداد وانفراد» | kept as printed | |
+| 54 (pr. 53) | word | «کوئی نہ کوئی علم بھی نہ ہو… اس کا کوئی علم بھی ہوا ہی نہیں» | kept as printed | «علم» is probably «عَلَم» (title/flag-name), i.e. no grand name, just «مدرسہ دیوبند»; owner to confirm |
