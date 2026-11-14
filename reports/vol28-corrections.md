@@ -144,3 +144,6 @@
 | 0434 | pdf 440–441 | «…بعض بزرگوں کا برتاؤ مہمان کے ساتھ میں سناتا ہوں… کریمانہ برتاؤ ہے» spans the page break | written to the clause end on pdf 440 |
 | 0434 | pdf 441–442 | «…اور بعض مواقع میں یہ بات بے اصل بھی نہ ہو گی» ends pdf 441 with the sentence continuing «آج کل ہم لوگوں میں تکبر ہے ہی» | page split kept at the clause end |
 | 0434 | pdf 441 | heading «حکایت میزبانی حضرت امیر معاویہؓ» | new head for the اعرابی story |
+| 0434 | pdf 443 | date «شب ۲۸ صفر ۳۹ھ» (year as printed; the journey was in ۱۳۳۵ھ) — first digit hard to read | kept as read |
+| 0434 | pdf 443–444 | «…ان کے یہاں سے نکالنے کا انتظام کر دیا جائے» spans the page break | written whole on pdf 443 |
+| 0434 | pdf 444 | footnote figures «مشکوۃ المصابیح: ۴۶۷۰، ۲۵۷۰، کنز العمال: ۲۵۲۹۵» partly blurred | transcribed as read |
