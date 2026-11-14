@@ -40,3 +40,5 @@
 | 104 (pr. 103) | citation | after the citation «(…سنن ابن ماجۃ ۴۰۱۶)» a stray «۱۵» is printed | kept as printed | probably «اہ» (end of quotation) |
 | 104 (pr. 103) | wording | «تم سے ظاہری مسکین میں بھی اچھے ہیں» (for «مساکن») | kept as printed | |
 | 105 (pr. 104) | wording | «اول احیاء العلوم بھی دیکھی تو مگر» (a stray «تو») | kept as printed | |
+| 110–113 (pr. 109–112) | page order | in the PDF the pages of printed 109–112 are bound in reverse order: pdf 110 = pr. 112, pdf 111 = pr. 111, pdf 112 = pr. 110, pdf 113 = pr. 109 | written in reading (printed) order; each page header keeps its real pdf number (`=== 113 | 109`, `=== 112 | 110`, `=== 111 | 111`, `=== 110 | 112`) | the index and site key pages by printed number |
+| 113 (pr. 109) | wording | «شاہ صاحب کا قول بھی نہیں دیکھا تا» | kept as printed | |
