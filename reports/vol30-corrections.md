@@ -60,3 +60,5 @@
 | 188 (pr. 187) | ayah | «کلوا واشربوا» occurs in several ayat (البقرة ۶۰، ۱۸۷؛ الاعراف ۳۱؛ الطور ۱۹ …) | marked الاعراف ۳۱ (the best-known command; the speaker calls it «ایک آیت احکام میں سے») | reversible |
 | 189 (pr. 188) | punctuation | the compiler's note on the بدمذہب بادشاہ story closes «…قابل دید ہے ۱۲ جامع)» with no opening bracket | kept as printed | |
 | 191 (pr. 190) | gloss | the two glosses of the آشفتہ verses are printed in the order: (gloss of verse 1) after «استاد نے اس میں اصلاح کی کہ یوں کہنا چاہئے» and before verse 2 | kept as printed | |
+| 194 (pr. 193) | punctuation | the gloss of the سنجر couplets opens «(ان کو توجہ میں…» and is never closed | kept as printed | |
+| 194 (pr. 193) | attribution | the couplets «چوں چتر سنجری…» are attributed in print to «حضرت غوث اعظم» (they are usually ascribed to Shaykh Abdul Qadir's contemporary, Sanjar's correspondent) | kept as printed; indexed under the existing heads | |
