@@ -32,3 +32,4 @@
 | 172 (pr. 171) | misprint? | «جن کاموں میں اس مضمون کا غلط ہونا نہیں پڑا ہے» — probably «جن کانوں میں … پڑا» | kept as printed | |
 | 174 (pr. 173) | misprints | «مسئلہ مجوثہ» / «مجوث فیہما» for «مبحوثہ» / «مبحوث فیہا» | kept as printed | |
 | 175–176 (pr. 174–175) | 2:219 | the phrase «واثمهما اکبر من نفعهما» runs across the page break | written whole on pdf 175 | |
+| 198 (pr. 197) | Quran wording | 3:153 printed «فَاَصَابَكُمْ غَمًّا بِغَمٍّ» | marked with the reference text «فَاَثَابَكُمۡ» | |
