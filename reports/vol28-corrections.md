@@ -62,3 +62,4 @@
 | 0266 | pdf 279 | «ذوق صحیح پیدا ہوتا ہے اخلاق کے ساتھ عمل کرنے سے» (next words «اخلاص اور عمل صالحہ») | kept as printed (possibly «اخلاص») |
 | 0266 | pdf 283 | heading printed «لین دین کے دو درجے» (text: «لین کے دو درجے») | kept as printed (heading wording) |
 | 0266 | pdf 283 | «اس کے دل میں مصیبت کر کے» (sense «مصیبت دیکھ کر»?) | kept as printed |
+| 0266 | pdf 284 | the unnamed «ولایتی بزرگ» of Allahabad | linked to existing heads «محمدی شاہ صاحب (الہ آباد)» and «حافظ عبد الرحمٰن بکھروی» (same story); reversible |
