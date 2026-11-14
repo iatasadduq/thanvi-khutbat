@@ -150,3 +150,4 @@
 | 344 | 343 | رجاء الغیوب | Title page and date page (pdf 344, top and bottom halves) written as one page. Place printed «کاٹھہ ضلع میرٹھ»; indexed under the existing head «مقام: کاٹھ» (Vol 22 gives کاٹھ, near باغپت). |
 | 345 | 344 | رجاء الغیوب | The khutba is short: بسم اللہ, «اما بعد فقد قال اللہ تعالیٰ», then فاطر ۲۹–۳۰. The citation is printed «(سورۃ الفاطر۔ ۳۰)» after the translation; kept as printed. The printed footnote glossing «عم نوالہ» placed as [حاشیہ]. |
 | 347 | 346 | رجاء الغیوب | «جیسا ابھی مذکور ہوا کہ علم عمل ہی پر مرتب ہوا کرتا ہے» kept as printed; the sense requires «عمل علم ہی پر مرتب ہوا کرتا ہے» (as the previous sentence says). Owner to confirm. Four printed gloss footnotes placed as [حاشیہ]. |
+| 357 | 356 | رجاء الغیوب | «تقدیم دنیا علی الدنیا کا مرتکب» kept as printed (the bazaar example is دنیا over دنیا, so it may be intended; contrast «تقدیم دنیا علی الدین» earlier in the paragraph). |
