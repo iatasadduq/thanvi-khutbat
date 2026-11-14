@@ -59,3 +59,4 @@
 | 187 (pr. 186) | wording | «ایسے انفاق کو تو اسلام ہے» (sense unclear; perhaps «سلام ہے»); «میرا دل تو ایسا ذہین ہے» (for «رقیق»?) | kept as printed | |
 | 188 (pr. 187) | ayah | «کلوا واشربوا» occurs in several ayat (البقرة ۶۰، ۱۸۷؛ الاعراف ۳۱؛ الطور ۱۹ …) | marked الاعراف ۳۱ (the best-known command; the speaker calls it «ایک آیت احکام میں سے») | reversible |
 | 189 (pr. 188) | punctuation | the compiler's note on the بدمذہب بادشاہ story closes «…قابل دید ہے ۱۲ جامع)» with no opening bracket | kept as printed | |
+| 191 (pr. 190) | gloss | the two glosses of the آشفتہ verses are printed in the order: (gloss of verse 1) after «استاد نے اس میں اصلاح کی کہ یوں کہنا چاہئے» and before verse 2 | kept as printed | |
