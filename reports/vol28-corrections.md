@@ -52,3 +52,5 @@
 | 0218 | pdf 249 | couplet print «گر خطا گوئی ورا خاطی مگو / در شود…» | written «گر خطا گوید … ور شود» to match the existing head (Masnavi wording) |
 | 0218 | pdf 249 | print «ایں خطا از صد صواب» vs existing head «صد ثواب» | kept «صواب» (as printed and as in the Masnavi), noted «بصورت» on the head |
 | 0218 | pdf 253 | print «ہمارے اجابی جلسے» | misprint for «احبابی»; written «احبابی» |
+| 0218 | pdf 262 | gloss «جیسے جلندھر والا پیاسا» («جلندھر» = استسقاء/dropsy) | kept as printed |
+| 0218 | pdf 262 | couplet print «اے خوشا سرو کہ ناز بند غم» (head «از بند غم») | kept as printed, «بصورت» on head |
