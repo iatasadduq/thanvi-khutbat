@@ -76,3 +76,4 @@
 | 252 (pr. 251) | hadith | the closing words of the theme hadith are printed «ولکن ینظر الی اعمالکم ونیاتکم» (on pdf 225 they are «نیاتکم واعمالکم») | kept as printed | |
 | 253 (pr. 252) | date | the title page of الاخلاص (حصہ دوم) dates it «۲۵ جمادی الاخریٰ ۱۳۲۹ھ», while حصہ اول (pdf 224) is dated «جمادی الاخریٰ ۱۳۳۹ھ»; part 1 closes promising the rest «پھر کسی وقت», so one of the two years is probably a misprint | both kept as printed | |
 | 283 (pr. 282) | ayah | «والذین امنوا اشد حبا للہ» is printed here in plain (unvocalised) script, quoting البقرة ۱۶۵ already marked on pdf 282; kept as «…» to follow the print | «…» | |
+| 286 (pr. 285) | wording | «پس محقق باوجود تجلیات وجود حقیقی کے مشاہدہ کے وجود اشیاء کو بھی دیکھتا ہے» is printed twice in succession (a dittography); the «ماہمہ شیراں» couplets are also repeated from pdf 284 | kept as printed | |
