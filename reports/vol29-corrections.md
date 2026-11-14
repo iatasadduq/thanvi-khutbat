@@ -132,3 +132,4 @@
 | 283 (pr. 282) | wording | «لیکن جب موسے روانہ ہوئے» («مئو سے»?) | kept as printed | |
 | 284 (pr. 283) | wording | «اس کے مزاج میں بہت خودکشی ہے» («خود داری» intended?) | kept as printed | owner to confirm |
 | 287 | 286 | ادب الطریق | «مگر کسی کو مگر حضرت نے … رکھ دیا یہ جامع رسالہ … نہیں ہوئی یہ توفیق نہ ہوئی» — the sentence «مگر کسی کو یہ توفیق نہ ہوئی» is broken by an inserted note on الانتباہات المفیدہ (apparently the compiler's aside run into the text). Kept as printed; title kept as printed «الانتباہ المفیدہ عن الاشتباہات الجدیدہ». Owner to confirm whether the aside should be a footnote. |
+| 288 | 287 | ادب الطریق | «کیرٹری کے ایک آدمی» kept as printed (place name, reading uncertain — perhaps کیرٹری/کیرٹڑی). «ان کا عالم بھی بہت ہی ناتمام» kept as printed (likely «علم»). Owner to confirm. |
