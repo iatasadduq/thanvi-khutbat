@@ -66,3 +66,4 @@
 | 87 (pr. 86) | ayah | «ان اللہ لا یضیع اجر المحسنین» (also 11:115 with «فان», 12:90 «فان») | marked 9:120 (exact form) | |
 | 90–91 (pr. 89–90) | page break | «…ولد منسوب ہے واطی اور موطو کی طرف… ایک دوسرے پر حرام ہو جائیں گے» spans the break | written whole on pdf 90 | |
 | 91 (pr. 90) | wording | «تو جو اس راستہ پر چلنا شروع کرتا ہے۔ / اتباع علماء کی ضرورت / اس سے بھی…» — the sentence is split by the heading | kept as printed | |
+| 94 (pr. 93) | hadith | «لاصلوٰۃ لمن لم یقر ابام الکتاب» (spacing) | written «لا صلوۃ لمن لم یقرأ بام الکتاب» | |
