@@ -64,3 +64,6 @@
 | 194 (pr. 193) | attribution | the couplets «چوں چتر سنجری…» are attributed in print to «حضرت غوث اعظم» (they are usually ascribed to Shaykh Abdul Qadir's contemporary, Sanjar's correspondent) | kept as printed; indexed under the existing heads | |
 | 217 (pr. 216) | wording | «تو اس کے معنی یہی ہوتے کہ اطاعت اختیار کرو اور باغی نہ بنو» is printed twice in succession (a dittography) | kept as printed | |
 | 225 (pr. 224) | khutba | the khutba ends «اما بعد: اعوذ باللہ من الشیطن الرجیم بسم اللہ الرحمن الرحیم»; the standard khutba text is used (it includes these words) | standard khutba | |
+| 230 (pr. 229) | wording | the Hafiz couplet is printed «حدیث از مطرب و مے گو از دہر کمتر جو» (the usual text has «و راز دہر»; the gloss «زمانہ کے بھید» supports «راز») | kept as printed; indexed under the existing head with بصورت | |
+| 231 (pr. 230) | wording | «محققین من الحقہ» — probably for «من الحمقہ» (a pun: researchers from among the fools); the print is unclear | kept as printed | |
+| 231 (pr. 230) | ayah | «سُبۡحٰنَكَ لَا عِلۡمَ» runs over the page break; the two parts are marked separately on each page as البقرة ۳۲ | split marking | |
