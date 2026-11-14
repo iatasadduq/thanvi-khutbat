@@ -77,3 +77,4 @@
 | 0328 | pdf 353 | «ہمارے حضرت طالبین سے اتنے حالات معلوم کرتے تھے» | taken as حاجی امداد اللہؒ (the usual «ہمارے حضرت»); reversible |
 | 0328 | pdf 360 | «شملہ بمقدار جہل ہو جاوے» (sense unclear) | kept as printed |
 | 0328 | pdf 377–378 | «والضحیٰ والیل اذا سجیٰ (صحیح ترجمہ…» spans the page break | written whole on pdf 377 |
+| 0328 | pdf 393–394 | «…درست کرتا ہے اور رحم و شفقت نے… چونچ بھی تراش دی» spans the page break | written whole on pdf 393 |
