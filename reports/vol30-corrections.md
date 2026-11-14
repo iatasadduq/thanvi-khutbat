@@ -49,3 +49,5 @@
 | 149 (pr. 148) | title page | the title page prints only «دعاء»; no date, place, scribe or audience line | nothing added | the sermon is the closing address of a جلسہ («نظام الاوقات», «ناظم صاحب») |
 | 156 (pr. 155) | quotation | the mulla's altered reading «…اس طرح پڑھنا شروع کیا کہ صحف ابراہیم وموسیٰ» is printed without the added «وعیسیٰ» that the story requires | printed words kept (marked as الاعلیٰ ۱۹) | a word is evidently dropped in print |
 | 156 (pr. 155) | ayah | «سبح اسم ربک الاعلیٰ الذی» runs into the first word of الاعلیٰ ۲ | marked as الاعلیٰ ۱ + ۲ (one word) | |
+| 158 (pr. 157) | index | «ناظم صاحب مولف نظام الاوقات» / «مولوی عبید اللہ صاحب» | indexed under «حضرت مولانا عبید اللہ سندھیؒ» (ناظم جمعیۃ الانصار in the previous address) | identification, reversible |
+| 158 (pr. 157) | verse | the متنبی line is printed «ولا فضل فینا للسماحۃ والندی وفضل الفنی لولا لقاء الشعوب» | «الفتی» for «الفنی» | as the known verse |
