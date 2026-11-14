@@ -31,3 +31,4 @@
 | 169 (pr. 168) | Arabic dua | editor's addition «… دائما ابدا احمد الا یرید قائله الا رضاک» — garbled ending (probably «دائما ابدا لا یرید قائله الا رضاک») | kept as printed | |
 | 172 (pr. 171) | misprint? | «جن کاموں میں اس مضمون کا غلط ہونا نہیں پڑا ہے» — probably «جن کانوں میں … پڑا» | kept as printed | |
 | 174 (pr. 173) | misprints | «مسئلہ مجوثہ» / «مجوث فیہما» for «مبحوثہ» / «مبحوث فیہا» | kept as printed | |
+| 175–176 (pr. 174–175) | 2:219 | the phrase «واثمهما اکبر من نفعهما» runs across the page break | written whole on pdf 175 | |
