@@ -21,3 +21,4 @@
 | 39–40 (pr. 38–39) | page break | «…پوچھا کہ آدھا چوہا کٹ کر… خود مجھے پیش آیا ہے» spans the break | written whole on pdf 39 | |
 | 40–41 (pr. 39–40) | page break | «…دخول جنت کی نفی تو لازم نہیں آتی… جنت کیا ہوئی» spans the break | written whole on pdf 40 | |
 | 42 (pr. 41) | ayah | print «کلا انہ تذکرۃ» (80:11 «انہا») and «انہ تذکرۃ» repeated | marked 80:11 with the Qur'an text «انہا» per the ayah slice; mismatch noted here | |
+| 42–43 (pr. 41–42) | page break | «…عید بقر کے نمازی ہوں ورنہ… راستہ کو طے کرتے ہیں» spans the break | written whole on pdf 42 | |
