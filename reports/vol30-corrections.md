@@ -26,3 +26,4 @@
 | 71 (pr. 70) | gloss | «مثل درخت انگور کاٹنے بڑھتا ہے» (a word such as «سے» seems missing after «کاٹنے») | kept as printed | |
 | 72 (pr. 71) | wording | «ہم اس مقصد عالی تک پہنچ سکتے» (a «نہیں» seems missing); «جیسے بچے نے پر سوار»; «اسی کو وہی عارف جنہوں نے۔» (the sentence breaks off and the hemistich is repeated) | kept as printed | the second hemistich «ہاں مگر پیش نہد لطف شما گامے چند» is printed only at the top of pdf 73, after the gloss that translates it |
 | 76 (pr. 75) | heading | the heading «مراقبہ کے دو درجے» is printed in the middle of a sentence («…تم کو دیکھ رہے ہیں۔ [heading] الفاظ سے نہایت بعید ہے») | kept where printed | |
+| 78 (pr. 77) | wording | «جب اس میں ارادہ نہیں ہوتا فوراً ہاتھ جوڑ دیتے ہیں» (the sense needs «چھوڑ دیتے»); «ارادہ طلب رہتی ہے» | kept as printed | probably misprints |
