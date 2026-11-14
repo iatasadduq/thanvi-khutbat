@@ -96,3 +96,4 @@
 | 420 (pr. 419) | wording | «سلام کے ساتھ ہی فوراً بھاگ گا» (for «بھاگ گیا») kept as printed | kept as printed | |
 | 426 (pr. 425) | punctuation | the bracket opened at «(یہ مضمون غایت تفصیل کے ساتھ وعظ ترک مالایعنی میں…» is not closed; closed after «قابل مطالعہ ہے» | closed | |
 | 436 (pr. 435) | scan | a strip of the scan is blank at three places in «اسلام کے دو وجود ہیں [ایک] اصلی ایک عارضی … اور وجود [عارضی] اہل اسلام کے ساتھ … [اسی کا] آج کل نوحہ ہو رہا ہے»; the gaps are supplied from the sense | supplied | |
+| 439 (pr. 438) | wording | «جو لوگ مددگار رہوں گے» and «معاونین بھی اس وقت بے یار و مددگار رہوں گے» (for «رہیں گے») kept as printed | kept as printed | |
