@@ -124,3 +124,4 @@
 | 274 (pr. 273) | wording | «دماغ میں ییس آ گیا ہے» («یبس» intended) | kept as printed | |
 | 275 (pr. 274) | wording | gloss «مگر ہم سوائے ننگ و نام کے اور کچھ نہیں چاہتے» (the couplet means «ہم ننگ و نام نہیں چاہتے») | kept as printed | owner to confirm |
 | 276 (pr. 275) | gap | «…جو کچھ ہونا ہے مل گئے۔ صاحب اور انہوں نے خود خواہش کی…» (a name before «صاحب» seems dropped) | kept as printed | owner to confirm |
+| 277 (pr. 276) | gap | «وہ …… میں تھے» (place name left blank in the print) | kept as printed | |
