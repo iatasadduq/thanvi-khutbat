@@ -80,3 +80,4 @@
 | 123 (pr. 122) | wording | «ایک مجمع ایسا ہے بے تکلف تھا» | kept as printed | |
 | 126 (pr. 125) | wording | gloss «جس عاشق کو دیکھو اس کو معشوق مت سمجھو» (the couplet says «سمجھو»; «مت» a misprint?) | kept as printed | owner to confirm |
 | 126 (pr. 125) | spelling | couplet «ہر کہ عاشق دید بس معشوق داں» (elsewhere «دیدیش») | kept as printed; head unchanged | |
+| 127 (pr. 126) | wording | «یہ راہ عشق تقرب سے قطع نہیں ہوتا بلکہ تقربت سے ہوتا ہے» | kept as printed | |
