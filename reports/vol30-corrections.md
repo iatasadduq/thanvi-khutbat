@@ -62,3 +62,4 @@
 | 191 (pr. 190) | gloss | the two glosses of the آشفتہ verses are printed in the order: (gloss of verse 1) after «استاد نے اس میں اصلاح کی کہ یوں کہنا چاہئے» and before verse 2 | kept as printed | |
 | 194 (pr. 193) | punctuation | the gloss of the سنجر couplets opens «(ان کو توجہ میں…» and is never closed | kept as printed | |
 | 194 (pr. 193) | attribution | the couplets «چوں چتر سنجری…» are attributed in print to «حضرت غوث اعظم» (they are usually ascribed to Shaykh Abdul Qadir's contemporary, Sanjar's correspondent) | kept as printed; indexed under the existing heads | |
+| 217 (pr. 216) | wording | «تو اس کے معنی یہی ہوتے کہ اطاعت اختیار کرو اور باغی نہ بنو» is printed twice in succession (a dittography) | kept as printed | |
