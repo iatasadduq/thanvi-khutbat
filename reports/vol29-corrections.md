@@ -96,3 +96,4 @@
 | 182 (pr. 181) | scan | a few letters faint («کرایہ دار کو بسا دیا»، «اس کا الٹا ہو رہا ہے»، «اس لیے ضرورت ہے کہ غیر»، «تو ادب سے مہمان داخل آوے»، «میں نہ دنیا») | read from context | owner to confirm the last words of the paragraph |
 | 185 (pr. 184) | wording | «سائنس کی روح سے فلاسفی اس کی یہ ہے» («رو سے» intended?) | kept as printed | |
 | 199 (pr. 198) | ayah | «یدعون من دون اللہ» (16:20, 6:108, 46:5…) | marked 16:20 | |
+| 205 (pr. 204) | wording | «اور ذکر گو غیر اختیاری» («گویا» intended?) | kept as printed | |
