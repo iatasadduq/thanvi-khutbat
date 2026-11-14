@@ -106,3 +106,4 @@
 | 216 (pr. 215) | wording | «قرآن مجید باوجود مجمز ہونے کے» («موجز» intended) | kept as printed | |
 | 222 (pr. 221) | ayah | 21:99 printed «لوکان ہؤلاء الٰہۃ ماوردوہا» (some prints «آلہۃ») | marked with the Qur'an text | |
 | 225 (pr. 224) | scan | left margin faint («تو وہ بھی اسی واسطے»، «کسی وقت خالی نہیں»، «کہ وہ راضی ہو جائے»، «حضرت نہیں بھولتا»؟، «ضروری ہے حاصل یہ ہے») | read from context; «کسی وقت نہیں بھولتا» chosen | owner to confirm |
+| 226 (pr. 225) | ayah | «ان اللہ غفور رحیم» (in 2:173 and many other ayat; the شان نزول that follows fits 39:53 «ان اللہ یغفر الذنوب جمیعا») | marked 2:173 as elsewhere in the series | owner to confirm |
