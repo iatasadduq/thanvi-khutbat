@@ -83,3 +83,5 @@
 | 127 (pr. 126) | wording | «یہ راہ عشق تقرب سے قطع نہیں ہوتا بلکہ تقربت سے ہوتا ہے» | kept as printed | |
 | 129 (pr. 128) | wording | couplet «کہ بیک گل می خرد انبار را» (elsewhere «می خری گلزار را») | kept as printed; head unchanged | |
 | 131 (pr. 130) | wording | «تو اگر تم کو علم ہوگا تو تم دس روپیہ کی چاندی خرید کر روپیہ دے دو گے اور اس میں سود کا گناہ ہوگا» (sense needs «علم نہ ہوگا») | kept as printed | owner to confirm |
+| 141–142 (pr. 140–141) | page break | 26:3 runs over the page break | ayah completed on pdf 141; gloss starts pdf 142 | |
+| 141 (pr. 140) | ayah | 26:3 printed «ان لا یکونوا» | marked with the Qur'an text «الا» | |
