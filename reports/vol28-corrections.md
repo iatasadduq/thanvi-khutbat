@@ -80,3 +80,5 @@
 | 0328 | pdf 393–394 | «…درست کرتا ہے اور رحم و شفقت نے… چونچ بھی تراش دی» spans the page break | written whole on pdf 393 |
 | 0328 | pdf 395–396 | «…جواب دیتا ہو کہ میاں اصل چیز تو یہی ہے… وجود ہی نہیں ہو سکتا» spans the page break | written whole on pdf 395 |
 | 0328 | pdf 396 | «بیوی بچے سب غارت ہو گئی» (agreement as printed) | kept as printed |
+| 0328 | pdf 397–398 | «لو کان ہذا العلم…» couplets begin pdf 398 after the attribution line on pdf 397 | couplets written on pdf 398 as printed |
+| 0328 | pdf 398–399 | «…یہ الحاد ہے اور دہریت ہے اور زندقہ ہے» spans the page break | written whole on pdf 398 |
