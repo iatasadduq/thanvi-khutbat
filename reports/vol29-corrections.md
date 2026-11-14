@@ -140,3 +140,4 @@
 | 299 | 298 | العفۃ | Two ayat are quoted (الفجر ۱۹–۲۰), but the citation is printed «(الفجر آیت نمبر ۱۹)»; kept as printed. |
 | 302 | 301 | العفۃ | «افضل الصدقۃ عن ظہر غنی» is glossed in print as «(بہترین صدقہ چھپا کر دینا ہے)», which does not match the hadith (عن ظہر غنی = after one's needs are met); kept as printed. Owner to confirm. Two printed footnotes placed as [حاشیہ]. |
 | 304 | 303 | العفۃ | Hadith printed «ان سعدا لغیورو انا اغیر منہ» — the joined «لغیورو» is read as «لغیور وانا». «غیر پر نظریوں تو» kept as printed (probably «نظر، یوں تو»). Printed footnote placed as [حاشیہ]. |
+| 308 | 307 | العفۃ | Hadith printed «افعمیا وان انتما لستما تبصرانہ»; written «افعمیاوان انتما الستما تبصرانہ» (the standard wording, with the question الستما). Owner to confirm. Printed footnote placed as [حاشیہ]. |
