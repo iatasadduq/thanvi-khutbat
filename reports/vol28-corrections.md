@@ -68,3 +68,4 @@
 | 0266 | pdf 288 | gloss «کچھ دن حکمت یونانی یعنی معرفت کی کتاب تو پڑھو» (couplet says «حکمت ایمانیاں») | kept as printed |
 | 0266 | pdf 291 | print «لولا الاعتبارات لبطل الحکمۃ» | written «لبطلت» (feminine agreement; matches the existing head) |
 | 0266 | pdf 303 | 3:191 quoted «یَتَفَکَّرُوْنَ فِیْ خَلْقِ …» (mushaf «وَيَتَفَكَّرُوۡنَ») | slice keeps the mushaf «وَ» |
+| 0266 | pdf 304 | «اُخْرُجْ مِنْهَا فَاِنَّکَ رَجِیْمٌ وَاِنَّ عَلَیْکَ لَعْنَتِیْ» | marked 38:77–78 («لعنتی» fixes it to ص, not 15:34–35); print «اُخْرُجْ» for mushaf «فَاخۡرُجۡ», slice from «اخرج» |
