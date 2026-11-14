@@ -104,3 +104,4 @@
 | 213 (pr. 212) | citation | «(الزمر: ۱۷، ۱۸)» after the khutba ayat | written «(الزمر آیت نمبر ۱۷، ۱۸)» as elsewhere in the volume (the colon form was read as Arabic by the checker) | |
 | 215 (pr. 214) | ayah | «لہم البشرے» (twice) | marked 39:17 «لَهُمُ الۡبُشۡرٰي» | |
 | 216 (pr. 215) | wording | «قرآن مجید باوجود مجمز ہونے کے» («موجز» intended) | kept as printed | |
+| 222 (pr. 221) | ayah | 21:99 printed «لوکان ہؤلاء الٰہۃ ماوردوہا» (some prints «آلہۃ») | marked with the Qur'an text | |
