@@ -126,3 +126,6 @@
 | 0418 | pdf 430 | «تقریر ادب الاعام ختم ہوئی» (typo for «الاعلام») | written «ادب الاعلام» |
 | 0418 | pdf 429 | «کھداج (خداج خداج)» in bold Arabic type | marked «کھداج» as Arabic, gloss kept |
 | 0418 | pdf 430 | centred line «تقریر ادب الاعلام ختم ہوئی» (mark_arabic flags the short line) | joined to the following paragraph with «۔» |
+| 0418 | pdf 431 | «میرے بھائی محمد مظہر» | head «شخصیت: منشی محمد مظہر علی» (برادر خورد) reused |
+| 0418 | pdf 431 | «سلطنت کے فقہ پر نہیں چل سکتی بوائے فقہ حنفی کے» («کسی فقہ پر … سوائے» intended?) | kept as printed |
+| 0418 | pdf 431–432 | «…خود سننے سے معلوم ہوتا ہے کہ جیسے کسی کو چھیڑتے ہوں» spans the page break | written whole on pdf 431 |
