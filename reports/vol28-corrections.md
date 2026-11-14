@@ -125,3 +125,4 @@
 | 0418 | pdf 429–430 | «…اور فروع میں تقلید نہیں کرتے حالانکہ اصول زیادہ اہم ہیں» spans the page break | written whole on pdf 429 |
 | 0418 | pdf 430 | «تقریر ادب الاعام ختم ہوئی» (typo for «الاعلام») | written «ادب الاعلام» |
 | 0418 | pdf 429 | «کھداج (خداج خداج)» in bold Arabic type | marked «کھداج» as Arabic, gloss kept |
+| 0418 | pdf 430 | centred line «تقریر ادب الاعلام ختم ہوئی» (mark_arabic flags the short line) | joined to the following paragraph with «۔» |
