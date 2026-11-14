@@ -43,3 +43,4 @@
 | 110–113 (pr. 109–112) | page order | in the PDF the pages of printed 109–112 are bound in reverse order: pdf 110 = pr. 112, pdf 111 = pr. 111, pdf 112 = pr. 110, pdf 113 = pr. 109 | written in reading (printed) order; each page header keeps its real pdf number (`=== 113 | 109`, `=== 112 | 110`, `=== 111 | 111`, `=== 110 | 112`) | the index and site key pages by printed number |
 | 113 (pr. 109) | wording | «شاہ صاحب کا قول بھی نہیں دیکھا تا» | kept as printed | |
 | 115 (pr. 114) | tool | mark_arabic read the Persian couplet «عشق جان طور آمد عاشقا ☆ طور مست وخر موسیٰ صاعقا» (Masnavi) as Arabic | added to the tool's NOT_ARABIC list, as earlier volumes did for single lines | other volumes' counts unchanged |
+| 120 (pr. 119) | title | the title page prints «العزة» (Arabic ة) and the scribe as «مو۔ عبد اللہ صاحب» | «العزۃ» as in the table of contents; «مولوی عبد اللہ صاحب» | |
