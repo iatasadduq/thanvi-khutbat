@@ -52,3 +52,6 @@
 | 68 (pr. 67) | couplet | «یار باید راہ را تنہا مرد / بے قلاوز اندریں صحرا مرد» («مرو» intended, as the gloss shows) | written «مرو» | |
 | 68 (pr. 67) | wording | «جب تک محقق مل سکے اس وقت تک کتاب سے سلوک طے نہ کرو» | kept as printed | |
 | 71–72 (pr. 70–71) | page break | «پھر جب ان / کی شرکت سے دو دل یک شود بشکند کوہ را ہمارے حاجی صاحب…» — sentence breaks off into the couplet | the couplet phrase written at the end of pdf 71 as printed; rest on pdf 72 | |
+| 74–75 (pr. 73–74) | page break | «…اپنے ناز کا علاج کر لے کہ تمہاری مشیت… کچھ بھی نہ ہوتا» spans the break | written whole on pdf 74 | |
+| 75 (pr. 74) | wording | «سب کا مطابق ہونا» («مناسب»/«حکمت کے مطابق» intended?); «پس بعض کائنات مظہر ہیں۔ جمال کے بعض جلال کے» (punctuation as printed) | kept as printed | |
+| 75 (pr. 74) | sermon end | الرحیل الی الخلیل ends on pdf 75 (printed 74) with «آمین»; سبیل السعید title page is pdf 76 | file 0018 covers pdf 18–75 | |
