@@ -114,3 +114,5 @@
 | 246 (pr. 245) | ayah | «الذین آمنوا فزادتہم ایمانا وہم یستبشرون» (9:124, printed without «فاما») | marked 9:124 from «الذین» | |
 | 246 (pr. 245) | spelling | couplet «کوئے نومیدی مرد… سوئے تاریکی مرد» («مرو» intended) | kept as printed; head unchanged | |
 | 249 (pr. 248) | spelling | «ہائیسکوپ» | written «بائیسکوپ» | |
+| 255 (pr. 254) | ayah | «فاما من خاف مقام ربہ» (79:40 has «واما») | marked 79:40 from «من» | |
+| 255 (pr. 254) | wording | «اور جب رنج پر ہوگا» (twice; «گھر پر»?) | kept as printed | owner to confirm |
