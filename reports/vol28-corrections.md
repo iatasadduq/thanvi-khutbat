@@ -34,3 +34,4 @@
 | 175–176 (pr. 174–175) | 2:219 | the phrase «واثمهما اکبر من نفعهما» runs across the page break | written whole on pdf 175 | |
 | 198 (pr. 197) | Quran wording | 3:153 printed «فَاَصَابَكُمْ غَمًّا بِغَمٍّ» | marked with the reference text «فَاَثَابَكُمۡ» | |
 | 202 (pr. 201) | misprint in couplet | «چو پیوند ہا جس کی واصلی» for «چو پیوند ہا بگسلی واصلی» | kept as printed; index head the existing one with «بصورت» | |
+| 206 (pr. 205) | hadith misprints | «والاذنان ترنیان … والید ان ترنیان» for «تزنیان» / «والیدان تزنیان» | kept as printed | |
