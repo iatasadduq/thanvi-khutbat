@@ -91,3 +91,5 @@
 | 156 (pr. 155) | ayah | «فاعرض عنہم» (4:63, 4:81, 32:30) | marked 32:30, as elsewhere in the series | |
 | 162 (pr. 161) | wording | «اس سے ہمارے من سمجھوتہ کرنے کے لیے گھڑلی ہیں» (words missing?) | kept as printed | owner to confirm |
 | 169 (pr. 168) | wording | «ایک میں مرغا بچہ نکلوا لیں گے» (likely «ایک میں مرغی ایک میں مرغا»; words dropped?) | kept as printed | |
+| 171 (pr. 170) | wording | couplet «گہ اسپہاؤ باغ و راغ / گہ خیال مغز دماغ و لیغ و لاغ» (garbled? the مثنوی has «گہ خیال نفع و گاہے خوف داغ»-type lines) | kept as printed | owner to confirm |
+| 171 (pr. 170) | placement | gloss «(اگر یہ کہا جائے کہ بلا خیال کے دنیا کا کام ہوتا ہی نہیں…)» follows the first couplet but is the objection, not its gloss | kept as printed | |
