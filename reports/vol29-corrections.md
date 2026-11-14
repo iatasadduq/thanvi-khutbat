@@ -36,3 +36,4 @@
 | 52 (pr. 51) | couplet | Persian couplet «دریں دریائے بے پایاں… دل افگندیم بسم اللہ مجریہا ومرسہا» ends with a Qur'anic phrase | Persian part written as a couplet line, the phrase marked 11:41 | |
 | 52–53 (pr. 51–52) | page break | «…مقصود سے رہ جائے گا مگر یہ اس کی حماقت ہے… جو یوں کہتا ہے» spans the break | written whole on pdf 52 | |
 | 55 (pr. 54) | couplet | first hemistich printed «سیر زاہد ہر دمے یکسالہ راہ» but the gloss reads «ایک مہینہ میں» (standard «در مہے») | kept as printed; head «بصورت» | |
+| 57 (pr. 56) | parenthesis | «(اور نہ ان کا اثبات فرماتے ہیں…» opens a parenthesis never closed before the editor's «(مگر جاننے والا… ۱۲ جامع)» | kept as printed | |
