@@ -27,3 +27,4 @@
 | 154 (pr. 153) | slip | «رسول اللہ صلی اللہ علیہ السلام» | kept as printed | |
 | 155 (pr. 154) | misprint? | «ہر طالب علمے کو چون و چرا نکند … در چراگاہ باید فرست» — probably «کہ» and «فرستاد»; also «بلکہ وہ تو محض کسب تکوینی سے» (probably «کشف تکوینی») | kept as printed | |
 | 158 (pr. 157) | history | «یونان نے ترکی حکومت کو شکست دے کر ادریانوپل وغیرہ فتح کر لئے تھے» — Adrianople fell in 1913 to Bulgaria (with Serbia), not Greece | kept as printed | |
+| 168 (pr. 167) | misprints | «بلاد سباط» for «سبا»; «من لم شکر الناس» drops «یَ» | kept as printed | |
