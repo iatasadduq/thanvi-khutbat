@@ -22,3 +22,5 @@
 | 40–41 (pr. 39–40) | page break | «…دخول جنت کی نفی تو لازم نہیں آتی… جنت کیا ہوئی» spans the break | written whole on pdf 40 | |
 | 42 (pr. 41) | ayah | print «کلا انہ تذکرۃ» (80:11 «انہا») and «انہ تذکرۃ» repeated | marked 80:11 with the Qur'an text «انہا» per the ayah slice; mismatch noted here | |
 | 42–43 (pr. 41–42) | page break | «…عید بقر کے نمازی ہوں ورنہ… راستہ کو طے کرتے ہیں» spans the break | written whole on pdf 42 | |
+| 45 (pr. 44) | ayah | «فقلیلا ما یؤمنون (سورہ…)» | marked 2:88 (exact words) | also 4:46 «فلا یؤمنون الا قلیلا» |
+| 45–46 (pr. 44–45) | page break | «…یہاں معنی امر مراد نہیں» continues on pdf 46 | kept at the break | |
