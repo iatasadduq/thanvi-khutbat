@@ -129,3 +129,4 @@
 | 278 (pr. 277) | wording | «الدین نصح» (hadith «الدین النصیحۃ») | kept as printed; head الدین النصیحۃ | |
 | 281 (pr. 280) | wording | «اسی شعر میں مولانا کے شعر مذکور سے ادب از زید ہے» («ادب ازید» = more courteous?; elsewhere the series says Rumi is the more courteous) | kept as printed | owner to confirm |
 | 282 (pr. 281) | context | ادب الاعتدال opens at اعظم گڑھ (journey to الٰہ آباد, بھرت پور, سرائے میر, فتح پور), while the title page gives «۸ ربیع الثانی ۱۳۳۰ ہجری بمقام میرٹھ ریل میں» | kept as printed | owner to confirm |
+| 283 (pr. 282) | wording | «لیکن جب موسے روانہ ہوئے» («مئو سے»?) | kept as printed | |
