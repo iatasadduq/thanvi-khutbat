@@ -35,3 +35,7 @@
 | 198 (pr. 197) | Quran wording | 3:153 printed «فَاَصَابَكُمْ غَمًّا بِغَمٍّ» | marked with the reference text «فَاَثَابَكُمۡ» | |
 | 202 (pr. 201) | misprint in couplet | «چو پیوند ہا جس کی واصلی» for «چو پیوند ہا بگسلی واصلی» | kept as printed; index head the existing one with «بصورت» | |
 | 206 (pr. 205) | hadith misprints | «والاذنان ترنیان … والید ان ترنیان» for «تزنیان» / «والیدان تزنیان» | kept as printed | |
+| 0218 | pdf 220–221 | «ایہا القاضی بقم قد عزلناک فقم» spans the page break («ایہا القاضی» / «بقم قد عزلناک فقم») | written whole on pdf 220 |
+| 0218 | pdf 221 | print «الا ہذہ السبحہ» | misprint of «السجعۃ» (the same story's head elsewhere; «سجعہ» = rhyme, which the Urdu gloss «قافیہ» confirms); written «السجعۃ» |
+| 0218 | pdf 219–220 | heading «عمل کلی» and «یہ ایک عمل کلی ہے» (context «حکم کلی/قانون کلی» would fit) | kept as printed, used three times consistently |
+| 0218 | pdf 220 | partial ayah «تقولون بافواہکم ما لیس لکم بہ علم» (print omits the leading «و») | slice 24:15 words 3–9 with «وَ» dropped |
