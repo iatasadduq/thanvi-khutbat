@@ -65,3 +65,4 @@
 | 381 (pr. 380) | misprint | «یہ اسماء متقین من الحدیث ہیں» | kept as printed | sense needs «مشتقین» (names derived from the hadith) |
 | 383 (pr. 382) | text | the bottom of the scan is cut off: «جس میں اتنا عموم ض… کلام میں عموم ضرورت ہے… بلکہ اگر سب کر…» (the next page begins «جائے گا کیونکہ…») | missing words marked «[…]» | probably «ضرورت نہیں اور تقلیل کلام» and «کرنے لگیں تو …»; owner to supply from another copy |
 | 385 (pr. 384) | misprint | «بلکہ مقصود طریق اعمال ہی نہیں» | kept as printed | sense needs «اعمال ہی ہیں» |
+| 402 (pr. 401) | misprint | «اور کنیات متعارضہ میں معیت» | kept as printed | probably «کیفیات متعارضہ» |
