@@ -14,3 +14,4 @@
 | 105 (pr. 104) | garbled sentence | «باقی سب مخلوق اس کی نظر سے غایت ہیں» (غائب?) and «کسی نے مسجد کی دیوار سے بھی اخفاء کا اہتمام ہے دوسرے عارف کو بجز مظہر حق او مرآۃ جمال حق نظر آتی ہے» (probably «کسی کو… اہتمام کیا ہے؟ دوسرے عارف کو [ہر شے] بجز مظہر حق اور مرآۃ…») | kept as printed | owner to check |
 | 106 (pr. 105) | misprints in couplets | «حملہ شاں از باز باشد» for «از باد»; «حملہ شاں و ناپیداست باد» drops «پیدا» (the usual «حملہ شاں پیدا و ناپیداست باد») | kept as printed; index heads are the existing ones with «بصورت» | |
 | 107 (pr. 106) | misprint in couplet | «یک دہاں پنہاں ست در رب ہائے وے» for «در لبہائے وے» (the gloss has «لبوں میں») | kept as printed | |
+| 107–108 (pr. 106–107) | 28:30 | the ayah fragment «اِنِّیْۤ اَنَا اللّٰہُ رَبُّ الْعٰلَمِیْنَ» runs across the page break | written whole on pdf 107 (as in Vol 27) | |
