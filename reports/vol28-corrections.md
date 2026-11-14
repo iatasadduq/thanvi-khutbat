@@ -102,3 +102,5 @@
 | 0328 | pdf 415 | «برنگ اصحاب صورت بوارباب معنی را» (standard «را ببو ارباب») | kept as printed, spaced «بو ارباب»; head records «بصورت» |
 | 0328 | pdf 415 | «ان کی ضرورت کا بیان پرسوں کے وعظ میں» («اس کی» or «باطن کی» intended?) | kept as printed |
 | 0328 | pdf 415–416 | «…کہ یہ بھی تو وعدہ خلافی ہے… ہر شخص چاہتا ہے» spans the page break | written whole on pdf 415 |
+| 0328 | pdf 416–417 | «…کہ ان کے حقوق کو ادا کیا جاوے کہ اس کا حق یہ ہے کہ اس کی عبادت کی جاوے» spans the page break | written whole on pdf 416 |
+| 0328 | pdf 417 | الظاہر ends on pdf 417 (printed 416); ادب الاعلام title page is pdf 418 | sermon file 0328 covers pdf 328–417 |
