@@ -93,3 +93,4 @@
 | 401 (pr. 400) | punctuation | the gloss of the closing couplets opens «(اس راہ سلوک…» with no closing bracket; closed after «بن جائے گا» | closed | |
 | 403 (pr. 402) | wording | the khutba hadith ends «وفیہم عود» (for «تعود»), and has «مساجد ہم» / «علماء ہم» split; written «وفیہم تعود», «مساجدہم», «علماؤہم» | corrected | |
 | 403 (pr. 402) | wording | «انفسی وروحی فداہ» (the first letter is unclear in the scan) written «نفسی وروحی فداہ» — reversible | corrected | |
+| 420 (pr. 419) | wording | «سلام کے ساتھ ہی فوراً بھاگ گا» (for «بھاگ گیا») kept as printed | kept as printed | |
