@@ -401,7 +401,7 @@ owner rejects (DIFFERS decisions also go in quran-decisions.tsv so they survive 
   اسباب الفتنہ 17, الحج 93, النعم المرغوبۃ فی النعم المرکوبۃ 135, ترجیح المفسدہ علی المصلحہ 170, غض البصر 187,
   مظاہر الاقوال 217, ازالۃ الغین عن آلۃ العین 266, الظاہر 327, ادب الاعلام 417, ادب العشیر 433; each file named after its
   title pdf page (check each title page). `toc.tsv` has the 10 sermon rows. Page images in the scratchpad `h28/`.
-  Corrections: `reports/vol28-corrections.md`. Transcribed so far: اسباب الفتنہ (file 0018, pdf 18–93), الحج (file 0094, pdf 94–135), النعم المرغوبۃ فی النعم المرکوبۃ (file 0136, pdf 136–169), ترجیح المفسدہ علی المصلحہ (file 0170, pdf 170–187) done. Next: غض البصر, title page pdf 188 (file 0188).
+  Corrections: `reports/vol28-corrections.md`. Transcribed so far: اسباب الفتنہ (file 0018, pdf 18–93), الحج (file 0094, pdf 94–135), النعم المرغوبۃ فی النعم المرکوبۃ (file 0136, pdf 136–169), ترجیح المفسدہ علی المصلحہ (file 0170, pdf 170–187), غض البصر (file 0188, pdf 188–217) done. Next: مظاہر الاقوال, title page pdf 218 (file 0218).
 - Volume 22 (ذکر و فکر): done (see Status).
 - Volume 23 (راہ نجات): done 2026-11-12/13 (see Status). Vol 23 work from p. 313 on was committed to the session
   branch `ccr-bb695273-iwt8zr` (based on `claude/intelligent-rubin-6nl3vu`); merge it into the main working branch.
