@@ -34,3 +34,5 @@
 | 88 (pr. 87) | wording | «نیند آئی تو وقت کے بہت آنکھ کھلی» (a word such as «بعد» seems missing) | kept as printed | |
 | 91 (pr. 90) | punctuation | «(مجاہدہ حقیقیہ یعنی…» — the bracket opened before item (1) is closed only after «…۱۲ جامع)», and the number «(۱)» is not printed | kept as printed | |
 | 95 (pr. 94) | gloss | the couplet «دلبراں گر دلبری…» has two glosses printed one after the other | both kept | |
+| 96–97 (pr. 95–96) | quotation | the compiler's Arabic note («قلت ویشہد لہ حدیث…») runs across the page break and contains التوبة ۱۸ | split into «…» before and after the ayah; closed at the page end | |
+| 97 (pr. 96) | citation | «مشکوٰۃ ۷۲۳۵» is printed for the hadith in a note that ends «لعذر آخر» | «مشکوٰۃ ۷۲۳» | the 5 is part of the bracket; the Mishkat number for this hadith is 723 |
