@@ -113,3 +113,4 @@
 | 238 (pr. 237) | spelling | «کوئے نا امیدی مرد کامید ہاست» («مرو» intended) | kept as printed; head unchanged | |
 | 246 (pr. 245) | ayah | «الذین آمنوا فزادتہم ایمانا وہم یستبشرون» (9:124, printed without «فاما») | marked 9:124 from «الذین» | |
 | 246 (pr. 245) | spelling | couplet «کوئے نومیدی مرد… سوئے تاریکی مرد» («مرو» intended) | kept as printed; head unchanged | |
+| 249 (pr. 248) | spelling | «ہائیسکوپ» | written «بائیسکوپ» | |
