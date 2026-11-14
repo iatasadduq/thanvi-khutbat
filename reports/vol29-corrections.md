@@ -61,4 +61,5 @@
 | 80–81 (pr. 79–80) | page break | «…بندہ کو دانت گھسائی دیتے ہیں… اس کے ترک میں تکلف ہوتا ہے» spans the break | written whole on pdf 80 | |
 | 82 (pr. 81) | heading | heading «محبت کا اثر» printed twice in succession | both kept as printed | |
 | 83 (pr. 82) | couplet | «بجرم عشق تو ام می کشند و غو غائیست / تو نیز بر سر بام آ کہ خوشنما شائیست» (spacing misprints) | written in the standard form «توام… غوغائیست… خوش تماشائیست» | |
-| 83–84 (pr. 82–83) | page break | «…جو اس میں عارضی گرانی اور» continues on pdf 84 | kept at the break | |
+| 83–84 (pr. 82–83) | page break | «…عارضی گرانی اور مشقت آ جاتی ہے… کیسی محبت ہوتی ہے» spans the break | written whole on pdf 83 | |
+| 84 (pr. 83) | repeat | the رام پور قبض/خودکشی story is told again (also pdf 71 of الرحیل الی الخلیل) | transcribed as printed; same index head | |
