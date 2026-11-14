@@ -39,3 +39,5 @@
 | 0218 | pdf 221 | print «الا ہذہ السبحہ» | misprint of «السجعۃ» (the same story's head elsewhere; «سجعہ» = rhyme, which the Urdu gloss «قافیہ» confirms); written «السجعۃ» |
 | 0218 | pdf 219–220 | heading «عمل کلی» and «یہ ایک عمل کلی ہے» (context «حکم کلی/قانون کلی» would fit) | kept as printed, used three times consistently |
 | 0218 | pdf 220 | partial ayah «تقولون بافواہکم ما لیس لکم بہ علم» (print omits the leading «و») | slice 24:15 words 3–9 with «وَ» dropped |
+| 0218 | pdf 222 | print «مقصود کو اللہ کے تابع کیا جائے» (after «الفاظ تو آلہ محضہ ہیں») | misprint for «آلہ»; written «مقصود کو آلہ کے تابع» |
+| 0218 | pdf 222 | print «گویدم میندیش» | written «مندیش» to match the couplet's existing head; spelling variant only |
