@@ -74,3 +74,4 @@
 | 248 (pr. 247) | attribution | the couplet «نقض امر از کسر…» is introduced «مولانا الٰہی بخش فرماتے ہیں» (Mawlana Ilahi Bakhsh Kandhlawi's completion of the Masnavi) while the Ayaz story is credited to «مولانا» (Rumi) | kept as printed | |
 | 252 (pr. 251) | hadith | the hadith is printed «نعم المال للرجل الصالح» (the usual wording is «نعم المال الصالح للرجل الصالح», which the gloss «نیک آدمی کے لئے نیک مال» renders) | kept as printed; indexed under the existing head with بصورت | |
 | 252 (pr. 251) | hadith | the closing words of the theme hadith are printed «ولکن ینظر الی اعمالکم ونیاتکم» (on pdf 225 they are «نیاتکم واعمالکم») | kept as printed | |
+| 253 (pr. 252) | date | the title page of الاخلاص (حصہ دوم) dates it «۲۵ جمادی الاخریٰ ۱۳۲۹ھ», while حصہ اول (pdf 224) is dated «جمادی الاخریٰ ۱۳۳۹ھ»; part 1 closes promising the rest «پھر کسی وقت», so one of the two years is probably a misprint | both kept as printed | |
