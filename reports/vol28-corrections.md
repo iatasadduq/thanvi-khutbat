@@ -18,3 +18,4 @@
 | 118 (pr. 117) | misprint? | «تو اگر وان علی الافتراض نہ ہوتا ہم» — probably «تو اگر دال علی الافتراض نہ ہو تاہم» | kept as printed | |
 | 123 (pr. 122) | spelling | «درمختار و ردالمختار» for «رد المحتار» | kept as printed; index head «رد المحتار» | |
 | 125 (pr. 124) | parenthesis | the editor's note «قلت و اخرج الحاکم … و صححه هو و الذهبی ص ۱۱۹ ج ۱)» closes a parenthesis that never opens | kept as printed | |
+| 130 (pr. 129) | Quran wording | 4:93 printed «وَمَنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدًا» | marked with the reference text «وَمَنۡ يَّقۡتُلۡ مُؤۡمِنًا مُّتَعَمِّدًا» | |
