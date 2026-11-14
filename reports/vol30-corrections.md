@@ -69,3 +69,4 @@
 | 231 (pr. 230) | ayah | «سُبۡحٰنَكَ لَا عِلۡمَ» runs over the page break; the two parts are marked separately on each page as البقرة ۳۲ | split marking | |
 | 233 (pr. 232) | reference | the editorial reference for «الحمد للہ الذی رد کیدہ الی الوسوسۃ» reads «سنن ابی داؤد ۱۲۵۱»; the hadith is Abu Dawud no. 5112 (کتاب الادب) — the printed number looks garbled | kept as printed | |
 | 239 (pr. 238) | wording | «اس میں مشغول ہونے سے اس طرف توجہ نہ ہوتی غرض ایسا تزین جس میں شب و روز» is printed twice in succession (a dittography) | kept as printed | |
+| 246 (pr. 245) | wording | «ہم نے احسان کیا تھا» is printed twice in succession in the ilham sentence (a dittography) | kept as printed | |
