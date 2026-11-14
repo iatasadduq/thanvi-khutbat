@@ -32,4 +32,5 @@
 | 48–49 (pr. 47–48) | page break | «…خلاف اصل ہے اس لیے میرے نزدیک یہاں علیٰ بمعنی الی ہے…» spans the break | written whole on pdf 48 | |
 | 49 (pr. 48) | ayah | «ہذا بصائر من ربکم وہدی ورحمۃ لقوم یؤمنون» (7:203; 45:20 has «للناس… یوقنون», which the translation «عام لوگوں… یقین لانے والوں» follows) | marked 7:203, matching the Arabic printed | |
 | 50 (pr. 49) | ayah | print «لقد جاءکم من اللہ نور» (Qur'an 5:15 «قد جاءکم») | marked 5:15 from «قد» | |
-| 51–52 (pr. 50–51) | page break | «…بعض لوگوں نے جرس سے بنا بر غلو شغل انحد» continues on pdf 52 | kept at the break | |
+| 51–52 (pr. 50–51) | page break | «…شغل انحد کی صورت مراد لی ہے… ہوا متموج فی الصماخ کی صورت ہے» spans the break | written whole on pdf 51 | |
+| 52 (pr. 51) | couplet | Persian couplet «دریں دریائے بے پایاں… دل افگندیم بسم اللہ مجریہا ومرسہا» ends with a Qur'anic phrase | Persian part written as a couplet line, the phrase marked 11:41 | |
