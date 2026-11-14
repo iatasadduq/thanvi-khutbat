@@ -70,3 +70,4 @@
 | 412 (pr. 411) | misprint | «کلید مثنوی دفتر اول قبول کردن خلیفہ ہدیہ راتحت شعر گنج مخفی بدز پیری جوش کرد» | kept as printed | probably «…ہدیہ را، تحت شعر گنج مخفی بد ز پُری جوش کرد»; «ہشد ہم» probably «ہشتم» or «ہژدہم» |
 | 415 (pr. 414) | parenthesis | the compiler's note ends «خوب سمجھ لو ۱۲ جامع)» with no opening bracket | kept as printed | the note probably begins at «اور اس واقعہ سے یہ شبہ نہ ہو» |
 | 423 (pr. 422) | misprint | «ایک پورانے مولوی صاحب» | kept as printed | probably «پرانے» |
+| 424 (pr. 423) | misprints | «جماعت سے بھی روک دیا گیا»; «یہ حاصل ہے دوسری تفسیر کا واللہ علم»; «تنزیہ کا حال استغناء ہے» | kept as printed | sense needs «جماع سے», «واللہ اعلم», «حاصل» |
