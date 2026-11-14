@@ -82,3 +82,4 @@
 | 0328 | pdf 396 | «بیوی بچے سب غارت ہو گئی» (agreement as printed) | kept as printed |
 | 0328 | pdf 397–398 | «لو کان ہذا العلم…» couplets begin pdf 398 after the attribution line on pdf 397 | couplets written on pdf 398 as printed |
 | 0328 | pdf 398–399 | «…یہ الحاد ہے اور دہریت ہے اور زندقہ ہے» spans the page break | written whole on pdf 398 |
+| 0328 | pdf 399–400 | «…اس وقت وہ روپیہ جس کو تمام عمر… مطلوب نہیں رہا» spans the page break | written whole on pdf 399 |
