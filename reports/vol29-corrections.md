@@ -76,4 +76,3 @@
 | 115 (pr. 114) | spelling | «اس کا مرض نہیں پہنچانا» | written «پہچانا» | |
 | 117 (pr. 116) | spelling | «چونکہ برمنت بہ بندد» | written «بر میخت» (the مثنوی's word, as elsewhere in the series) | |
 | 117 (pr. 116) | wording | «اگر یہ حدیث ثابت بھی نہ ہوتو تو» | kept as printed | |
-| 117 (pr. 116) | heading | «ذکروشغل کے قیود وقربات مقصود نہیں» («قربات» for «ضربات»?) | heading kept as printed | |
