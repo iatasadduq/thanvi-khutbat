@@ -6,3 +6,5 @@
 | 42 (pr. 41) | parenthesis | «(بلکہ مردوں کے ثواب کا کھانا…» opens a parenthesis that is never closed | kept as printed | |
 | 54 (pr. 53) | heading vs text | heading «حکایت حضرت بایزید بسطامیؒ» but the story under it is told of «حضرت جنید بغدادی رحمۃ اللہ علیہ» | heading and text kept as printed; index head is the existing «جنید بغدادیؒ اور سولی پر لٹکا چور» | owner to decide whether the heading should read جنید بغدادیؒ |
 | 67–68 (pr. 66–67) | parenthesis | pdf 68 begins «ہیں ۱۲) پھر ان کی وجہ…» — a closing parenthesis with the editor's «۱۲» whose opening is not printed on pdf 67 (the editor's note probably began at «اور اتنے طویل کلام میں…» or «ہاں کہیں کہیں تسامحات…») | kept as printed | owner to check |
+| 75 (pr. 74) | misprint? | «پھر یہ لفظ ربا مفرداً بو فارسی میں بھی مہمل ہے» — «بو» probably for «تو» | kept as printed | |
+| 75 (pr. 74) | spelling | gloss «ارکین سلطنت» for «ارکان» | kept as printed | |
