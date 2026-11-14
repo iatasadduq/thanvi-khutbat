@@ -90,3 +90,4 @@
 | 388 (pr. 387) | punctuation | an opening bracket before «دنیا کی لذت اور مناصب…» has no closing bracket (the paragraph is the author's text, not a gloss); dropped | dropped | |
 | 388 (pr. 387) | punctuation | the gloss of «مستریح او مستراح منہ» opens «(یعنی…» with no closing bracket; closed after «راحت ہو گئی» | closed | |
 | 388 (pr. 387) | wording | the hadith is printed «هل ترزقون تنصرون الا بضعفاكم» (no واو, «بضعفاكم» for «بضعفائكم»); written «ہل ترزقون وتنصرون الا بضعفائکم» — reversible | corrected | |
+| 401 (pr. 400) | punctuation | the gloss of the closing couplets opens «(اس راہ سلوک…» with no closing bracket; closed after «بن جائے گا» | closed | |
