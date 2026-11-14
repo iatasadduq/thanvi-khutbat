@@ -24,3 +24,4 @@
 | 138 (pr. 137) | misprint? | «اس کے عیوب سے تطلیف بھی زیادہ ہوتی ہے» — «تکلیف» | kept as printed | |
 | 139 (pr. 138) | Arabic note | editor's note ends «لیز لن الغبار … عندهم ۵۱)» — «لیزلن» split, and «۵۱» is «اه» printed in reverse | written «لیز لن» as printed, «اه» for the reversed digits | |
 | 152 (pr. 151) | Arabic couplet | printed «لوامی زلیخا لو راین جبینه / لا ثرن بالقطع القلوب علی الیه» (the usual «لواحی … لآثرن بالقطع القلوب علی الید»; «الیه» for «الید») | kept as printed; index head the existing one with «بصورت» | |
+| 154 (pr. 153) | slip | «رسول اللہ صلی اللہ علیہ السلام» | kept as printed | |
