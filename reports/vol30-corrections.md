@@ -36,3 +36,4 @@
 | 95 (pr. 94) | gloss | the couplet «دلبراں گر دلبری…» has two glosses printed one after the other | both kept | |
 | 96–97 (pr. 95–96) | quotation | the compiler's Arabic note («قلت ویشہد لہ حدیث…») runs across the page break and contains التوبة ۱۸ | split into «…» before and after the ayah; closed at the page end | |
 | 97 (pr. 96) | citation | «مشکوٰۃ ۷۲۳۵» is printed for the hadith in a note that ends «لعذر آخر» | «مشکوٰۃ ۷۲۳» | the 5 is part of the bracket; the Mishkat number for this hadith is 723 |
+| 101 (pr. 100) | verse | «ایں خیال ست ومحال ست جنوں» printed run-in | kept as printed, not set as a verse | |
