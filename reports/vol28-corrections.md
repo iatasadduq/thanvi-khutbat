@@ -93,3 +93,6 @@
 | 0328 | pdf 406–407 | «…استاد سے اصلاح لینے سے بھی غصہ قابو میں آ جاوے تو غنیمت سمجھئے» spans the page break | written whole on pdf 406 |
 | 0328 | pdf 407–408 | «…اور انہی میں سے بعض نے یہ بہانہ نکالا ہے… ہم کو وہ حاصل ہے» spans the page break | written whole on pdf 407 |
 | 0328 | pdf 411–412 | «…اس کا بیان یہ ہے کہ جس کو یہ لوگ ظاہر محض کہتے ہیں… ترجیح دیتے ہیں» spans the page break | written whole on pdf 411 |
+| 0328 | pdf 412 | gloss «(کل سے جز بڑا ہوتا ہے)» for «الکل اعظم من الجزو» (reversed) | kept as printed |
+| 0328 | pdf 412 | «اس قعد کا اثر» («قصد» likely intended) | kept as printed |
+| 0328 | pdf 412–413 | «…چہ جائیکہ اللہ و رسول صلی اللہ علیہ وسلم جنہوں نے یہ سب احکام مقرر فرمائے» spans the page break | written whole on pdf 412 |
