@@ -76,3 +76,5 @@
 | 115 (pr. 114) | spelling | «اس کا مرض نہیں پہنچانا» | written «پہچانا» | |
 | 117 (pr. 116) | spelling | «چونکہ برمنت بہ بندد» | written «بر میخت» (the مثنوی's word, as elsewhere in the series) | |
 | 117 (pr. 116) | wording | «اگر یہ حدیث ثابت بھی نہ ہوتو تو» | kept as printed | |
+| 123 (pr. 122) | heading | «تعدد کثرت ازواج رسول کریمؐ میں حکمت» | ؐ written out as «صلی اللہ علیہ وسلم» in the heading | |
+| 123 (pr. 122) | wording | «ایک مجمع ایسا ہے بے تکلف تھا» | kept as printed | |
