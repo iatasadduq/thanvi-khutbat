@@ -109,3 +109,7 @@
 | 0418 | pdf 419–420 | «…ہاں جہاں کوئی فائدہ نہ ہو اور صرف تفاخر رہ جائے تو درست نہیں» spans the page break | written whole on pdf 419 |
 | 0418 | pdf 420–421 | «…اور دوسرے وقت وہی حضرات ایسے ایک دل ہو جائیں گویا منازعت کا ان میں مادہ ہی نہیں» spans the page break | written whole on pdf 420 |
 | 0418 | pdf 421 | «سوائے غنایت درجہ کے محقق ہونے» («غایت» intended) | kept as printed |
+| 0418 | pdf 422 | footnote «مسند الإمام أحمد ۲: ۱۷۷، الترغیب والترہیب للمنذری ۲: ۴۹۱ بلفظ: لا یستجیب لعبد دعاہ عن ظہر قلب غافل» is keyed to «لم یکذب» but belongs to الظاہر's hadith | transcribed on pdf 422 as printed |
+| 0418 | pdf 422–423 | «…انہوں نے مجھ کو بھی دی مگر میں نے نہیں لی» spans the page break | written whole on pdf 422 |
+| 0418 | pdf 423–424 | «…ہمارا ذہن ہی نہیں جاتا… الا ماشاء اللہ» spans the page break | written whole on pdf 423 |
+| 0418 | pdf 423 | «اس غلام پر حد جاری نہ کی» — the غلام is not introduced earlier in the text | kept as printed |
