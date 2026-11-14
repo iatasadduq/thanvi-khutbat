@@ -71,3 +71,4 @@
 | 415 (pr. 414) | parenthesis | the compiler's note ends «خوب سمجھ لو ۱۲ جامع)» with no opening bracket | kept as printed | the note probably begins at «اور اس واقعہ سے یہ شبہ نہ ہو» |
 | 423 (pr. 422) | misprint | «ایک پورانے مولوی صاحب» | kept as printed | probably «پرانے» |
 | 424 (pr. 423) | misprints | «جماعت سے بھی روک دیا گیا»; «یہ حاصل ہے دوسری تفسیر کا واللہ علم»; «تنزیہ کا حال استغناء ہے» | kept as printed | sense needs «جماع سے», «واللہ اعلم», «حاصل» |
+| 437 (pr. 436) | misprint | «تو اس آیت کو تخلیہ کو تحلیہ پر مقدم کیا گیا ہے» | kept as printed | sense needs «اس آیت میں» |
