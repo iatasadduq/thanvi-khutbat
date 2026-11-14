@@ -82,3 +82,4 @@
 | 126 (pr. 125) | spelling | couplet «ہر کہ عاشق دید بس معشوق داں» (elsewhere «دیدیش») | kept as printed; head unchanged | |
 | 127 (pr. 126) | wording | «یہ راہ عشق تقرب سے قطع نہیں ہوتا بلکہ تقربت سے ہوتا ہے» | kept as printed | |
 | 129 (pr. 128) | wording | couplet «کہ بیک گل می خرد انبار را» (elsewhere «می خری گلزار را») | kept as printed; head unchanged | |
+| 131 (pr. 130) | wording | «تو اگر تم کو علم ہوگا تو تم دس روپیہ کی چاندی خرید کر روپیہ دے دو گے اور اس میں سود کا گناہ ہوگا» (sense needs «علم نہ ہوگا») | kept as printed | owner to confirm |
