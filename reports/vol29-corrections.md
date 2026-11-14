@@ -72,3 +72,5 @@
 | 101 (pr. 100) | wording | «طالبات فضائل کے ساتھ تمسخر» («طالبان» intended?) | kept as printed | |
 | 102 (pr. 101) | ayah | «لنا اعمالنا ولکم اعمالکم» (2:139, 28:55, 42:15) | marked 28:55 | |
 | 109 (pr. 108) | wording | «اطاعت اختیار کرنے، اس کے بعد…» («کر لے» intended?) | kept as printed | |
+| 115 (pr. 114) | spelling | «گفت ہر دارد کہ ایشاں کردہ اند» | written «دارو» (the مثنوی's word, as elsewhere in the series) | |
+| 115 (pr. 114) | spelling | «اس کا مرض نہیں پہنچانا» | written «پہچانا» | |
