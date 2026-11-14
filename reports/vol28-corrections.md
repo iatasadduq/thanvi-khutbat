@@ -57,3 +57,4 @@
 | 0218 | pdf 264 | heading printed «لقاء مدارس دینیہ کی ہمہ وقت ضرورت» | misprint for «بقاء» (text: مدارس کی آمدنی میں کمی …); written «بقاء» |
 | 0266 | pdf 267 | citation printed «(النور آیت نمبر ۱ تا نمبر ۱۰)» | the ayat are سورۃ البلد 1–10; written «(البلد آیت نمبر ۱ تا نمبر ۱۰)» |
 | 0266 | pdf 266 | date «۲۲ ربیع الاول ۴۵ ہجری» (century omitted) | kept as printed; head gives «(۱۳)۴۵ھ» |
+| 0266 | pdf 272 | couplet printed «اویم زمین سفرہ عام اوست / چہ دشمن بریں خواہ بغما چہ دوست» | misprints for «ادیم» and «خوان یغما»; written «ادیم … چہ دشمن بریں خوان یغما چہ دوست» (existing head order kept) |
