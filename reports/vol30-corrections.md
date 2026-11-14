@@ -44,3 +44,4 @@
 | 113 (pr. 109) | wording | «شاہ صاحب کا قول بھی نہیں دیکھا تا» | kept as printed | |
 | 115 (pr. 114) | tool | mark_arabic read the Persian couplet «عشق جان طور آمد عاشقا ☆ طور مست وخر موسیٰ صاعقا» (Masnavi) as Arabic | added to the tool's NOT_ARABIC list, as earlier volumes did for single lines | other volumes' counts unchanged |
 | 120 (pr. 119) | title | the title page prints «العزة» (Arabic ة) and the scribe as «مو۔ عبد اللہ صاحب» | «العزۃ» as in the table of contents; «مولوی عبد اللہ صاحب» | |
+| 127 (pr. 126) | heading/index | «حضرت سید آدم» is not further identified in the text | index head «حضرت سید آدم بنوریؒ» (the well-known Naqshbandi shaykh exiled to the Hijaz under Shah Jahan) | reversible; only the index head |
