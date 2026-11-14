@@ -231,8 +231,9 @@ SIGNATURE = re.compile(r'^\(?(ظفر احمد عفا اللہ عنہ|اشرف ع
 # Urdu lines that look Arabic to the word test: a bare citation "(البقرہ آیت نمبر ۴۴)", a Hijri date on its own line,
 # a sermon part heading, a Persian name gloss (added 2026-11-11, Vol 19); a date line «۲۱ رمضان المبارک ۱۳۴۷ھ»,
 # a sermon's alternative title «الملقب بہ …», a Persian couplet line with Urdu letters (2026-11-12, Vol 20)
+# a Persian couplet of the Masnavi with no Urdu-only letters «عشق جان طور آمد عاشقا» (2026-11-14, Vol 30)
 NOT_ARABIC = re.compile(r'^\(?[^()«»]*آیت نمبر[^()«»]*\)?$|^[^ ]+ [^ ]+ [۰-۹]+ھ$|^جزو دوم|^با صدق و صفا'
-                        r'|^[۰-۹]+/? [^0-9۰-۹]+ [۰-۹]+ ?(ھ|ہجری)$|^الملقب بہ|^[^«»]* / [^«»]*[ٹڈڑںےگچپژ][^«»]*$|^[^«»]*[ٹڈڑںےگچپژ][^«»]* / [^«»]*$')
+                        r'|^[۰-۹]+/? [^0-9۰-۹]+ [۰-۹]+ ?(ھ|ہجری)$|^الملقب بہ|^عشق جان طور آمد عاشقا|^[^«»]* / [^«»]*[ٹڈڑںےگچپژ][^«»]*$|^[^«»]*[ٹڈڑںےگچپژ][^«»]* / [^«»]*$')
 
 
 def process(lines, Q, report, page, decisions=None):
