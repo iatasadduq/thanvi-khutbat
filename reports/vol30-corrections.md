@@ -55,3 +55,4 @@
 | 170 (pr. 169) | title page | the title (pr. 169) and the description line are on two halves of one PDF page | written together on `=== 170 | 169` | |
 | 175 (pr. 174) | wording | «حقیقت میں یہ محض ہیبت ہے اختیاری چیز نہیں» (the sense needs «وہبت/موہبت», gift) | kept as printed | |
 | 175 (pr. 174) | wording | «حکمت ان کاموں کے اختیار کرنے میں» (for «ناموں») | kept as printed | |
+| 178 (pr. 177) | heading | the heading «بلا وجہ رخصت شرعیہ پر عمل کرنا مذموم ہے» introduces a passage that blames needless «عزیمت» (avoiding the رخصت) | kept as printed | the heading probably means «ترک رخصت» |
