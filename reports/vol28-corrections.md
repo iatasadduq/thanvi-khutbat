@@ -28,3 +28,4 @@
 | 155 (pr. 154) | misprint? | «ہر طالب علمے کو چون و چرا نکند … در چراگاہ باید فرست» — probably «کہ» and «فرستاد»; also «بلکہ وہ تو محض کسب تکوینی سے» (probably «کشف تکوینی») | kept as printed | |
 | 158 (pr. 157) | history | «یونان نے ترکی حکومت کو شکست دے کر ادریانوپل وغیرہ فتح کر لئے تھے» — Adrianople fell in 1913 to Bulgaria (with Serbia), not Greece | kept as printed | |
 | 168 (pr. 167) | misprints | «بلاد سباط» for «سبا»; «من لم شکر الناس» drops «یَ» | kept as printed | |
+| 169 (pr. 168) | Arabic dua | editor's addition «… دائما ابدا احمد الا یرید قائله الا رضاک» — garbled ending (probably «دائما ابدا لا یرید قائله الا رضاک») | kept as printed | |
