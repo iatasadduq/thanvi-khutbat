@@ -30,3 +30,4 @@
 | 168 (pr. 167) | misprints | «بلاد سباط» for «سبا»; «من لم شکر الناس» drops «یَ» | kept as printed | |
 | 169 (pr. 168) | Arabic dua | editor's addition «… دائما ابدا احمد الا یرید قائله الا رضاک» — garbled ending (probably «دائما ابدا لا یرید قائله الا رضاک») | kept as printed | |
 | 172 (pr. 171) | misprint? | «جن کاموں میں اس مضمون کا غلط ہونا نہیں پڑا ہے» — probably «جن کانوں میں … پڑا» | kept as printed | |
+| 174 (pr. 173) | misprints | «مسئلہ مجوثہ» / «مجوث فیہما» for «مبحوثہ» / «مبحوث فیہا» | kept as printed | |
