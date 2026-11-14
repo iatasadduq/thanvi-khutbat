@@ -67,3 +67,4 @@
 | 385 (pr. 384) | misprint | «بلکہ مقصود طریق اعمال ہی نہیں» | kept as printed | sense needs «اعمال ہی ہیں» |
 | 402 (pr. 401) | misprint | «اور کنیات متعارضہ میں معیت» | kept as printed | probably «کیفیات متعارضہ» |
 | 403 (pr. 402) | Persian | the compiler's paraphrase «شب چو عقید نماز… چہ خورد بلداد فرزندم» | kept as printed | probably «عقد» and «بامداد» |
+| 412 (pr. 411) | misprint | «کلید مثنوی دفتر اول قبول کردن خلیفہ ہدیہ راتحت شعر گنج مخفی بدز پیری جوش کرد» | kept as printed | probably «…ہدیہ را، تحت شعر گنج مخفی بد ز پُری جوش کرد»; «ہشد ہم» probably «ہشتم» or «ہژدہم» |
