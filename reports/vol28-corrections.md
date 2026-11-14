@@ -63,3 +63,5 @@
 | 0266 | pdf 283 | heading printed «لین دین کے دو درجے» (text: «لین کے دو درجے») | kept as printed (heading wording) |
 | 0266 | pdf 283 | «اس کے دل میں مصیبت کر کے» (sense «مصیبت دیکھ کر»?) | kept as printed |
 | 0266 | pdf 284 | the unnamed «ولایتی بزرگ» of Allahabad | linked to existing heads «محمدی شاہ صاحب (الہ آباد)» and «حافظ عبد الرحمٰن بکھروی» (same story); reversible |
+| 0266 | pdf 285 | 29:65 printed «وَاِذَا رَکِبُوْا» (mushaf «فَاِذَا») | marked with the mushaf slice «فَاِذَا»; misquote of the conjunction |
+| 0266 | pdf 285 | heading printed «کفر دوں» | written «کفر دون کفر» (the known phrase; context «محاورہ») |
