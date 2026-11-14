@@ -91,3 +91,5 @@
 | 388 (pr. 387) | punctuation | the gloss of «مستریح او مستراح منہ» opens «(یعنی…» with no closing bracket; closed after «راحت ہو گئی» | closed | |
 | 388 (pr. 387) | wording | the hadith is printed «هل ترزقون تنصرون الا بضعفاكم» (no واو, «بضعفاكم» for «بضعفائكم»); written «ہل ترزقون وتنصرون الا بضعفائکم» — reversible | corrected | |
 | 401 (pr. 400) | punctuation | the gloss of the closing couplets opens «(اس راہ سلوک…» with no closing bracket; closed after «بن جائے گا» | closed | |
+| 403 (pr. 402) | wording | the khutba hadith ends «وفیہم عود» (for «تعود»), and has «مساجد ہم» / «علماء ہم» split; written «وفیہم تعود», «مساجدہم», «علماؤہم» | corrected | |
+| 403 (pr. 402) | wording | «انفسی وروحی فداہ» (the first letter is unclear in the scan) written «نفسی وروحی فداہ» — reversible | corrected | |
