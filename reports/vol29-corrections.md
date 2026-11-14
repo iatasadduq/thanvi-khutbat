@@ -40,4 +40,6 @@
 | 59 (pr. 58) | wording | «تکمیل حقیقی تو درسی ہو گی جس کے معنی تیس سال» (a pun on «درسی» = dar-sī «thirty»?) | kept as printed | |
 | 59 (pr. 58) | wording | «مطلع بالکل صاف کر دیا» | kept as printed | |
 | 60 (pr. 59) | wording | «چشتیہ… اول تخلیہ کرتے ہیں پھر تجلیہ اور نقشبندیہ… اول تحلیہ کرتے ہیں پھر تجلیہ» («تحلیہ»/«تخلیہ» probably intended for the second «تجلیہ» in each) | kept as printed | owner to check |
-| 60–61 (pr. 59–60) | page break | «…مشائخ اس» continues on pdf 61 | kept at the break | |
+| 60–61 (pr. 59–60) | page break | «…مشائخ اس کو ایک دوسرے کے پاس بھیج دیا کرتے تھے» spans the break | written whole on pdf 60 | |
+| 61 (pr. 60) | wording | «بعض دفعہ سلوک بصورت جذب نہیں ہوتا ہے» («بصورت جذب ہوتا ہے» intended?) | kept as printed | |
+| 61–62 (pr. 60–61) | page break | «…اسی واسطے ناواقف اس» continues on pdf 62 | kept at the break | |
