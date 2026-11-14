@@ -51,3 +51,4 @@
 | 156 (pr. 155) | ayah | «سبح اسم ربک الاعلیٰ الذی» runs into the first word of الاعلیٰ ۲ | marked as الاعلیٰ ۱ + ۲ (one word) | |
 | 158 (pr. 157) | index | «ناظم صاحب مولف نظام الاوقات» / «مولوی عبید اللہ صاحب» | indexed under «حضرت مولانا عبید اللہ سندھیؒ» (ناظم جمعیۃ الانصار in the previous address) | identification, reversible |
 | 158 (pr. 157) | verse | the متنبی line is printed «ولا فضل فینا للسماحۃ والندی وفضل الفنی لولا لقاء الشعوب» | «الفتی» for «الفنی» | as the known verse |
+| 167 (pr. 166) | wording | «جو لوگ خلاف شریعت کام کرتے ہیں ان کو چاہئے کہ اصرار کریں اور اس کے جواز کا فتویٰ بھی دے دیں» (the sense, and the next point, require «نہ کریں … نہ دیں») | kept as printed | probably «نہ» dropped in print |
