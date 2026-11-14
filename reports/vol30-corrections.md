@@ -72,3 +72,5 @@
 | 246 (pr. 245) | wording | «ہم نے احسان کیا تھا» is printed twice in succession in the ilham sentence (a dittography) | kept as printed | |
 | 248 (pr. 247) | ayah | «اذبحوا بقرہ» (and the hypothetical «لا تذبحوا بقرہ») is a paraphrase of البقرة ۶۷ «اَنۡ تَذۡبَحُوۡا بَقَرَةً», not its wording; marked «…» and indexed under البقرة ۶۷ | «…» | |
 | 248 (pr. 247) | attribution | the couplet «نقض امر از کسر…» is introduced «مولانا الٰہی بخش فرماتے ہیں» (Mawlana Ilahi Bakhsh Kandhlawi's completion of the Masnavi) while the Ayaz story is credited to «مولانا» (Rumi) | kept as printed | |
+| 252 (pr. 251) | hadith | the hadith is printed «نعم المال للرجل الصالح» (the usual wording is «نعم المال الصالح للرجل الصالح», which the gloss «نیک آدمی کے لئے نیک مال» renders) | kept as printed; indexed under the existing head with بصورت | |
+| 252 (pr. 251) | hadith | the closing words of the theme hadith are printed «ولکن ینظر الی اعمالکم ونیاتکم» (on pdf 225 they are «نیاتکم واعمالکم») | kept as printed | |
