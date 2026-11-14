@@ -20,3 +20,4 @@
 | 125 (pr. 124) | parenthesis | the editor's note «قلت و اخرج الحاکم … و صححه هو و الذهبی ص ۱۱۹ ج ۱)» closes a parenthesis that never opens | kept as printed | |
 | 130 (pr. 129) | Quran wording | 4:93 printed «وَمَنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدًا» | marked with the reference text «وَمَنۡ يَّقۡتُلۡ مُؤۡمِنًا مُّتَعَمِّدًا» | |
 | 131 (pr. 130) | misprint | «اور اگر فطرۃً طالع ہے» — probably «طالح» (opposite of «صالحہ») | kept as printed | |
+| 136 (pr. 135) | date | «۵ رجمادی الثانی ۱۳۴۷» — «ر» is the date separator («۵/جمادی الثانی») | written «۵ رجمادی الثانی» as printed; index «۵ جمادی الثانی» | |
