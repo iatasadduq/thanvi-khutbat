@@ -20,3 +20,4 @@
 | 59 (pr. 58) | wording | «جب مجھ سے مولوی صاحب موصوف نے اس بات میں کچھ لکھنے واقعی میں خالی الذہن تھا کو فرمایا» (the clause order is broken in print) | kept as printed | |
 | 59 (pr. 58) | heading | «حضرت مولانا عبید اللہ صاحب سندھیؒ» | kept as the heading; index head «حضرت مولانا عبید اللہ سندھیؒ» | |
 | 60 (pr. 59) | title | title page prints «بصورة الصیام» (Arabic ة) | «بصورۃ», as in the table of contents | |
+| 65 (pr. 64) | wording | «یہ تقلید ہزاروں لذتوں کا سبب ہے» (the argument is about «تقیید», restriction) | kept as printed | probably a misprint for «تقیید» |
