@@ -39,3 +39,4 @@
 | 101 (pr. 100) | verse | «ایں خیال ست ومحال ست جنوں» printed run-in | kept as printed, not set as a verse | |
 | 104 (pr. 103) | citation | after the citation «(…سنن ابن ماجۃ ۴۰۱۶)» a stray «۱۵» is printed | kept as printed | probably «اہ» (end of quotation) |
 | 104 (pr. 103) | wording | «تم سے ظاہری مسکین میں بھی اچھے ہیں» (for «مساکن») | kept as printed | |
+| 105 (pr. 104) | wording | «اول احیاء العلوم بھی دیکھی تو مگر» (a stray «تو») | kept as printed | |
