@@ -107,3 +107,5 @@
 | 0418 | pdf 418 | «قصبہ بڑھل ہاتھی پر» on the title page (pdf 419 has «بڑھل گنج») | kept as printed |
 | 0418 | pdf 418 | ادب الاعلام is a تقریر with no خطبہ ماثورہ; pdf 419 opens with «بسم اللہ الرحمن الرحیم» and the compiler's note | no خطبہ ماثورہ page written |
 | 0418 | pdf 419–420 | «…ہاں جہاں کوئی فائدہ نہ ہو اور صرف تفاخر رہ جائے تو درست نہیں» spans the page break | written whole on pdf 419 |
+| 0418 | pdf 420–421 | «…اور دوسرے وقت وہی حضرات ایسے ایک دل ہو جائیں گویا منازعت کا ان میں مادہ ہی نہیں» spans the page break | written whole on pdf 420 |
+| 0418 | pdf 421 | «سوائے غنایت درجہ کے محقق ہونے» («غایت» intended) | kept as printed |
