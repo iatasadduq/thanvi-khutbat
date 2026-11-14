@@ -63,3 +63,4 @@
 | 194 (pr. 193) | punctuation | the gloss of the سنجر couplets opens «(ان کو توجہ میں…» and is never closed | kept as printed | |
 | 194 (pr. 193) | attribution | the couplets «چوں چتر سنجری…» are attributed in print to «حضرت غوث اعظم» (they are usually ascribed to Shaykh Abdul Qadir's contemporary, Sanjar's correspondent) | kept as printed; indexed under the existing heads | |
 | 217 (pr. 216) | wording | «تو اس کے معنی یہی ہوتے کہ اطاعت اختیار کرو اور باغی نہ بنو» is printed twice in succession (a dittography) | kept as printed | |
+| 225 (pr. 224) | khutba | the khutba ends «اما بعد: اعوذ باللہ من الشیطن الرجیم بسم اللہ الرحمن الرحیم»; the standard khutba text is used (it includes these words) | standard khutba | |
