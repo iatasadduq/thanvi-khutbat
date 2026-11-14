@@ -104,3 +104,4 @@
 | 457 (pr. 456) | punctuation | the bracket opened at «(یہ اور بات ہے کہ نجیب الطرفین…» is not closed; closed after «۱۲» | closed | |
 | 458 (pr. 457) | wording | «اربعة» (four) is glossed «چالیس غلام» (forty); kept as printed | kept as printed | |
 | 458 (pr. 457) | wording | «اور ران میں ماں کے تابع ہو کر» — «ران» is probably a misprint for «رق»; kept as printed | kept as printed | |
+| 465 (pr. 464) | punctuation | the brackets opened at «(لوگ تو اس سے مزے لے رہے تھے…» and at the gloss «(ذوق اس شراب کی حقیقت…» are not closed; the second is closed after «نہ دیکھو», the first kept as printed | partly closed | |
